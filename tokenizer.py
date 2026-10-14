@@ -18,6 +18,7 @@ pitches = [
 rest_lines = ['_1', '_2', '_3', '_4', '_5']
 beams = ['L', 'J']
 color = ['~']
+fermata = [';']
 
 def make_pattern(items):
     return '|'.join(
@@ -32,6 +33,7 @@ accid_pattern = make_pattern(accids)
 restline_pattern = make_pattern(rest_lines)
 beamed_pattern = make_pattern(beams)
 coloration_pattern = make_pattern(color)
+fermata_pattern = make_pattern(fermata)
 
 pattern = re.compile(
     rf'(?P<ligature_start>{ligature_pattern})?'
@@ -40,6 +42,7 @@ pattern = re.compile(
     rf'(?P<pitch>{pitch_pattern})'
     rf'(?P<restline>{restline_pattern})?'
     rf'(?P<accidental>{accid_pattern})?'
+    rf'(?P<fermata>{fermata_pattern})?'
     rf'(?P<ligature_end>{ligature_pattern})?'
     rf'(?P<beam>{beamed_pattern})?'
 )
@@ -68,3 +71,16 @@ for file_path in input_dir.rglob("*.lmx"):
             components = tokenize(mens_token)
             outfile_subtokenized.write(" ".join(components) + "\n")
     print(f"Processed: {file_path}")
+
+# Error in: guat-zeus-formatted-dataset/samples/01_Asperges-me/Folio2r_Region25094.lmx ('Mfy', the 'y' with no accidental, whould be '#y')
+# Error in: guat-zeus-formatted-dataset/samples/10_Missa-TorresyMartinezBravo/Folio72r_Region35190.lmx and Folio79r_Region35315.lmx ('MByy', should be 'MBn X?')
+accids = [
+    '#', '-', 'n', 
+    '#y', '-y', 'ny', 
+    '#X', '-X', 'nX', 
+    'yy', '-yy', 'X#',
+    'X-', 'Xn',
+    'y#', 'y-', 'yn',
+    '#yy', 'nyy',
+    '#XX', '-XX', 'nXX',
+    '#xx', '-xx', 'nxx']
