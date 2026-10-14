@@ -17,6 +17,7 @@ pitches = [
 ]
 rest_lines = ['_1', '_2', '_3', '_4', '_5']
 beams = ['L', 'J']
+color = ['~']
 
 def make_pattern(items):
     return '|'.join(
@@ -30,10 +31,12 @@ ligature_pattern = make_pattern(ligatures)
 accid_pattern = make_pattern(accids)
 restline_pattern = make_pattern(rest_lines)
 beamed_pattern = make_pattern(beams)
+coloration_pattern = make_pattern(color)
 
 pattern = re.compile(
     rf'(?P<ligature_start>{ligature_pattern})?'
     rf'(?P<shape>{shape_pattern})'
+    rf'(?P<color>{coloration_pattern})?'
     rf'(?P<pitch>{pitch_pattern})'
     rf'(?P<restline>{restline_pattern})?'
     rf'(?P<accidental>{accid_pattern})?'
