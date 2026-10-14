@@ -16,7 +16,8 @@ accids = [
     'y#', 'y-', 'yn',
     '#yy', 'nyy',
     '#XX', '-XX', 'nXX',
-    '#xx', '-xx', 'nxx']
+    '#xx', '-xx', 'nxx',
+    'y']
 pitches = [
     'r',
     'CC', 'DD', 'EE', 'FF', 'GG', 'AA', 'BB',
