@@ -16,6 +16,7 @@ pitches = [
     'cc', 'dd', 'ee', 'ff', 'gg', 'aa', 'bb',
 ]
 rest_lines = ['_1', '_2', '_3', '_4', '_5']
+beams = ['L', 'J']
 
 def make_pattern(items):
     return '|'.join(
@@ -28,6 +29,7 @@ pitch_pattern = make_pattern(pitches)
 ligature_pattern = make_pattern(ligatures)
 accid_pattern = make_pattern(accids)
 restline_pattern = make_pattern(rest_lines)
+beamed_pattern = make_pattern(beams)
 
 pattern = re.compile(
     rf'(?P<ligature_start>{ligature_pattern})?'
@@ -36,6 +38,7 @@ pattern = re.compile(
     rf'(?P<restline>{restline_pattern})?'
     rf'(?P<accidental>{accid_pattern})?'
     rf'(?P<ligature_end>{ligature_pattern})?'
+    rf'(?P<beam>{beamed_pattern})?'
 )
 
 def tokenize(mens_token):
