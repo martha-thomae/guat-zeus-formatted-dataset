@@ -49,9 +49,7 @@ def tokenize(mens_token):
         for value in match.groups()
         if value is not None
     ]
-    # if match:
-    #     return match.groupdict()
-    # return {'unmatched': mens_token}
+
 
 input_dir = Path("samples")
 for file_path in samples_dir.rglob("*.lmx"):
