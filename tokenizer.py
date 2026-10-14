@@ -58,7 +58,7 @@ for file_path in input_dir.rglob("*.lmx"):
 
     with file_path.open("w", encoding="utf-8") as outfile_subtokenized:
         for line in lines:
-            mens_token = line.stip()
+            mens_token = line.strip()
             components = tokenize(mens_token)
             outfile_subtokenized.write(" ".join(components) + "\n")
     print(f"Processed: {file_path}")
