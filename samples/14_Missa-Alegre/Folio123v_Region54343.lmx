@@ -14,7 +14,7 @@ s g
 M f #
 M g
 M b -
-sb-y
+s b -y
 s a
 M r _3
 s b -

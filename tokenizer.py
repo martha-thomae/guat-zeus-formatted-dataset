@@ -8,7 +8,9 @@ noteshapes = [
 ]
 ligatures = ['[', ']']
 accids = [
-    '#', '-', 'n']
+    '#', '-', 'n', 
+    '#y', '-y', 'ny', 
+    '#X', '-X', 'nX']
 pitches = [
     'r',
     'CC', 'DD', 'EE', 'FF', 'GG', 'AA', 'BB',
