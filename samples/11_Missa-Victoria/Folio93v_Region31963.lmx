@@ -19,7 +19,7 @@ s a
 s b
 S cc
 s b
-s~cc
-S~a
+s ~ cc
+S ~ a
 S. b
 ==

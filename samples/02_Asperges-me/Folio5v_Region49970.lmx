@@ -1,15 +1,15 @@
 *clefC3
 [ s AA
 s BB ]
-[S~c
-S~d]
-S~d
-S~d
+[ S ~ c
+S ~ d ]
+S ~ d
+S ~ d
 [ s AA
 s BB ]
-S~e
-[L~e
-L~d]
-[S~d
-S~e]
+S ~ e
+[ L ~ e
+L ~ d ]
+[ S ~ d
+S ~ e ]
 =
