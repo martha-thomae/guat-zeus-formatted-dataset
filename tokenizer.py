@@ -53,14 +53,14 @@ def tokenize(mens_token):
     #     return match.groupdict()
     # return {'unmatched': mens_token}
 
-input_file = Path("./samples/01_Asperges-me/Folio1v_Region25073.lmx")
-output_file = Path("./example-of-tokenizer/Folio1v_Region25073_SUBTOKENIZED.lmx")
+input_dir = Path("samples")
+for file_path in samples_dir.rglob("*.lmx"):
+    with file_path.open("r", encoding="utf-8") as infile_mensstaff:
+        lines = infile_mensstaff.readlines()
 
-with input_file.open("r", encoding="utf-8") as infile_mensstaff, \
-     output_file.open("w", encoding="utf-8") as outfile_subtokenized:
-
-    for line in infile_mensstaff:
-        mens_token = line.strip()
-        components = tokenize(mens_token)
-
-        outfile_subtokenized.write(" ".join(components) + "\n")
+    with file_path.open("w", encoding="utf-8") as outfile_subtokenized:
+        for line in lines:
+            mens_token = line.stip()
+            components = tokenize(mens_token)
+            outfile_subtokenized.write(" ".join(components) + "\n")
+    print(f"Processed: {file_path}")
