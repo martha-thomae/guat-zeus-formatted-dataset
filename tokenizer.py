@@ -10,7 +10,8 @@ ligatures = ['[', ']']
 accids = [
     '#', '-', 'n', 
     '#y', '-y', 'ny', 
-    '#X', '-X', 'nX']
+    '#X', '-X', 'nX', 
+    'X#']
 pitches = [
     'r',
     'CC', 'DD', 'EE', 'FF', 'GG', 'AA', 'BB',

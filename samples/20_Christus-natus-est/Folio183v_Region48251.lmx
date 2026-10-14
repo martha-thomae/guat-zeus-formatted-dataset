@@ -3,11 +3,11 @@
 S cc
 [ s b -
 s a
-SbX#
+S b X#
 L cc ; ]
 S g
 [ s a
-sbX#]
+s b X# ]
 S cc
 S r _3
 s r _3
