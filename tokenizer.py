@@ -7,7 +7,8 @@ noteshapes = [
     '*custos'
 ]
 ligatures = ['[', ']']
-accids = ['#', '-']
+accids = [
+    '#', '-', 'n']
 pitches = [
     'r',
     'CC', 'DD', 'EE', 'FF', 'GG', 'AA', 'BB',
@@ -74,13 +75,3 @@ for file_path in input_dir.rglob("*.lmx"):
 
 # Error in: guat-zeus-formatted-dataset/samples/01_Asperges-me/Folio2r_Region25094.lmx ('Mfy', the 'y' with no accidental, whould be '#y')
 # Error in: guat-zeus-formatted-dataset/samples/10_Missa-TorresyMartinezBravo/Folio72r_Region35190.lmx and Folio79r_Region35315.lmx ('MByy', should be 'MBn X?')
-accids = [
-    '#', '-', 'n', 
-    '#y', '-y', 'ny', 
-    '#X', '-X', 'nX', 
-    'yy', '-yy', 'X#',
-    'X-', 'Xn',
-    'y#', 'y-', 'yn',
-    '#yy', 'nyy',
-    '#XX', '-XX', 'nXX',
-    '#xx', '-xx', 'nxx']
