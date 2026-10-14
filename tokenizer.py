@@ -52,7 +52,7 @@ def tokenize(mens_token):
 
 
 input_dir = Path("samples")
-for file_path in samples_dir.rglob("*.lmx"):
+for file_path in input_dir.rglob("*.lmx"):
     with file_path.open("r", encoding="utf-8") as infile_mensstaff:
         lines = infile_mensstaff.readlines()
 
