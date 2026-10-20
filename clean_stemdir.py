@@ -1,27 +1,13 @@
 downstem_char = "\\"
 upstem_char = "/"
 
-# Guatemala: "C1", "C2", "C3", "C4" \ "F3", "F4" \ "G2"
 pitches = ["CC", "DD", "EE", "FF", "GG", "AA", "BB",
             "C", "D", "E", "F", "G", "A", "B", 
             "c", "d", "e", "f", "g", "a", "b", 
             "cc", "dd", "ee", "ff", "gg", "aa", "bb"
 ]
 
-# default_stemdown_pitches = {
-#     "*clefC1": ["a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
-#     "*clefC2": ["f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
-#     "*clefC3": ["d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
-#     "*clefC4": ["B", "c", "d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
-#     "*clefC5": ["G", "A", "B", "c", "d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
-#     "*clefF1": ["d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
-#     "*clefF2": ["B", "c", "d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
-#     "*clefF3": ["G", "A", "B", "c", "d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
-#     "*clefF4": ["E", "F", "G", "A", "B", "c", "d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
-#     "*clefF5": ["C", "D", "E", "F", "G", "A", "B", "c", "d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
-#     "*clefG2": ["cc", "dd", "ee", "ff", "gg", "aa", "bb"]
-# } # above line no. 3
-
+# Guatemala's clefs: "C1", "C2", "C3", "C4" \ "F3", "F4" \ "G2"
 default_stemdown_pitches = {
     "*clefC1": pitches[19:27],
     "*clefC2": pitches[17:25],
