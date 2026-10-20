@@ -45,12 +45,16 @@ for folder in directory.iterdir():
                     if downstem_char in line:
                         pitch = find_pitch_subtoken(line)
                         if pitch in pitches_above_line3:
+                            print(pitch, downstem_char, "remove")
                             remove(downstem_char) # in this case, the encoding of the stem direction is redundant  #DEFINE FUNCTION
                         else:
+                            print(pitch, downstem_char, "preserve")
                             pass # leave the stem, as it indicates something different from the default
                     elif upstem_char in line:
                         pitch = find_pitch_subtoken(line)
                         if pitch in pitches_above_line3:
+                            print(pitch, upstem_char, "preserve")
                             pass # leave the stem, as it indicates something different from the default
                         else:
+                            print(pitch, upstem_char, "remove")
                             remove(upstem_char) # in this case, the encoding of the stem direction is redundant 
