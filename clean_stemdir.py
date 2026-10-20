@@ -1,0 +1,66 @@
+downstem_char = "\\"
+upstem_char = "/"
+
+# Guatemala: "C1", "C2", "C3", "C4" \ "F3", "F4" \ "G2"
+pitches = ["CC", "DD", "EE", "FF", "GG", "AA", "BB",
+            "C", "D", "E", "F", "G", "A", "B", 
+            "c", "d", "e", "f", "g", "a", "b", 
+            "cc", "dd", "ee", "ff", "gg", "aa", "bb"
+]
+
+# default_stemdown_pitches = {
+#     "*clefC1": ["a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
+#     "*clefC2": ["f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
+#     "*clefC3": ["d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
+#     "*clefC4": ["B", "c", "d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
+#     "*clefC5": ["G", "A", "B", "c", "d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
+#     "*clefF1": ["d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
+#     "*clefF2": ["B", "c", "d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
+#     "*clefF3": ["G", "A", "B", "c", "d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
+#     "*clefF4": ["E", "F", "G", "A", "B", "c", "d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
+#     "*clefF5": ["C", "D", "E", "F", "G", "A", "B", "c", "d", "e", "f", "g", "a", "b", "cc", "dd", "ee", "ff", "gg", "aa", "bb"],
+#     "*clefG2": ["cc", "dd", "ee", "ff", "gg", "aa", "bb"]
+# } # above line no. 3
+
+default_stemdown_pitches = {
+    "*clefC1": pitches[19:27],
+    "*clefC2": pitches[17:25],
+    "*clefC3": pitches[15:23],
+    "*clefC4": pitches[13:21],
+    "*clefC5": pitches[11:19],
+    "*clefF1": pitches[15:23],
+    "*clefF2": pitches[13:21],
+    "*clefF3": pitches[11:19],
+    "*clefF4": pitches[9:17],
+    "*clefF5": pitches[7:15],
+    "*clefG2": pitches[21:29]
+} # from space 3 (to an octave above), the pitches are supposed
+  # to have a stem on the downward direction (\) by default
+
+for folder in directory.iterdir():
+    if folder.is_dir():
+        print(f"Folder: {folder.name}")
+        for file in folder.iterdir():
+            if file.is_file() and file.suffix == ".lmx":
+                print(f". File: {file.name}")
+                with file.open("r", encoding="utf-8") as infile:
+                    content = infile.readlines()
+                clef = content[0].rstrip('\n')
+                pitches_above_line3 = default_stemdown_pitches[clef]
+                for line in content[1:]:
+                    if downstem_char in line:
+                        pitch = find_pitch_token()  #DEFINE FUNCTION
+                        if pitch in pitches_above_line3:
+                            remove(downstem_char) # redundant info  #DEFINE FUNCTION
+                        else:
+                            pass # leave the stem, as it indicates something different from the default
+                    elif upstem_char in line:
+                        pitch = find_pitch_token()
+                        if pitch in pitches_above_line3:
+                            pass # leave the stem, as it indicates something different from the default
+                        else:
+                            remove(upstem_char) # redundant info
+
+
+                    
+
