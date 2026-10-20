@@ -12,7 +12,7 @@ sg
 Mg
 Sg
 Mf
-M.d
+M:d
 me
 mf
 mg
@@ -23,8 +23,8 @@ mf
 me
 md
 se
-M.f
+M:f
 me\
-S.d
+S:d
 Sd;
 ==

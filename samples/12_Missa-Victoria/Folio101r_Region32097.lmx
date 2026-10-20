@@ -4,7 +4,7 @@ sg
 Mg
 Mf
 Md
-M.f
+M:f
 mf
 Me
 mc
@@ -20,7 +20,7 @@ sr_3
 Mr_2
 sd
 Mc#
-M.d
+M:d
 me
 mf
 mg
@@ -28,7 +28,7 @@ sf
 Me\
 Sf
 Mr_3
-M.e\
+M:e\
 me\
 Mf#
 Mg

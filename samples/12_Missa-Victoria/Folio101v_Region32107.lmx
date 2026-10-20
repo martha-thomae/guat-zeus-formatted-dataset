@@ -4,14 +4,14 @@ sr_2
 sg
 Mg
 Mg
-s.dd
+s:dd
 Mdd
 See
 scc
 sdd
 Mee
 Mff
-s.gg
+s:gg
 Mff
 Mee
 sdd
@@ -19,7 +19,7 @@ Mcc#
 Sdd
 Sr_3
 sr_3
-M.dd
+M:dd
 mdd
 Mdd
 Mcc
