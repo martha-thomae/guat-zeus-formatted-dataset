@@ -1,3 +1,5 @@
+import re
+
 downstem_char = "\\"
 upstem_char = "/"
 
@@ -23,20 +25,17 @@ default_stemdown_pitches = {
 } # from space 3 (to an octave above), the pitches are supposed
   # to have a stem on the downward direction (\) by default
 
-ref_pitches = sorted(pitches, key=len, reverse=True)
+pattern = re.compile("|".join(re.escape(p) for p in sorted(pitches, key=len, reverse=True)))
 def find_pitch_subtoken(line):
-    for pitch in ref_pitches:
-        if pitch in line:
-            return pitch
-    return None
-#MAYBE IS EASIER WITH A REGULAR EXPRESSION TO find if any of the pitches (with an 'OR') are there
+    match = pattern.search(line)
+    return match.group() if match else None
 
 for folder in directory.iterdir():
     if folder.is_dir():
-        print(f"Folder: {folder.name}")
+        #print(f"Folder: {folder.name}")
         for file in folder.iterdir():
             if file.is_file() and file.suffix == ".lmx":
-                print(f". File: {file.name}")
+                #print(f". File: {file.name}")
                 with file.open("r", encoding="utf-8") as infile:
                     content = infile.readlines()
 
@@ -44,7 +43,7 @@ for folder in directory.iterdir():
                 pitches_above_line3 = default_stemdown_pitches[clef]
                 for line in content[1:]:
                     if downstem_char in line:
-                        pitch = find_pitch_subtoken(line)  #DEFINE FUNCTION
+                        pitch = find_pitch_subtoken(line)
                         if pitch in pitches_above_line3:
                             remove(downstem_char) # in this case, the encoding of the stem direction is redundant  #DEFINE FUNCTION
                         else:
