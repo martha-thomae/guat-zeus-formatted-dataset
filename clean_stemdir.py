@@ -55,7 +55,3 @@ for folder in directory.iterdir():
                             pass # leave the stem, as it indicates something different from the default
                         else:
                             remove(upstem_char) # in this case, the encoding of the stem direction is redundant 
-
-
-                    
-
