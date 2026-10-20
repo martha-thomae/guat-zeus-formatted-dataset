@@ -55,7 +55,7 @@ for folder in directory.iterdir():
                             pitch = find_pitch_subtoken(line)
                             if pitch in pitches_above_line3:
                                 # Remove the downward stem as it is redundant information
-                                line.replace(downstem_char, "")
+                                line = line.replace(downstem_char, "")
                             else:
                                 # Leave the (downward) stem, as it indicates something different from the default
                                 pass
@@ -66,5 +66,6 @@ for folder in directory.iterdir():
                                 pass
                             else:
                                 # Remove the upward stem as it is redundant information
-                                line.replace(upstem_char, "") # in this case, the encoding of the stem direction is redundant 
+                                line = line.replace(upstem_char, "") # in this case, the encoding of the stem direction is redundant 
+                        outfile.write(line)
                 print(f". File: {file.name} -> Processed")
