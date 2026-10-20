@@ -2,9 +2,9 @@ downstem_char = "\\"
 upstem_char = "/"
 
 pitches = ["CC", "DD", "EE", "FF", "GG", "AA", "BB",
-            "C", "D", "E", "F", "G", "A", "B", 
-            "c", "d", "e", "f", "g", "a", "b", 
-            "cc", "dd", "ee", "ff", "gg", "aa", "bb"
+    "C", "D", "E", "F", "G", "A", "B", 
+    "c", "d", "e", "f", "g", "a", "b", 
+    "cc", "dd", "ee", "ff", "gg", "aa", "bb"
 ]
 
 # Guatemala's clefs: "C1", "C2", "C3", "C4" \ "F3", "F4" \ "G2"
