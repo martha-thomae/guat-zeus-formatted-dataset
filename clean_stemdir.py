@@ -31,13 +31,14 @@ for folder in directory.iterdir():
                 print(f". File: {file.name}")
                 with file.open("r", encoding="utf-8") as infile:
                     content = infile.readlines()
+
                 clef = content[0].rstrip('\n')
                 pitches_above_line3 = default_stemdown_pitches[clef]
                 for line in content[1:]:
                     if downstem_char in line:
                         pitch = find_pitch_token()  #DEFINE FUNCTION
                         if pitch in pitches_above_line3:
-                            remove(downstem_char) # redundant info  #DEFINE FUNCTION
+                            remove(downstem_char) # in this case, the encoding of the stem direction is redundant  #DEFINE FUNCTION
                         else:
                             pass # leave the stem, as it indicates something different from the default
                     elif upstem_char in line:
@@ -45,7 +46,7 @@ for folder in directory.iterdir():
                         if pitch in pitches_above_line3:
                             pass # leave the stem, as it indicates something different from the default
                         else:
-                            remove(upstem_char) # redundant info
+                            remove(upstem_char) # in this case, the encoding of the stem direction is redundant 
 
 
                     
