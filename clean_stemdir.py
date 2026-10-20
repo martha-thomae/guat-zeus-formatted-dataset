@@ -1,4 +1,5 @@
 import re
+from pathlib import Path
 
 downstem_char = "\\"
 upstem_char = "/"
@@ -30,31 +31,40 @@ def find_pitch_subtoken(line):
     match = pattern.search(line)
     return match.group() if match else None
 
+directory = Path("samples/")
+# Get the content of the files
 for folder in directory.iterdir():
     if folder.is_dir():
-        #print(f"Folder: {folder.name}")
+        print(f"Folder: {folder.name}")
         for file in folder.iterdir():
-            if file.is_file() and file.suffix == ".lmx":
-                #print(f". File: {file.name}")
+            if file.is_file() and file.suffix == ".lmx":                
                 with file.open("r", encoding="utf-8") as infile:
-                    content = infile.readlines()
+                    inlines = infile.readlines()
 
-                clef = content[0].rstrip('\n')
+                # Find the clef and, with it, determine the pitches above the third line,
+                # as these are the ones where the default stem direction changes
+                clef = inlines[0].rstrip('\n')
                 pitches_above_line3 = default_stemdown_pitches[clef]
-                for line in content[1:]:
-                    if downstem_char in line:
-                        pitch = find_pitch_subtoken(line)
-                        if pitch in pitches_above_line3:
-                            print(pitch, downstem_char, "remove")
-                            remove(downstem_char) # in this case, the encoding of the stem direction is redundant  #DEFINE FUNCTION
-                        else:
-                            print(pitch, downstem_char, "preserve")
-                            pass # leave the stem, as it indicates something different from the default
-                    elif upstem_char in line:
-                        pitch = find_pitch_subtoken(line)
-                        if pitch in pitches_above_line3:
-                            print(pitch, upstem_char, "preserve")
-                            pass # leave the stem, as it indicates something different from the default
-                        else:
-                            print(pitch, upstem_char, "remove")
-                            remove(upstem_char) # in this case, the encoding of the stem direction is redundant 
+
+                # Write a new file with the stem direction information cleand up
+                # i.e., removing redundant stem direction information, which means that 
+                # the stem direction is only provided when it is opposite to the default
+                with file.open("w", encoding="utf-8") as outfile:
+                    for line in inlines:
+                        if downstem_char in line:
+                            pitch = find_pitch_subtoken(line)
+                            if pitch in pitches_above_line3:
+                                # Remove the downward stem as it is redundant information
+                                line.replace(downstem_char, "")
+                            else:
+                                # Leave the (downward) stem, as it indicates something different from the default
+                                pass
+                        elif upstem_char in line:
+                            pitch = find_pitch_subtoken(line)
+                            if pitch in pitches_above_line3:
+                                # Leave the (upward) stem, as it indicates something different from the default
+                                pass
+                            else:
+                                # Remove the upward stem as it is redundant information
+                                line.replace(upstem_char, "") # in this case, the encoding of the stem direction is redundant 
+                print(f". File: {file.name} -> Processed")
