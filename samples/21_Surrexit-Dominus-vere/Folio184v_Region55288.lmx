@@ -1,24 +1,24 @@
 *clefC1
 *k[b-]
-M. b -
-m cc
-M. dd
-m dd
-M b -
-s cc
-M. b -
-m cc
-M dd
-M d
-m f
-m g
-m a
-m b -
-s cc
-s. a
-s dd
-M dd
-M cc
-M. dd
-m cc
-*custos cc
+M.b-\
+mcc\
+M.dd\
+mdd\
+Mb-\
+scc
+M.b-\
+mcc\
+Mdd\
+Md/
+mf/
+mg/
+ma\
+mb-\
+scc
+s.a
+sdd
+Mdd\
+Mcc\
+M.dd\
+mcc\
+*custoscc

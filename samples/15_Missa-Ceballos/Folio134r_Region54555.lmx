@@ -1,20 +1,20 @@
 *clefC4
-M r _3
-s A
-M G
-M. c
-m B
-M A
-M G
-m F
-m G
-m A
-m B
-M c
-M C
-M D
-M E
-M F
-M G
-S C
+Mr_3
+sA
+MG/
+M.c\
+mB\
+MA\
+MG/
+mF/
+mG/
+mA/
+mB\
+Mc\
+MC/
+MD/
+ME/
+MF/
+MG/
+SC
 ==

@@ -1,25 +1,25 @@
 *clefC4
-s c
-M d
-M e
-M d
-M d
-M c #
-*met(C|32)_2232
+sc
+Md
+Me
+Md
+Md
+Mc#
+*met(C|3/2)_2232
 Sid
-s r _4
-s c
-s c
-s c
+sr_4
+sc
+sc
+sc
 SiB
-s G
+sG
 SiA
-s A
-s ~ G
+sA
+s~G
 Si~F
-s G
-s c
-s c
-s d
-s e
-*custos d
+sG
+sc
+sc
+sd
+se
+*custosd

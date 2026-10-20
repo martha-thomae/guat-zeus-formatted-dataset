@@ -1,22 +1,22 @@
 *clefC4
 *k[b-]
-s F
-s D
-s E -
-S D
-s D
-s E -
-s D
-s BB -
-s F
-S C
-s ~ F
-S ~ D
-S C
-s C
-M F
-M E
-M D
-M C
-s BB -
-*custos E -
+sF
+sD
+sE-
+SD
+sD
+sE-
+sD
+sBB-
+sF
+SC
+s~F
+S~D
+SC
+sC
+MF
+ME
+MD
+MC
+sBB-
+*custosE-

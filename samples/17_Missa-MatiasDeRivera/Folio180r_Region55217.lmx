@@ -1,20 +1,20 @@
 *clefC4
 *met(C)
-S r _3
-s A
-M F
-M G
-s A
-M D
-M E
-M F
-M D
-s C
-s c
-M A
-M B
-m c
-m B
-m A
-m G
-*custos F
+Sr_3
+sA
+MF/
+MG/
+sA
+MD/
+ME/
+MF/
+MD/
+sC
+sc
+MA\
+MB\
+mc\
+mB\
+mA\
+mG\
+*custosF

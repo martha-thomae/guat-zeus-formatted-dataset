@@ -1,20 +1,20 @@
 *clefC3
 *met(C)
-L r _3
-L r _3
-S A
-s A
-s c
-s B
-M. e
-m d
-m e
-m f
-M. g
-m f
-s e
-M d
-M c
-M B
-s c
-*custos A
+Lr_3
+Lr_3
+SA
+sA
+sc
+sB
+M.e
+md
+me
+mf
+M.g
+mf
+se
+Md
+Mc\
+MB
+sc
+*custosA

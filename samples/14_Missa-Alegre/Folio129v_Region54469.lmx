@@ -1,20 +1,20 @@
 *clefC1
-s r _2
-M d
-s a
-M g #
-s a
-M r _4
-m cc
-m dd
-M ee
-s cc
-m b
-m cc
-M dd
-s b
-m a
-m b
-M cc
-s a
-*custos g
+sr_2
+Md
+sa
+Mg#\
+sa
+Mr_4
+mcc
+mdd
+Mee
+scc
+mb
+mcc
+Mdd
+sb
+ma
+mb
+Mcc
+sa
+*custosg

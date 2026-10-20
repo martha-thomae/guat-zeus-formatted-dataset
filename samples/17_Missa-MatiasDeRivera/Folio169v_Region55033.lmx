@@ -1,14 +1,14 @@
 *clefC3
-s c
-M r _3
-M e
-M c
-M d
-s B
-M c
-M d
-M d
-M c
-s B
-S A
+sc
+Mr_3
+Me
+Mc\
+Md
+sB
+Mc\
+Md
+Md
+Mc\
+sB
+SA
 ==

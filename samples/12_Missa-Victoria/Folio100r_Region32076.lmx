@@ -1,36 +1,36 @@
 *clefC2
 *k[b-]
-M cc
-M g
-s b -
-M a
-M g
-M b -
-m a
-m g
-m a
-m b -
-M cc
-M a
-M g
-M. a
-m g
-m f
-m e
-M f
-S d
-s r _3
-M r _3
-s d
-M c #
-M d
-M e
-s f
-M e
-s a
-M f
-M g
-M a
-s b -
-L a
-*custos b
+Mcc\
+Mg\
+sb-
+Ma\
+Mg\
+Mb-\
+ma\
+mg\
+ma\
+mb-\
+Mcc\
+Ma\
+Mg\
+M.a\
+mg\
+mf\
+me\
+Mf\
+Sd
+sr_3
+Mr_3
+sd
+Mc#/
+Md/
+Me/
+sf
+Me/
+sa
+Mf\
+Mg\
+Ma\
+sb-
+La\
+*custosb

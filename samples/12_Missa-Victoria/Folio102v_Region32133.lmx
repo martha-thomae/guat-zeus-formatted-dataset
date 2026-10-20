@@ -1,32 +1,32 @@
 *clefC3
 *k[b-]
-S B -
-M r _2
-M B -
-M c
-M d
-s G
-M. G
-m G
-M A
-M F
-M G
-M A
-M B -
-s c
-M A
-M B -
-M G
-M F
-M G
-M. A
-m B -
-s c
-s A
-S G
-M r _1
-M G
-M B -
-s f
-M e
-*custos f
+SB-
+Mr_2
+MB-
+Mc\
+Md
+sG
+M.G
+mG
+MA
+MF
+MG
+MA
+MB-
+sc
+MA
+MB-
+MG
+MF
+MG
+M.A
+mB-
+sc
+sA
+SG
+Mr_1
+MG
+MB-
+sf
+Me
+*custosf

@@ -1,19 +1,19 @@
 *clefC3
-M A
-M A
-s d
-M c
-M d
-s c
-M d
-M e
-S d
-s c
+MA
+MA
+sd
+Mc\
+Md
+sc
+Md
+Me
+Sd
+sc
 ==
-s r _3
-s e
-M f
-M d
-M d
-M c #
-*custos d
+sr_3
+se
+Mf
+Md
+Md
+Mc#\
+*custosd

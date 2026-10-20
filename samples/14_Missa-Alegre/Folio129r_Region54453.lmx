@@ -1,26 +1,26 @@
 *clefF4
-M r _3
-M F
-M F #
-M G
-s D
-m D
-m D
-m E
-m E
-M F
-M D
-M C
-s F
-M E
-M D
-s G
-M F
-S E
-m D
-m D
-m E
-m E
-M F
-M D
-*custos E
+Mr_3
+MF
+MF#
+MG
+sD
+mD\
+mD\
+mE
+mE
+MF
+MD\
+MC
+sF
+ME
+MD\
+sG
+MF
+SE
+mD\
+mD\
+mE
+mE
+MF
+MD\
+*custosE

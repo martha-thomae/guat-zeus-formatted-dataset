@@ -1,29 +1,29 @@
 *clefG2
 *k[b-]
-s cc
-M b -
-M g
-m a
-m g
-m f
-m e
-m f
-m d
-M dd
-S cc
-s r _3
-M r _2
-M g
-M dd
-M dd
-s ee
-M cc
-M. dd
-m cc
-m dd
-m ee
-M ff
-M ff
-s ee
-s dd
-*custos dd
+scc
+Mb-/
+Mg/
+ma/
+mg/
+mf/
+me/
+mf/
+md/
+Mdd\
+Scc
+sr_3
+Mr_2
+Mg/
+Mdd\
+Mdd\
+see
+Mcc\
+M.dd\
+mcc\
+mdd\
+mee\
+Mff\
+Mff\
+see
+sdd
+*custosdd

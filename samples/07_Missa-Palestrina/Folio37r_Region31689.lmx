@@ -1,27 +1,27 @@
 *clefF3
-s. C
-M C
-M C
-M C
-M G
-M G
-M F
-M E
-s A
-s G
-s E
-M F
-M E
-M D
-M C
-s D
-s E
-s. F
-M F
-M C
-M D
-M A
-M A
-*met(C|32)_2232
+s.C
+MC
+MC
+MC
+MG
+MG
+MF/
+ME
+sA
+sG
+sE
+MF/
+ME
+MD
+MC
+sD
+sE
+s.F
+MF/
+MC
+MD
+MA
+MA
+*met(C|3/2)_2232
 Sp:D
-*custos A
+*custosA

@@ -1,22 +1,22 @@
 *clefC3
-s d
-s c
+sd
+sc
 *met(C.)
-s e
-M e
-s d
-M d
-s e
-M e
-s d
-s c
-s B
-s c
-M c
-s d
-M e
-[ s A
-s B ]
+se
+Me
+sd
+Md
+se
+Me
+sd
+sc
+sB
+sc
+Mc\
+sd
+Me
+[sA
+sB]
 *met(C)
-s A
-*custos e
+sA
+*custose

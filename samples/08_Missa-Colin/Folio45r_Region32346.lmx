@@ -1,24 +1,24 @@
 *clefF4
 *k[b-]
-M BB -
-M C
-s FF
-S r _3
-s C
-M AA
-M FF
-M. BB -
-m C
-M D
-M D
-s C
-L r _3
-M r _3
-M F
-M F
-M F
-s C
-M. D
-m C
-M BB -
-*custos AA
+MBB-/
+MC/
+sFF
+Sr_3
+sC
+MAA/
+MFF/
+M.BB-/
+mC/
+MD\
+MD\
+sC
+Lr_3
+Mr_3
+MF\
+MF\
+MF\
+sC
+M.D/
+mC/
+MBB-/
+*custosAA

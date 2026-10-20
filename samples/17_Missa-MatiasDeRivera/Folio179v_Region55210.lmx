@@ -1,20 +1,20 @@
 *clefG2
-S r _3
-s r _3
-M r _3
-M cc
-s b
-M g
-M g
-M a
-M cc
-M cc
-M b
-M cc
-s cc
-M cc
-M cc
-M cc
-S a
-S a
+Sr_3
+sr_3
+Mr_3
+Mcc\
+sb
+Mg/
+Mg/
+Ma/
+Mcc\
+Mcc\
+Mb\
+Mcc\
+scc
+Mcc\
+Mcc\
+Mcc\
+Sa
+Sa
 ==

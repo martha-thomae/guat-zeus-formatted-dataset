@@ -1,22 +1,22 @@
 *clefC3
 *met(C)
-L r _3
-M. e
-m e
-M d
-M e
-s f
-s e
-s r _2
-M r _2
-M A
-M B
-M c
-M d
-M e
-M c #
-s d
-M c
-M B
-M r _2
-*custos e
+Lr_3
+M.e
+me
+Md
+Me
+sf
+se
+sr_2
+Mr_2
+MA
+MB
+Mc/
+Md
+Me
+Mc#\
+sd
+Mc\
+MB
+Mr_2
+*custose

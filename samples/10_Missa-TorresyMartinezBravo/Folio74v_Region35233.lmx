@@ -1,28 +1,28 @@
 *clefC4
-s e
-M c
-M c
-M c
-M c
-M A
-M c
-s B
-s A
-s r _2
-M A
-s G
-M F #
-M r _3
-s A
-M. G
-m G
-M F
-s E
-s D
-S r _2
-s r _2
-s e
-M d #
-s e
-M f
-*custos d
+se
+Mc
+Mc
+Mc
+Mc
+MA\
+Mc
+sB
+sA
+sr_2
+MA/
+sG
+MF#
+Mr_3
+sA
+M.G
+mG
+MF
+sE
+sD
+Sr_2
+sr_2
+se
+Md#
+se
+Mf
+*custosd

@@ -1,19 +1,19 @@
 *clefC1
-M dd
-s ee
-M ff
-s dd
-s b
-s r _3
-M r _3
-M g
-s a
-M cc
-m cc #
-m cc #y
-M dd
-M cc
-M b
-M a
-s cc
-*custos ee
+Mdd
+see
+Mff
+sdd
+sb
+sr_3
+Mr_3
+Mg\
+sa
+Mcc
+mcc#
+mcc#y
+Mdd
+Mcc
+Mb
+Ma
+scc
+*custosee

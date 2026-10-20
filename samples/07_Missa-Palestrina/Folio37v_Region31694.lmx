@@ -1,29 +1,29 @@
 *clefC1
-M b
-M cc
-M dd
-M a
-s cc
-s b
-S r _3
-M r _3
-M g
-M a
-M b
-s cc
-M b
-M g
-M a
-M f
-M e
-M a
-M g
-M e
-M. g
-m a
-M b
-M cc
-M b
-s a
-M g
-*custos a
+Mb
+Mcc
+Mdd
+Ma
+scc
+sb
+Sr_3
+Mr_3
+Mg\
+Ma
+Mb
+scc
+Mb
+Mg\
+Ma
+Mf
+Me
+Ma
+Mg/
+Me
+M.g\
+ma
+Mb
+Mcc
+Mb
+sa
+Mg\
+*custosa

@@ -1,24 +1,24 @@
 *clefC3
-[ S B
-S A ]
-[ S d
-S c ]
-[ L c
-S A
-S c ]
-[ S G
-S A ]
-[ S G
-S c ]
-S c
-[ L A
-S G
-S A
-S B ]
-S A
-[ S F
-S A ]
-[ S A
-S c
-S d ]
-*custos A
+[SB
+SA]
+[Sd
+Sc]
+[Lc
+SA
+Sc]
+[SG
+SA]
+[SG
+Sc]
+Sc
+[LA
+SG
+SA
+SB]
+SA
+[SF
+SA]
+[SA
+Sc
+Sd]
+*custosA

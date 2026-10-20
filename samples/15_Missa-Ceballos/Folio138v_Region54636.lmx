@@ -1,19 +1,19 @@
 *clefG2
-s r _3
-M r _4
-M gg
-M ff
-M ee
-M dd
-M ff
-M ee
-M dd
-M. cc
-m b
-M a
-s g
-M f
-s g
-S b
-s cc
-*custos cc
+sr_3
+Mr_4
+Mgg
+Mff
+Mee
+Mdd
+Mff
+Mee
+Mdd
+M.cc
+mb\
+Ma
+sg
+Mf
+sg
+Sb
+scc
+*custoscc

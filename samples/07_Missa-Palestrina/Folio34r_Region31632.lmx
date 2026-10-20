@@ -1,26 +1,26 @@
 *clefF3
-s F
-s E
-L r _3
-s C
-M F
-M D
-S C
-s D
-M r _3
-M G
-M G
-M G
-s A
-M G
-M E
-s F
-s E
-S r _3
-s C
-M C
-M C
-s F
-M C
-M E
-*custos D
+sF
+sE
+Lr_3
+sC
+MF/
+MD
+SC
+sD
+Mr_3
+MG
+MG
+MG
+sA
+MG
+ME
+sF
+sE
+Sr_3
+sC
+MC
+MC
+sF
+MC
+ME
+*custosD

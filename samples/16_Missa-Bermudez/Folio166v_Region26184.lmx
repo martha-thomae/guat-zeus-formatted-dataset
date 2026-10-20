@@ -1,17 +1,17 @@
 *clefC3
-s A
-M G
-M ~ A
-s ~ F
-s E
-s B
-M B
-s c
-M e
-M ~ e
-s ~ d
-s B
-L r _3
-s B
-M B
-*custos c
+sA
+MG/
+M~A/
+s~F
+sE
+sB
+MB/
+sc
+Me\
+M~e\
+s~d
+sB
+Lr_3
+sB
+MB/
+*custosc

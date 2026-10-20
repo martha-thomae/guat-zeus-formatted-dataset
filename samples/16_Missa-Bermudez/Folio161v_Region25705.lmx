@@ -1,16 +1,16 @@
 *clefG2
-m cc
-m cc
-M b
-M b
-s cc
-M b
-M cc
-s cc
-s dd
-M cc
-M b
-s cc
-M b
-S cc
+mcc
+mcc
+Mb\
+Mb\
+scc
+Mb\
+Mcc
+scc
+sdd
+Mcc
+Mb\
+scc
+Mb\
+Scc
 ==

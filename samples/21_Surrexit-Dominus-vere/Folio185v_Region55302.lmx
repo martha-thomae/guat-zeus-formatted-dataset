@@ -1,27 +1,27 @@
 *clefC1
 *k[b-]
-M r _4
-M a
-m b -
-m a
-m b -
-m cc
-M dd
-m cc
-m b -
-M cc
-M dd
-M r _4
-s dd
-m cc
-m b -
-m cc
-m a
-s dd
-M cc
-M. b -
-m cc
-s dd
-M r _4
-M dd
-*custos cc
+Mr_4
+Ma\
+mb-\
+ma\
+mb-\
+mcc\
+Mdd\
+mcc\
+mb-\
+Mcc\
+Mdd\
+Mr_4
+sdd
+mcc\
+mb-\
+mcc\
+ma\
+sdd
+Mcc\
+M.b-\
+mcc\
+sdd
+Mr_4
+Mdd\
+*custoscc

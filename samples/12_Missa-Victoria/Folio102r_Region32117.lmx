@@ -1,33 +1,33 @@
 *clefC2
 *k[b-]
-S r _2
-s r _2
-s d
-M d
-M d
-s. g
-M g
-s a
-s f
-s a
-s b -
-M cc
-M a
-[ s b -
-s a ]
-L a
-s r _3
-M. b -
-m b -
-M b -
-M a
-M g
-M f #
-M g
-M g
-M. f
-m d
-s e -
-s d
-S d
+Sr_2
+sr_2
+sd
+Md
+Md
+s.g
+Mg
+sa
+sf
+sa
+sb-
+Mcc
+Ma
+[sb-
+sa]
+La
+sr_3
+M.b-
+mb-
+Mb-
+Ma
+Mg
+Mf#
+Mg
+Mg
+M.f
+md
+se-
+sd
+Sd
 ==

@@ -1,19 +1,19 @@
 *clefF4
-s G #
-s E
-L r _3
-s r _3
-S D
-s D
-M C
-M D
-M E
-M C
-s r _2
-M AA
-M AA
-s AA
-s D
-S A
-S D
+sG#
+sE
+Lr_3
+sr_3
+SD
+sD
+MC
+MD/
+ME/
+MC
+sr_2
+MAA
+MAA
+sAA
+sD
+SA
+SD
 ==

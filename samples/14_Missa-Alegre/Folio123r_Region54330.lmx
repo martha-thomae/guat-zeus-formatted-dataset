@@ -1,15 +1,15 @@
 *clefC3
-s d
-m c
-m B
-M c
-m A
-m B
-m c
-m B
-M A
-M r _3
-M d
-s e
-S c #
+sd
+mc/
+mB
+Mc/
+mA
+mB
+mc/
+mB
+MA
+Mr_3
+Md
+se
+Sc#
 ==

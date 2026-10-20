@@ -1,22 +1,22 @@
 *clefG2
-s g
-M f
-s g
-M r _2
-M. dd
-m cc
-M b
-M a
-M g
-M. g
-m a
-m b
-m a
-M cc
-M b
-M. a
-m g
-s g
-M f #
-S g
+sg
+Mf
+sg
+Mr_2
+M.dd
+mcc
+Mb\
+Ma
+Mg
+M.g
+ma
+mb/
+ma
+Mcc
+Mb\
+M.a
+mg
+sg
+Mf#
+Sg
 ==

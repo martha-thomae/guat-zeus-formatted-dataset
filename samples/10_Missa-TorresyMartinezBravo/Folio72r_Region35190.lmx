@@ -1,28 +1,28 @@
 *clefF4
 *met(C|)
-M A
-s A
-M G #
-M A
-M B yy
-s G
-S E
-s r _4
-M G
-M G
-s A
-s F
-s G
-s E
-s r _3
-s E
-[ s C #
-s D ]
-S E
-s D
-M C #y
-M BB
-[ s C #
-s D ]
-L AA
+MA\
+sA
+MG#\
+MA\
+MByy\
+sG
+SE
+sr_4
+MG\
+MG\
+sA
+sF
+sG
+sE
+sr_3
+sE
+[sC#
+sD]
+SE
+sD
+MC#y/
+MBB/
+[sC#
+sD]
+LAA/
 ==

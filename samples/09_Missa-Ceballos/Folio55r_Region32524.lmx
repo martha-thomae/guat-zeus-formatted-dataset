@@ -1,12 +1,12 @@
 *clefC4
 *met(C)
-L r _3
-L r _4
-L r _3
-s A
-M B -
-M A
-M F
-M G
-S A
+Lr_3
+Lr_4
+Lr_3
+sA
+MB-
+MA\
+MF
+MG
+SA
 ==

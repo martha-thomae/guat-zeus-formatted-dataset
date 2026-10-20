@@ -1,27 +1,27 @@
 *clefC3
-s d
-s c
-s B
-s A
-s G
-M F #
-M G
-s g
-s f
-M e
-M c
-M. d
-m c
-s c
-M B
-s A
-M G
-s g
-M f
-M. e
-m d
-M c
-M A
-M. d
-m e
-*custos f
+sd
+sc
+sB
+sA
+sG
+MF#
+MG
+sg
+sf
+Me
+Mc\
+M.d
+mc\
+sc
+MB
+sA
+MG
+sg
+Mf
+M.e
+md
+Mc\
+MA
+M.d
+me
+*custosf

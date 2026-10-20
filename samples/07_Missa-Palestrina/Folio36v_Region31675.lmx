@@ -1,22 +1,22 @@
 *clefC1
-s b
-s cc
-s b
+sb
+scc
+sb
 Sia
-s g
+sg
 *met(C)
-S a
-L r _3
-S r _3
-s cc
-M b
-M a
-M. g
-m a
-M b
-M. a
-m g
-s g
-M f #
-s g
-*custos d
+Sa
+Lr_3
+Sr_3
+scc
+Mb
+Ma
+M.g\
+ma
+Mb
+M.a
+mg/
+sg
+Mf#
+sg
+*custosd

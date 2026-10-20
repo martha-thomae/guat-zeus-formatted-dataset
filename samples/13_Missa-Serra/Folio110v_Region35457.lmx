@@ -1,22 +1,22 @@
 *clefC1
 *k[b-e-]
 *met(C)
-L r _3
-L r _3
-M r _3
-M b -
-M a
-M g
-M f
-M e -
-s d
-M c
-s cc
-M b -
-M a
-s b -
-M a
-M b -
-s f
-M f
-*custos g
+Lr_3
+Lr_3
+Mr_3
+Mb-
+Ma
+Mg\
+Mf
+Me-
+sd
+Mc
+scc
+Mb-
+Ma
+sb-
+Ma
+Mb-
+sf
+Mf
+*custosg

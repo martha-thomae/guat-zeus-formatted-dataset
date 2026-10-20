@@ -1,25 +1,25 @@
 *clefC4
-s B -
-m A
-m G
-s F
-M r _3
-s A
-M A
-s c
-M G
-s c
-m B
-m A
-M B
-M. A
-m G
-M E
-M. A
-m G
-m A
-m B
-s c
-M B
-s c
-*custos B
+sB-
+mA/
+mG
+sF
+Mr_3
+sA
+MA/
+sc
+MG
+sc
+mB
+mA\
+MB
+M.A\
+mG
+ME
+M.A/
+mG
+mA/
+mB
+sc
+MB
+sc
+*custosB

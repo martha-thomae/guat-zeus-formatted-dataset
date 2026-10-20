@@ -1,17 +1,17 @@
 *clefG2
-m b
-m a
-M b
-M a
-M cc
-M dd
-s ff
-M. ee
-m dd
-M dd
-s ee
-S r _3
-M r _3
-M cc
-M dd
-*custos ff
+mb/
+ma/
+Mb/
+Ma/
+Mcc\
+Mdd\
+sff
+M.ee\
+mdd\
+Mdd\
+see
+Sr_3
+Mr_3
+Mcc\
+Mdd\
+*custosff

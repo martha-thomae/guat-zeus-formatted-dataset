@@ -1,27 +1,27 @@
 *clefC4
 *k[b-e-]
-M e -
-M B -
-M B -
-M A -
-M A -y
-M G
-M r _3
-s B -
-M e -
-M G
-m F
-m E -
-M D
-M E -
-s r _2
-s B -
-M G
-s B -
-M A
-s G
-s F
-M r _3
-s B -
-M A
-*custos B
+Me-\
+MB-\
+MB-\
+MA-\
+MA-y\
+MG\
+Mr_3
+sB-
+Me-\
+MG/
+mF/
+mE-/
+MD/
+ME-/
+sr_2
+sB-
+MG/
+sB-
+MA/
+sG
+sF
+Mr_3
+sB-
+MA\
+*custosB

@@ -1,30 +1,30 @@
 *clefC2
-s c
-M B
-s c
-M r _3
-s g
-M f
-M g
-M d
-M e
-m d
-m c
-m B
-m A
-s d
-M e
-s d
-M c
-M. e
-m d
-M g
-m f
-m e
-m e
-U d L
-U c J
-s d
-M r _3
-s e
-*custos d
+sc
+MB/
+sc
+Mr_3
+sg
+Mf\
+Mg\
+Md/
+Me/
+md/
+mc/
+mB/
+mA/
+sd
+Me\
+sd
+Mc/
+M.e\
+md/
+Mg\
+mf\
+me\
+me\
+Ud/L
+Uc/J
+sd
+Mr_3
+se
+*custosd

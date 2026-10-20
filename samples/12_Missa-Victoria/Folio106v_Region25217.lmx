@@ -1,18 +1,18 @@
 *clefC3
 *k[b-]
-*met(C|32)_2232
-S r _2
-s r _2
-S. G
-S. d
-S. e
-S. c
-S d
-s e
-s ~ f
-S ~ g
-S ~ f
-s ~ e
-s ~ d
-S ~ c
-*custos d
+*met(C|3/2)_2232
+Sr_2
+sr_2
+S.G
+S.d
+S.e
+S.c
+Sd
+se
+s~f
+S~g
+S~f
+s~e
+s~d
+S~c
+*custosd

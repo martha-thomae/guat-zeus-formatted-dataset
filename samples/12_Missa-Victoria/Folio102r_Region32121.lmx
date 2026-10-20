@@ -1,32 +1,32 @@
 *clefC4
 *k[b-]
-M r _1
-M D
-M G
-M A
-s B -
-M A
-M D
-s G
-s A
-s B -
-s A
-s D
-M r _4
-M d
-s d
-M G
-M d
-[ s e -
-s d ]
-s G
-M r _2
-M G
-s G
-M D
-M D
-M F
-M C
-s D
-S G ;
+Mr_1
+MD
+MG
+MA/
+sB-
+MA/
+MD
+sG
+sA
+sB-
+sA
+sD
+Mr_4
+Md
+sd
+MG
+Md
+[se-
+sd]
+sG
+Mr_2
+MG
+sG
+MD
+MD
+MF
+MC
+sD
+SG;
 ==

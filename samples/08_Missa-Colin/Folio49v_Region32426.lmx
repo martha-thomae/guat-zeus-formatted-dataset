@@ -1,25 +1,25 @@
 *clefC1
 *k[b-]
 *met(C)
-S r _4
-s cc
-M a
-M dd
-M cc
-s cc
-M b -
-M a
-M g
-s a
-M g
-M b -
-M cc
-M. dd
-m cc
-s cc
-M b -
-M cc
-M g
-M. cc
-m cc
-*custos a
+Sr_4
+scc
+Ma
+Mdd
+Mcc
+scc
+Mb-
+Ma
+Mg\
+sa
+Mg\
+Mb-
+Mcc
+M.dd
+mcc
+scc
+Mb-
+Mcc
+Mg\
+M.cc
+mcc
+*custosa

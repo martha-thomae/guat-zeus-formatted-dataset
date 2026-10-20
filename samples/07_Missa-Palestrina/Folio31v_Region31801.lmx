@@ -1,22 +1,22 @@
 *clefC1
-s f
-s e
-s e
-M r _2
-M e
-s g
-s f
-M. e
-m f
-m g
-m a
-M b
-M g
-M. cc
-m b
-M. b
-m a
-s a
-M g
-S a
+sf
+se
+se
+Mr_2
+Me
+sg
+sf
+M.e
+mf
+mg\
+ma
+Mb
+Mg\
+M.cc
+mb
+M.b
+ma
+sa
+Mg\
+Sa
 ==

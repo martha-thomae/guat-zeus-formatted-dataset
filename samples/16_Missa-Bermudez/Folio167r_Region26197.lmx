@@ -1,19 +1,19 @@
 *clefC4
 *met(C3)_2223
-s c
-M B
-s A
-M G
-M ~ A
-s ~ F
-s E
-s C
-M G
-s D
-M E
-M ~ F
-s ~ D
-s C
-s E
-M G
-*custos F
+sc
+MB\
+sA
+MG\
+M~A\
+s~F
+sE
+sC
+MG\
+sD
+ME/
+M~F/
+s~D
+sC
+sE
+MG/
+*custosF

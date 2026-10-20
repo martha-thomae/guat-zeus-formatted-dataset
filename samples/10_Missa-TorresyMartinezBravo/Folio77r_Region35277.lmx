@@ -1,23 +1,23 @@
 *clefF4
-s D
-s AA
-s r _2
-M E
-M E
-s. F
-M E
-s D
-s E
-S r _3
-M E
-M C
-M. D
-m D
-s E
-s. D
-M D
-s C
-s E
-M F
-M G
-*custos A
+sD
+sAA
+sr_2
+ME\
+ME\
+s.F
+ME\
+sD
+sE
+Sr_3
+ME\
+MC/
+M.D\
+mD\
+sE
+s.D
+MD\
+sC
+sE
+MF\
+MG\
+*custosA

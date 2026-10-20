@@ -1,32 +1,32 @@
 *clefF4
-M F
-M F
-s E
-s D
-M. C
-m BB
-M AA
-M AA
-s GG
-S r _3
-s G
-M F
-M F
-s E
-M D
-M D
-M. C
-m BB
-s AA
-s GG
-S r _3
-M r _2
-M C
-s BB
-s AA
-s GG
-s C
-M D
-M D
-S AA
-*met(C|32)_2232
+MF
+MF
+sE
+sD
+M.C
+mBB
+MAA
+MAA
+sGG
+Sr_3
+sG
+MF
+MF
+sE
+MD\
+MD\
+M.C
+mBB
+sAA
+sGG
+Sr_3
+Mr_2
+MC
+sBB
+sAA
+sGG
+sC
+MD/
+MD/
+SAA
+*met(C|3/2)_2232

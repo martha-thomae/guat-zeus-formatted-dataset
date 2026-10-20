@@ -1,19 +1,19 @@
 *clefC4
-m D
-m E
-m F
-m G
-s A
-M F
-M G
-S C
-s r _2
-s G
-M D
-M F
-s E
-s A
-M G
-M G
-s C
-*custos G
+mD
+mE
+mF
+mG
+sA
+MF
+MG
+SC
+sr_2
+sG
+MD
+MF
+sE
+sA
+MG
+MG
+sC
+*custosG

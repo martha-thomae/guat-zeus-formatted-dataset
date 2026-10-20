@@ -1,18 +1,18 @@
 *clefG2
 *met(C)
-S g
-S g
-[ s a
-s b ]
-S g
-[ s cc
-s dd ]
-s ee
-S cc
-S dd
-M r _4
-M. dd
-m cc
-m b
-m a
-*custos g
+Sg
+Sg
+[sa
+sb]
+Sg
+[scc
+sdd]
+see
+Scc
+Sdd
+Mr_4
+M.dd
+mcc
+mb\
+ma\
+*custosg

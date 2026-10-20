@@ -1,33 +1,33 @@
 *clefF4
 *k[b-e-]
-m BB -
-M C
-M D
-M E -
-s BB -
-M r _3
-s E -
-M D
-M. C
-m D
-s E -
-S r _2
-M E -
-m E -
-m F
-M G
-m F
-m E -
-M F
-m E -
-m D
-s E -
-M D
-M G
-s F
-M FF
-m FF
-m FF
-s BB -
-S FF
+mBB-
+MC
+MD\
+ME-
+sBB-
+Mr_3
+sE-
+MD\
+M.C
+mD/
+sE-
+Sr_2
+ME-
+mE-
+mF
+MG
+mF
+mE-
+MF
+mE-
+mD\
+sE-
+MD\
+MG
+sF
+MFF
+mFF
+mFF
+sBB-
+SFF
 ==

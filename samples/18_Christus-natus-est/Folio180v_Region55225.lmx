@@ -1,22 +1,22 @@
 *clefC4
-s A
-[ s B
-s c ]
-S d
+sA
+[sB
+sc]
+Sd
 ==
 *met(C)
-s r _2
-s A
-M B
-M c
-s. d
-M c
-s B
-M A
-M e
-M d
-m c
-m B
-M. A
-m G
-*custos F
+sr_2
+sA
+MB
+Mc
+s.d
+Mc
+sB
+MA\
+Me
+Md
+mc
+mB
+M.A/
+mG
+*custosF

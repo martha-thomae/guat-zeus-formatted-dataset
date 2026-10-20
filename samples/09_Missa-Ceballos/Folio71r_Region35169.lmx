@@ -1,26 +1,26 @@
 *clefC2
-M a
-M b
-M cc
-s a
-M g
-s a
-L r _3
-s a
-M b
-M a
-M f
-M g
-s a
-S r _4
-s r _4
-M r _3
-M e
-M f
-M e
-M c
-M d
-s e
-L r _3
-M r _4
-*custos a
+Ma\
+Mb\
+Mcc\
+sa
+Mg\
+sa
+Lr_3
+sa
+Mb\
+Ma\
+Mf\
+Mg\
+sa
+Sr_4
+sr_4
+Mr_3
+Me\
+Mf\
+Me\
+Mc/
+Md/
+se
+Lr_3
+Mr_4
+*custosa

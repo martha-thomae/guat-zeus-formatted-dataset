@@ -1,20 +1,20 @@
 *clefC1
 *k[b-]
-M a
-s b -
-M. a
-U g
-U f
-s g
-s f
-L r _3
-L r _3
-S r _3
-s f
-M g
-M b -
-M a
-M. g
-m f
-s f
-*custos e
+Ma\
+sb-
+M.a\
+Ug/
+Uf/
+sg
+sf
+Lr_3
+Lr_3
+Sr_3
+sf
+Mg\
+Mb-\
+Ma\
+M.g\
+mf/
+sf
+*custose

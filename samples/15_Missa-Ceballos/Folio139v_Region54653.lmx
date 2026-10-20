@@ -1,21 +1,21 @@
 *clefG2
 *met(C)
-S r _3
-s g
-M g
-M a
-M b
-M g
-M cc
-M dd
-s ee
-M r _4
-M ee
-M dd
-M cc
-M b
-s cc
-M b
-M a
-s cc
-*custos b
+Sr_3
+sg
+Mg/
+Ma/
+Mb/
+Mg/
+Mcc\
+Mdd\
+see
+Mr_4
+Mee\
+Mdd\
+Mcc\
+Mb\
+scc
+Mb/
+Ma/
+scc
+*custosb

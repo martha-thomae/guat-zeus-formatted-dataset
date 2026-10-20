@@ -1,26 +1,26 @@
 *clefC2
-M f
-m g
-m f
-m e
-m d
-m c
-m B
-M A
-s G
-s r _1
-S r _2
-M r _2
-M c
-M d
-M e
-s f
-M e
-M. g
-m f
-M f
-M g
-M e
-m d
-m c
-*custos B
+Mf
+mg
+mf
+me/
+md
+mc
+mB
+MA
+sG
+sr_1
+Sr_2
+Mr_2
+Mc
+Md
+Me/
+sf
+Me\
+M.g
+mf
+Mf
+Mg
+Me\
+md
+mc
+*custosB

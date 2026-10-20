@@ -1,25 +1,25 @@
 *clefF3
-s A
-s A
-s A
+sA
+sA
+sA
 SiG
-s E
+sE
 SiF
-s F
-s ~ E
+sF
+s~E
 Si~D
-s C
-s C
-s F
-s ~ D
-s ~ C
+sC
+sC
+sF
+s~D
+s~C
 [Si~D
 Si~E]
 *met(C)
-S AA
-s E
-M F
-M G
-M A
-M B
-*custos c
+SAA
+sE
+MF\
+MG
+MA
+MB
+*custosc

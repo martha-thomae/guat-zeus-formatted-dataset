@@ -1,33 +1,33 @@
 *clefC1
 *k[b-e-]
-s g
-s f
-M e X#
-s f
-S r _2
-M r _3
-M g
-M a
-M b -
-M cc
-M cc
-s f
-M r _3
-s g
-M g
-s g
-s r _3
-M cc
-m cc
-m cc
-s b -
-s cc
-M dd
-M dd
-m cc
-m b -
-M a
-s g
-s r _3
-M cc
-*custos cc
+sg
+sf
+MeX#
+sf
+Sr_2
+Mr_3
+Mg\
+Ma
+Mb-
+Mcc
+Mcc
+sf
+Mr_3
+sg
+Mg/
+sg
+sr_3
+Mcc
+mcc
+mcc
+sb-
+scc
+Mdd
+Mdd
+mcc
+mb-
+Ma
+sg
+sr_3
+Mcc
+*custoscc

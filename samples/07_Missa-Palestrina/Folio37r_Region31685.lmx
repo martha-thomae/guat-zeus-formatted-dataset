@@ -1,26 +1,26 @@
 *clefC3
-s c
-s. d
-M c
+sc
+s.d
+Mc\
 Sic
-s B
-s c
-s e
-s f
-s f
-s. g
-M f
-s ~ f
+sB
+sc
+se
+sf
+sf
+s.g
+Mf
+s~f
 S~ie
 *met(C)_2222
-s c
-M r _2
-M A
-M B
-M c
-M d
-M e
-s f
-M e
-M g
-*custos f
+sc
+Mr_2
+MA
+MB
+Mc/
+Md
+Me
+sf
+Me
+Mg
+*custosf

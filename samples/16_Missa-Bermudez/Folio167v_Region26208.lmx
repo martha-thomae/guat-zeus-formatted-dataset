@@ -1,22 +1,22 @@
 *clefG2
-M g
-M a
-M b
-s a
-M g
-M. a
-m b
-M cc
-s dd
-M cc
-s dd
-s r _3
-M r _4
-M ee
-M ff
-m ff
-m ee
-M dd
-M cc #
-s dd
-*custos a
+Mg/
+Ma/
+Mb/
+sa
+Mg/
+M.a/
+mb/
+Mcc/
+sdd
+Mcc\
+sdd
+sr_3
+Mr_4
+Mee\
+Mff\
+mff\
+mee\
+Mdd\
+Mcc#\
+sdd
+*custosa

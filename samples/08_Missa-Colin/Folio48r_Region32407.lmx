@@ -1,18 +1,18 @@
 *clefF4
 *k[b-]
-L r _3
-L r _3
-M r _2
-M C
-M F
-M F
-s D
-M C
-M C
-M D
-M E
-M F
-M D
-s C
-S r _3
-*custos F
+Lr_3
+Lr_3
+Mr_2
+MC
+MF
+MF
+sD
+MC
+MC
+MD\
+ME
+MF
+MD\
+sC
+Sr_3
+*custosF

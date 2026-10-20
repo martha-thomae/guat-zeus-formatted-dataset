@@ -1,22 +1,22 @@
 *clefC4
-M c
-M G
-M A
-M B
-M c
-M d
-M G
-M A
-M B
-M c
-S r _4
-M r _4
-s f
-s e
-s d
-s c
-M d
-s B -
-S A
-S A
+Mc\
+MG/
+MA\
+MB\
+Mc\
+Md\
+MG/
+MA/
+MB\
+Mc\
+Sr_4
+Mr_4
+sf
+se
+sd
+sc
+Md\
+sB-
+SA
+SA
 ==

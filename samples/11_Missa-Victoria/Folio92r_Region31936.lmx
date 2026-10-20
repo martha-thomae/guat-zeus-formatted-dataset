@@ -1,35 +1,35 @@
 *clefC3
-m d
-m c
-s c
-M B
-M c
-M G
-M c
-M d
-M e
-s c
-M A
-M. d
-m d
-M G
-s g
-M f #
-M g
-m G
-m A
-m B
-m c
-m d
-m e
-m f
-m g
-M. a
-U g L
-U f J
-M e
-M f
-M e
-s d
-S d
+md
+mc/
+sc
+MB
+Mc\
+MG
+Mc/
+Md
+Me
+sc
+MA
+M.d
+md
+MG
+sg
+Mf#
+Mg
+mG
+mA
+mB
+mc/
+md
+me
+mf
+mg
+M.a
+UgL
+UfJ
+Me
+Mf
+Me
+sd
+Sd
 ==

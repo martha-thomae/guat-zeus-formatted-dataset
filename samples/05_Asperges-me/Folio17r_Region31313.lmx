@@ -1,21 +1,21 @@
 *clefF4
-s G
-s C
-M r _3
-M D
-M E
-s G
-M F
-M. E
-m D
-s C
-s GG
-M r _2
-M C
-M D
-M. F
-m E
-m D
-m C
-s BB
-s C
+sG
+sC
+Mr_3
+MD\
+ME
+sG
+MF
+M.E
+mD\
+sC
+sGG
+Mr_2
+MC
+MD/
+M.F
+mE
+mD\
+mC\
+sBB
+sC

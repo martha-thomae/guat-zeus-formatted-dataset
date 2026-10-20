@@ -1,15 +1,15 @@
 *clefC3
-M c
-M c
-M ~ B
-s ~ A
-s B
-s c
-M c
-s d
-s e
-M e
-s ~ e
-s ~ c
-s ~ A
-s B
+Mc\
+Mc\
+M~B\
+s~A
+sB
+sc
+Mc\
+sd
+se
+Me
+s~e
+s~c
+s~A
+sB

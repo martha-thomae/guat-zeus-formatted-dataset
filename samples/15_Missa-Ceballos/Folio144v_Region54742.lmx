@@ -1,17 +1,17 @@
 *clefG2
-M dd
-M b
-M cc
-M cc
+Mdd\
+Mb\
+Mcc\
+Mcc\
 *met(O)
-S b
-s r _3
-s dd
-s dd
-s ee
-s ff
-[ s cc
-s dd ]
-S ~ ee
-S ~ cc
-S ~ dd
+Sb
+sr_3
+sdd
+sdd
+see
+sff
+[scc
+sdd]
+S~ee
+S~cc
+S~dd

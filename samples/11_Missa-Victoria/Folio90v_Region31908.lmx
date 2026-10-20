@@ -1,33 +1,33 @@
 *clefC4
-s c
-L r _3
-M. G
-m D
-M F
-M E
-M D
-M d
-M c
-M A
-M c
-s c
-M B
-S c
-M r _2
-M G
-s A
-M B
-M c
-M A
-M. d
-m c
-s c
-m B
-m A
-m B
-m c
-s d
-M c #
-M d
-M A
-M A
+sc
+Lr_3
+M.G
+mD
+MF
+ME
+MD
+Md
+Mc
+MA\
+Mc
+sc
+MB
+Sc
+Mr_2
+MG
+sA
+MB
+Mc
+MA/
+M.d
+mc
+sc
+mB
+mA\
+mB
+mc
+sd
+Mc#
+Md
+MA/
+MA\

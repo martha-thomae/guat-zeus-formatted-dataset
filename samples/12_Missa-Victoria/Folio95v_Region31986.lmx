@@ -1,19 +1,19 @@
 *clefG2
 *k[b-]
 *met(C)
-L r _3
-L r _3
-L r _4
-s r _4
-S g
-S dd
-s ee
-s cc
-M dd
-M ee
-s ff #
-M. gg
-m ff
-M ee
-s dd
-*custos cc #
+Lr_3
+Lr_3
+Lr_4
+sr_4
+Sg
+Sdd
+see
+scc
+Mdd
+Mee
+sff#
+M.gg
+mff
+Mee
+sdd
+*custoscc#

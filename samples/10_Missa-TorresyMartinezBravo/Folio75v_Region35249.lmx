@@ -1,26 +1,26 @@
 *clefC4
-s d
-M c #
-M d
-s e
-M c
-M A
-M d
-M d
-m d
-m d
-s e
-s d
-s c
-s B
-s A
-M B
-M c
-M d
-M D
-M E
-m F
-m G
-S A
-S A
+sd
+Mc#
+Md
+se
+Mc
+MA\
+Md
+Md
+md
+md
+se
+sd
+sc
+sB
+sA
+MB
+Mc
+Md
+MD
+ME
+mF
+mG
+SA
+SA
 ==

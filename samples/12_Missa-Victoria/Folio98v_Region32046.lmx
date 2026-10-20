@@ -1,35 +1,35 @@
 *clefG2
 *k[b-]
-M r _3
-s b -
-M a
-M cc
-M. g
-m a
-m b -
-m g
-S cc
-s b -
-M r _4
-M dd
-M dd
-M dd
-M. g
-m a
-M b -
-M cc
-M dd
-M b -
-s ee -
-s dd
-M r _4
-M dd
-M dd
-M dd
-M a
-M b -
-s. cc
-m b X#
-m a
-s b X#
+Mr_3
+sb-
+Ma/
+Mcc\
+M.g/
+ma/
+mb-/
+mg/
+Scc
+sb-
+Mr_4
+Mdd\
+Mdd\
+Mdd\
+M.g/
+ma/
+Mb-\
+Mcc\
+Mdd\
+Mb-\
+see-
+sdd
+Mr_4
+Mdd\
+Mdd\
+Mdd\
+Ma/
+Mb-/
+s.cc
+mbX#/
+ma/
+sbX#
 ==

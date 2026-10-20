@@ -1,14 +1,14 @@
 *clefC2
 *met(C)
-L r _3
-S a
-s b
-s a
-s f
-s g
-S a
-s r _3
-s e
-s f
-s e
-*custos c
+Lr_3
+Sa
+sb
+sa
+sf
+sg
+Sa
+sr_3
+se
+sf
+se
+*custosc

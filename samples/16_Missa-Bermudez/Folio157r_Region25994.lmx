@@ -1,20 +1,20 @@
 *clefC4
-s G
-M G
-s c
-M c
-s G
-s A
-s E
-s A
-M A
-s G
-M E
-[ s F
-s E ]
+sG
+MG
+sc
+Mc
+sG
+sA
+sE
+sA
+MA\
+sG
+ME
+[sF
+sE]
 *met(C)
-s A
-M c
-M G
-M c
-*custos c
+sA
+Mc
+MG
+Mc
+*custosc

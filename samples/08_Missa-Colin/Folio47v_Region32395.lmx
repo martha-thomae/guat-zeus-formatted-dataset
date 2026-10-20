@@ -1,23 +1,23 @@
 *clefC1
 *k[b-]
-M r _4
-s cc
-M cc
-M b -
-M a
-M g
-M. b -
-m a
-m a
-U g
-U f
-M g
-M g
-S a
-S r _3
-s r _4
-M r _4
-s cc
-M b -
-s a
-*custos g
+Mr_4
+scc
+Mcc
+Mb-
+Ma
+Mg\
+M.b-
+ma
+ma
+Ug\
+Uf\
+Mg\
+Mg\
+Sa
+Sr_3
+sr_4
+Mr_4
+scc
+Mb-
+sa
+*custosg

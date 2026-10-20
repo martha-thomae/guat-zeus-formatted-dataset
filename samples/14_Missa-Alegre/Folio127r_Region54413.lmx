@@ -1,18 +1,18 @@
 *clefF4
-s D
-M r _3
-M D
-M BB
-M E
-M D
-M GG
-s C
-M r _2
-M C
-M AA
-M D
-M C
-m BB
-m AA
-S E
+sD
+Mr_3
+MD\
+MBB
+ME
+MD\
+MGG
+sC
+Mr_2
+MC
+MAA
+MD/
+MC
+mBB
+mAA
+SE
 ==

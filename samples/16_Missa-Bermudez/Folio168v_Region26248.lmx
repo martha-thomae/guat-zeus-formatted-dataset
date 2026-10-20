@@ -1,21 +1,21 @@
 *clefG2
-s dd
-M cc
-L dd
-S r _3
-M r _3
-M b
-s dd
-M dd
-M dd
-M. a
-m b
-[ s cc
-s b ]
-s a
-M r _3
-m b
-m b
-m cc
-m b
-*custos cc
+sdd
+Mcc
+Ldd
+Sr_3
+Mr_3
+Mb\
+sdd
+Mdd
+Mdd
+M.a
+mb/
+[scc
+sb]
+sa
+Mr_3
+mb\
+mb\
+mcc
+mb\
+*custoscc

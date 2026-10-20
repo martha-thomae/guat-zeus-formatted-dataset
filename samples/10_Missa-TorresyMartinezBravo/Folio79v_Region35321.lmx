@@ -1,22 +1,22 @@
 *clefC1
-m b
-m a
-s g
-M f #
-M g
-M cc
-M cc
-M b
-s cc
-M. dd
-m dd
-M dd
-s dd
-s ff
-M ee
-S dd
-s ee
-M r _4
-M b
-M b
-*custos a
+mb\
+ma\
+sg
+Mf#/
+Mg/
+Mcc\
+Mcc\
+Mb\
+scc
+M.dd\
+mdd\
+Mdd\
+sdd
+sff
+Mee\
+Sdd
+see
+Mr_4
+Mb\
+Mb\
+*custosa

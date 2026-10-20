@@ -1,23 +1,23 @@
 *clefC1
-s r _3
-M r _3
-s b -
-M f
-s g
-S a
-s g
-M a
-s cc
-M cc
-s a
-s cc
-s b
-s a
-M r _3
-s g
-M g
-M f #
-M f #y
-S g
-s f #
+sr_3
+Mr_3
+sb-
+Mf/
+sg
+Sa
+sg
+Ma\
+scc
+Mcc\
+sa
+scc
+sb
+sa
+Mr_3
+sg
+Mg/
+Mf#/
+Mf#y/
+Sg
+sf#
 ==

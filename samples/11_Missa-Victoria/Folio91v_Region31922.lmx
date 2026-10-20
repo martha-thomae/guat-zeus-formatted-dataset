@@ -1,30 +1,30 @@
 *clefC1
-S r _2
-s r _2
-M r _3
-s g
-M e
-s f
-M d
-M g
-m g
-m f
-m e
-m d
-m e
-m d
-s d
-M c #
-M d
-s dd
-M cc #
-M dd
-M a
-s cc
-S b
-M r _3
-M a
-M a
-M a
-M g
-*custos e
+Sr_2
+sr_2
+Mr_3
+sg
+Me
+sf
+Md
+Mg\
+mg/
+mf
+me
+md
+me
+md
+sd
+Mc#
+Md
+sdd
+Mcc#
+Mdd
+Ma
+scc
+Sb
+Mr_3
+Ma
+Ma
+Ma
+Mg/
+*custose
