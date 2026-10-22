@@ -2,7 +2,7 @@
 *k[b-]
 *met(C)
 s r _2
-M: G
+M : G
 m G
 M A
 M F
@@ -10,12 +10,12 @@ M G
 M A
 M B -
 M G
-M: c
+M : c
 m B -
 M A \
 s B -
 M A \
-M: G
+M : G
 m F
 m D
 m E

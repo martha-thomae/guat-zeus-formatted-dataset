@@ -5,13 +5,13 @@ L r _3
 S r _3
 s r _3
 S g
-M: d
+M : d
 m e
 M f
 M g
 M a
 M b -
-s: cc
+s : cc
 m b X#
 m a
 M b X#
@@ -25,6 +25,6 @@ m b -
 s cc
 M f
 M b -
-M: a
+M : a
 m g
 *custos f

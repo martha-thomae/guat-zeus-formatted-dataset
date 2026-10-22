@@ -4,17 +4,17 @@ L r _3
 S r _3
 L r _3
 s r _3
-s: ee
+s : ee
 M a
 s ee
-s: a
+s : a
 s ee
 M ff
-s: gg
+s : gg
 m ff
 m ee
 M ff
-M: ee
+M : ee
 m dd
 s dd
 *custos cc

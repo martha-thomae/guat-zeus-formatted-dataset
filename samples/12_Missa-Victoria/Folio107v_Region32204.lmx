@@ -4,7 +4,7 @@ M e
 s d
 M c # \
 M d
-M: e
+M : e
 m f
 s g
 M f #
@@ -15,7 +15,7 @@ M G
 s d
 M e
 M c \
-M: d
+M : d
 m e
 M f
 s g

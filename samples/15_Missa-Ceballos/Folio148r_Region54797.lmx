@@ -1,5 +1,5 @@
 *clefC2
-s: b
+s : b
 M g
 s a
 s g
@@ -8,13 +8,13 @@ s cc
 s a
 s g
 s f
-s: e
+s : e
 M f
 s g
 s c
 s B
 s c
-s: g
+s : g
 M e \
 s f
 *custos g

@@ -2,9 +2,9 @@
 M b \
 M cc
 s a
-s: cc
+s : cc
 M b \
-s: a
+s : a
 m g #
 m f #
 S g

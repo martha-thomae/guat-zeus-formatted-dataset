@@ -1,6 +1,6 @@
 *clefC4
 M c
-M: A
+M : A
 m G
 s G
 M F #
@@ -9,10 +9,10 @@ M A \
 M d
 M B
 M c
-s: d
+s : d
 M c
 M B
 M A \
 s G
-S: A
+S : A
 ==

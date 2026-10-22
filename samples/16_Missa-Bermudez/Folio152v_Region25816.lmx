@@ -2,7 +2,7 @@
 *met(C)
 L r _3
 S r _3
-s: e
+s : e
 M A
 M e
 M A
@@ -13,7 +13,7 @@ s c
 M A
 M B
 M G
-M: A
+M : A
 m G
 m A
 m B

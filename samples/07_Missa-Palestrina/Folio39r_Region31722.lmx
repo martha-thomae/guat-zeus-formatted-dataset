@@ -2,16 +2,16 @@
 *met(C)
 S A
 s A
-s: c
+s : c
 m B
 m A
 M B
 M c
-M: d
+M : d
 m c \
 M d
 M e
-M: f
+M : f
 m e
 s d
 M c

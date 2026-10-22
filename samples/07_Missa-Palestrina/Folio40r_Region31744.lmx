@@ -2,7 +2,7 @@
 s D
 [ s A
 s D ]
-M: A
+M : A
 m G
 s F
 S E
@@ -13,10 +13,10 @@ M G
 M A
 s c
 M B
-M: A
+M : A
 m G
 M E
 M G
-M: F \
+M : F \
 m E \
 *custos C

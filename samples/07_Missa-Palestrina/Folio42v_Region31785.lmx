@@ -2,11 +2,11 @@
 *met(C)
 s B
 s c
-s: A
+s : A
 s B
 M e
 M d
-M: e
+M : e
 m d
 s c
 M d
@@ -15,7 +15,7 @@ M r _2
 M A \
 M c
 M B
-M: E
+M : E
 m F
 [ s G
 s A ]

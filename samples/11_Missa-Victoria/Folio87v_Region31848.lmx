@@ -3,25 +3,25 @@ M r _4
 s c
 M A \
 M A \
-M: c
+M : c
 m B
-s: A
+s : A
 m G
 m F
 M G
-M: c
+M : c
 m c
 M A \
 s d
 M B
-M: c
+M : c
 m d
 s e
 s d
 M c #
 s d
 M r _3
-M: G
+M : G
 m G
 M G
 M A \

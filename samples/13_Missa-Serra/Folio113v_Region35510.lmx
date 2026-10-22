@@ -16,14 +16,14 @@ M a
 s b -
 s r _3
 M r _3
-M: a -
+M : a -
 m a -y
 M g \
 M f
 M a -
 M g
 M g
-M: f
+M : f
 m f
 M f
 s b -

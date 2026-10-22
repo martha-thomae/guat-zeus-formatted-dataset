@@ -6,13 +6,13 @@ s a
 s cc
 m b -
 m cc
-M: dd
+M : dd
 m dd
 M cc
 s ee
 M ee
 M dd
 M a
-s: dd
+s : dd
 M d
 *custos g

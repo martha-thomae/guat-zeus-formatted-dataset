@@ -1,7 +1,7 @@
 *clefC1
 M b -
 M f
-s: g
+s : g
 m f
 m e
 s a
@@ -10,7 +10,7 @@ M r _3
 M g
 M g
 M e
-s: cc
+s : cc
 m b
 m a
 m g #
@@ -18,7 +18,7 @@ m f #
 s a
 m g #
 m f #
-M: g
+M : g
 m g
 M a
 M r _3

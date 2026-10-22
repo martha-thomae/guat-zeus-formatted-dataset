@@ -9,7 +9,7 @@ s r _4
 S gg
 s ff
 s ee
-s: dd
+s : dd
 m cc #
 m b \
 s cc #
@@ -17,15 +17,15 @@ s dd
 s r _4
 S ff
 s ff
-s: ee
+s : ee
 m dd
 m cc
 M dd
 M dd
 s ee
-s: ff
+s : ff
 M ee
-s: dd
+s : dd
 m cc #
 m b \
 S cc #

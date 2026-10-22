@@ -3,17 +3,17 @@
 M r _3
 s d
 M d
-M: G
+M : G
 m A
 m B -
 m c
-M: d
+M : d
 m c \
 s c
 m B -
 m A
 s B -
-M: A
+M : A
 m G
 M A
 M B -

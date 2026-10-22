@@ -4,7 +4,7 @@ S G
 M r _2
 M c \
 M F
-M: f
+M : f
 m e
 m d
 m c \
@@ -17,10 +17,10 @@ m e
 m f
 M g
 M G
-M: A
+M : A
 m G
 s F
 M G
-M: g
+M : g
 m g
 *custos g

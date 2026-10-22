@@ -1,7 +1,7 @@
 *clefC4
 *met(C)
 s r _4
-s: d
+s : d
 M c
 M B -
 s d
@@ -12,9 +12,9 @@ M d
 M d
 M e
 M c
-M: d
+M : d
 m B
-M: c
+M : c
 m c
 M B
 M B

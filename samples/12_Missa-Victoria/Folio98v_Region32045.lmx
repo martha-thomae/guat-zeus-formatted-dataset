@@ -1,12 +1,12 @@
 *clefG2
 *k[b-]
 S cc
-s: dd
+s : dd
 M dd
 M g
 s gg
 s dd
-M: ff
+M : ff
 U ee (
 U dd )
 M cc
@@ -16,18 +16,18 @@ M r _4
 M dd
 M dd
 M dd
-M: g
+M : g
 m a
 m b - \
 m cc
-M: dd
+M : dd
 m cc
 s cc
 M b X# \
 M cc
 M a
 M b - \
-M: cc
+M : cc
 m b - \
 s b -
 M a

@@ -1,11 +1,11 @@
 *clefC2
-M: g
+M : g
 m a
-M: b
+M : b
 m a
 M b
 s g
-M: cc
+M : cc
 m b
 m a
 m g

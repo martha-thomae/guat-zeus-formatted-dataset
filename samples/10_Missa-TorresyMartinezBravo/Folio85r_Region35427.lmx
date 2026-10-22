@@ -1,7 +1,7 @@
 *clefC3
 S d
 S r _4
-s: a
+s : a
 M g
 s f
 L r _3
@@ -11,7 +11,7 @@ S a
 M a
 s f
 M g
-s: a
+s : a
 M g
 S f
 ==

@@ -13,7 +13,7 @@ M c # \
 s d
 M c \
 s B
-M: A
+M : A
 m A
 M B
 M c

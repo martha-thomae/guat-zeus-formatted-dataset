@@ -2,18 +2,18 @@
 S c ;
 S f
 S e
-M: d
+M : d
 m c \
 M B
 M B
 M A
-M: a
+M : a
 m g
 m f
 m e
-M: d
+M : d
 m c \
-s: B
+s : B
 M B
 M c \
 *custos A

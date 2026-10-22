@@ -9,11 +9,11 @@ s r _3
 [ s d
 s e ]
 s f
-s: g
+s : g
 m f
 m e \
 M d
-M: g
+M : g
 U f
 U e \
 M d

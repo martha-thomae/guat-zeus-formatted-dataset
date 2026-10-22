@@ -1,13 +1,13 @@
 *clefC2
 m d
 m d
-M: e \
+M : e \
 m c
 M d
 M e
 M g
 M e \
-M: g
+M : g
 m a
 M b
 M a
@@ -19,6 +19,6 @@ m cc
 M cc
 M cc
 M cc
-s: a
+s : a
 M a
 *custos a

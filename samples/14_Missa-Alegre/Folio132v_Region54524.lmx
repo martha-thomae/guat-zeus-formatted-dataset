@@ -4,10 +4,10 @@ s B
 M r _3
 s A
 M A \
-M: B -
+M : B -
 m A \
 s G
-s: A
+s : A
 m G
 m F
 s E
@@ -16,7 +16,7 @@ M d
 M d
 M c #
 s d
-s: e
+s : e
 s d
 s c
 m B

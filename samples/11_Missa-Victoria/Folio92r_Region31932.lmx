@@ -1,6 +1,6 @@
 *clefC3
 *met(C)
-M: d
+M : d
 m d
 M d
 M d
@@ -10,7 +10,7 @@ M c \
 s c
 M B
 s c
-M: e
+M : e
 m e
 M e
 M e
@@ -20,7 +20,7 @@ s c
 M A
 s B
 M G
-M: c \
+M : c \
 m c
 M B
 M c \

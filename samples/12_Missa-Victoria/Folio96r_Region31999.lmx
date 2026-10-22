@@ -3,13 +3,13 @@
 *met(C)
 L r _3
 s r _3
-s: g
+s : g
 M g
-M: d
+M : d
 m e
 m f
 m g
-M: a
+M : a
 m g
 s g
 M f #

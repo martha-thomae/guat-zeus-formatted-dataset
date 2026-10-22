@@ -1,5 +1,5 @@
 *clefG2
-s: dd
+s : dd
 M cc
 s dd
 M b \
@@ -19,6 +19,6 @@ M ff #
 M gg
 M gg
 M dd
-M: ff
+M : ff
 m ee
 *custos dd

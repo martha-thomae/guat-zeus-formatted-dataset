@@ -8,11 +8,11 @@ M b \
 M cc
 s ee
 M dd
-M: cc
+M : cc
 m dd
 M ee
 M dd
-M: ff
+M : ff
 m ee
 M dd
 s cc

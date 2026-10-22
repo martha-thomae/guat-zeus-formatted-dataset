@@ -1,7 +1,7 @@
 *clefC1
 *k[b-]
 *met(C)
-s: a
+s : a
 M g
 M f
 M f
@@ -9,7 +9,7 @@ s e
 M e
 M f
 s g
-M: a
+M : a
 m b -
 M cc
 M g
@@ -17,7 +17,7 @@ M a
 M b -
 M a
 M g \
-s: a
+s : a
 M g
 s f
 S e

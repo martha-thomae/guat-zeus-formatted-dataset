@@ -2,25 +2,25 @@
 M cc #
 m dd
 m cc
-M: b
+M : b
 m a
 M g # \
 s a
 M g # \
 s a
 M a
-M: dd
+M : dd
 m cc
 M b
 s g
-M: g
+M : g
 m f
 M e
 s e
 M e
-s: f
+s : f
 M g
-M: a
+M : a
 m a
 s d
 *custos cc

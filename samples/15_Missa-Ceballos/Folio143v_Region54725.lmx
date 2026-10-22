@@ -4,11 +4,11 @@ M g
 s cc
 s dd
 s ee
-s: dd
+s : dd
 M cc
 M dd
 M b \
-M: a
+M : a
 m b
 m cc
 m dd
@@ -20,7 +20,7 @@ M r _4
 s dd
 M b \
 M cc
-M: dd
+M : dd
 m dd
 M ee
 M cc

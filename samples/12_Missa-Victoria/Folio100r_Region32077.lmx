@@ -1,6 +1,6 @@
 *clefC2
 *k[b-]
-s: b -
+s : b -
 M b -
 s a -
 s b -
@@ -28,7 +28,7 @@ M a
 M b -
 M cc
 M a
-M: b -
+M : b -
 m a
 M g
 M f

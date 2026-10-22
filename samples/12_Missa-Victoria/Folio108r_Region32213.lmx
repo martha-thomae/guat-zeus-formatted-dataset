@@ -1,14 +1,14 @@
 *clefC4
 *k[b-]
-s: d
+s : d
 M d
 s G
 M A \
 M B -
-s: c
+s : c
 M B -
 s A
-M: G
+M : G
 U F (
 U E )
 s D
@@ -20,6 +20,6 @@ M G
 M F
 M D
 s F
-M: C
+M : C
 m D
 *custos E

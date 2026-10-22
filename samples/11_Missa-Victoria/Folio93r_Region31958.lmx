@@ -1,5 +1,5 @@
 *clefF4
-M: A
+M : A
 m G
 s G
 M F #
@@ -7,22 +7,22 @@ M G
 M E
 S D
 s r _4
-s: G
+s : G
 M G
 M E
 s F
 M D \
-M: G
+M : G
 m F
 M E
 M D \
 M GG
-M: G
+M : G
 m G
 M E
 s A
 M D \
-M: G
+M : G
 m F
 m E
 m D \

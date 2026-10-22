@@ -5,7 +5,7 @@ M FF
 M F
 M D \
 M E
-M: F
+M : F
 m E
 M D \
 M C
@@ -16,7 +16,7 @@ M F
 M F
 M C
 s D
-M: AA
+M : AA
 m BB -
 M C
 M AA

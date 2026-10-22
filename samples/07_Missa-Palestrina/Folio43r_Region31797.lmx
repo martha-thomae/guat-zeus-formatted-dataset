@@ -1,11 +1,11 @@
 *clefF4
 M F
 s G
-s: F
+s : F
 m E
 m D \
 s E
-M: D \
+M : D \
 m E
 m F
 m G
@@ -17,6 +17,6 @@ s A
 L r _3
 S r _3
 s r _3
-M: G
+M : G
 m G
 *custos G

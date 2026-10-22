@@ -14,9 +14,9 @@ s cc
 s b
 s a
 s a
-s: g
+s : g
 M f
-s: a
+s : a
 M g
 S f #
 ==

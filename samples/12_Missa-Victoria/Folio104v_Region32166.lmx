@@ -7,11 +7,11 @@ s dd
 M cc #
 s dd
 s r _3
-s: dd
+s : dd
 M dd
 S g
 s a
-M: b X#
+M : b X#
 m b ny
 M cc
 M a

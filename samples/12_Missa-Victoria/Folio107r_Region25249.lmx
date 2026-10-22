@@ -6,11 +6,11 @@ s g
 s a
 S b -
 s g
-s: a
+s : a
 M g
 M a
 M b -
-s: cc
+s : cc
 M b -
 s g
 S a

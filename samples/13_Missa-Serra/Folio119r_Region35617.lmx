@@ -6,7 +6,7 @@ s B -
 M e -
 m d
 m e -
-M: f
+M : f
 m e -
 m d
 m c \
@@ -16,7 +16,7 @@ s d
 s r _3
 s f
 s d
-s: e -
+s : e -
 M d
 s c
 M r _4

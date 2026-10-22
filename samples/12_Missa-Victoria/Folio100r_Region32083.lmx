@@ -7,7 +7,7 @@ M BB -yy
 M B -
 M A
 M G
-M: d
+M : d
 m d
 s G
 s r _2
@@ -18,7 +18,7 @@ M D
 M C
 s F
 M F
-M: C
+M : C
 m BB -
 m C
 m D

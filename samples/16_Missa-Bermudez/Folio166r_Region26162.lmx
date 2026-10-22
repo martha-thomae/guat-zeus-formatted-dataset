@@ -2,7 +2,7 @@
 *met(C)
 L r _3
 s r _3
-s: e
+s : e
 M e \
 M f
 M e \
@@ -12,7 +12,7 @@ M a
 s cc
 M b
 S a
-s: g
+s : g
 M g
 M e \
 *custos b

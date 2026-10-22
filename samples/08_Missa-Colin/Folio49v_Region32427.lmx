@@ -19,10 +19,10 @@ s r _3
 M r _2
 s f
 M e
-M: f
+M : f
 m g
 M a
-M: b -
+M : b -
 m a
 s a
 M g \

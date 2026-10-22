@@ -7,14 +7,14 @@ m c
 m d
 m e \
 m f
-M: g
+M : g
 m f
 m e
 m d
 s e
 M e \
 s a
-M: cc
+M : cc
 m b
 m a
 m g

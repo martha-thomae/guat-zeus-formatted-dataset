@@ -1,8 +1,8 @@
 *clefC2
 M b
-s: a
+s : a
 M e \
-M: f
+M : f
 m e \
 s d
 s c
@@ -10,10 +10,10 @@ S c
 S r _3
 [ s c
 s e ]
-s: g
+s : g
 M g
 s g
-M: a
+M : a
 m g
 M f
 M f

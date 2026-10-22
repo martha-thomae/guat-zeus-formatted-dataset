@@ -1,7 +1,7 @@
 *clefC1
 *k[b-]
 M b -
-S: cc
+S : cc
 S r _3
 M r _3
 M f
@@ -14,7 +14,7 @@ M b -
 M a
 M f
 M g
-M: g
+M : g
 m f
 s f
 M e

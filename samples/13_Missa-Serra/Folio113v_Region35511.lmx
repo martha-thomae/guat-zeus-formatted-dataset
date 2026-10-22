@@ -13,7 +13,7 @@ M g \
 s a
 s b -
 M r _4
-M: cc
+M : cc
 m cc
 m b -
 m a
@@ -21,7 +21,7 @@ M g \
 M b -
 M a
 M dd
-M: cc
+M : cc
 m cc
 s cc
 S r _3

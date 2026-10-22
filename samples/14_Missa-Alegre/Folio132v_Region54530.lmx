@@ -2,10 +2,10 @@
 M a
 s a
 M a
-M: b
+M : b
 m a
 s g
-M: a
+M : a
 m g \
 m f
 m g

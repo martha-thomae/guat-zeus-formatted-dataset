@@ -11,16 +11,16 @@ s gg
 s dd ]
 s ee
 s ff
-s: ee
+s : ee
 M ff
 M dd
 M dd
 M cc
 M a \
-s: b
+s : b
 M cc
 M r _4
-M: dd
+M : dd
 m cc
 M a \
 S b

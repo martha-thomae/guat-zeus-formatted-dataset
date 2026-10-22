@@ -19,7 +19,7 @@ m cc
 m a
 s dd
 M cc
-M: b -
+M : b -
 m cc
 s dd
 M r _4

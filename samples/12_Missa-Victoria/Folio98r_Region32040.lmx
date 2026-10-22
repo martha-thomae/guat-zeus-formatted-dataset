@@ -5,7 +5,7 @@ L r _3
 S r _3
 s r _3
 s d
-M: G
+M : G
 m A
 M B -
 s c
@@ -19,6 +19,6 @@ M G
 M F #
 M G
 s C
-s: F
+s : F
 M F
 *custos G

@@ -1,22 +1,22 @@
 *clefC1
-s: cc
+s : cc
 M b
 M a
 M g \
-M: f
+M : f
 U e (
 U d )
 s c
 s d
 S r _2
-s: g
+s : g
 M g \
 s a
 s r _3
 S dd
 s cc
 s b
-s: a
+s : a
 M g \
 M f
 M e

@@ -5,7 +5,7 @@ M g
 M f
 M f
 s e
-M: d
+M : d
 m e
 s f
 m g \
@@ -17,9 +17,9 @@ s r _3
 s cc
 M b
 M b
-s: a
+s : a
 M g \
 s g
-M: a
+M : a
 m b
 *custos cc

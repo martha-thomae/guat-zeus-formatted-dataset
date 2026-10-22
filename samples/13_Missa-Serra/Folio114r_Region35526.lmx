@@ -1,6 +1,6 @@
 *clefF4
 *k[b-e-]
-M: F
+M : F
 m F
 s BB -
 L r _3
@@ -10,7 +10,7 @@ M F
 M G
 m A -
 m G
-M: F
+M : F
 m F
 s E -
 L r _3
@@ -20,7 +20,7 @@ M D \
 s E X#
 s F
 M r _4
-M: G
+M : G
 m G
 m F
 m E -

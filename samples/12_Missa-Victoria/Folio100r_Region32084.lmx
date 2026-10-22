@@ -4,7 +4,7 @@ s G
 M G
 M G
 M F
-M: G
+M : G
 m F
 m E -
 m D
@@ -12,12 +12,12 @@ M C
 M BB -
 S E -
 s D
-M: D
+M : D
 m E
 s F
 S C
 s F
-M: BB -X
+M : BB -X
 m C
 S D
 S G ;

@@ -3,7 +3,7 @@
 *met(C)
 s b -
 M a
-M: f
+M : f
 m g
 M a
 m b -
@@ -20,7 +20,7 @@ s g
 s f
 s ff
 M dd
-M: b -
+M : b -
 m cc
 M dd
 *custos ee

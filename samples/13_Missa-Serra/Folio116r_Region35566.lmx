@@ -4,21 +4,21 @@
 M r _4
 s F
 M E -
-M: D \
+M : D \
 m E -
 s F
 M r _3
 s E -
 M D
-M: C
+M : C
 m D
 s E -
 M r _3
-M: D
+M : D
 m D
 m C
 m C
-M: BB -
+M : BB -
 m C
 s D
 *custos C

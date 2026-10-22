@@ -5,7 +5,7 @@ S r _3
 s r _3
 S A
 s c
-M: d
+M : d
 m c \
 m d
 m e
@@ -15,6 +15,6 @@ m d
 M e
 s f
 M e
-M: f
+M : f
 m e
 *custos d

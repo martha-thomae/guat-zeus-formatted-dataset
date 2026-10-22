@@ -1,13 +1,13 @@
 *clefC4
 *met(C)
-M: G
+M : G
 m F
 s E
 [ s D
 s G ]
 M C
 M c
-M: d
+M : d
 m c
 M B
 M c
@@ -18,7 +18,7 @@ s G
 s F
 s E
 s D
-M: E
+M : E
 m F
 M G
 *custos D

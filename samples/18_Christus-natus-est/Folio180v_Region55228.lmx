@@ -11,16 +11,16 @@ M g \
 M r _3
 M a
 M a
-M: cc
+M : cc
 m b
-M: a
+M : a
 U g # \ (
 U f \ )
 M g \
 M a
 s cc
 M b
-s: a
+s : a
 m g #
 m f
 S g

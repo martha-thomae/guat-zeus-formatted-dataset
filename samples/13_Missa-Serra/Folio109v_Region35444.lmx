@@ -1,7 +1,7 @@
 *clefC4
 *k[b-e-]
 s e -
-M: d
+M : d
 m c
 s B -
 s c
@@ -10,7 +10,7 @@ s r _3
 s B -
 s G
 M B -
-M: F
+M : F
 m G
 m A \
 m B -
@@ -22,5 +22,5 @@ m B -
 M A \
 s B -
 M A \
-S: B - ;
+S : B - ;
 ==

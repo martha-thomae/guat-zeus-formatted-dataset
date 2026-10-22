@@ -9,14 +9,14 @@ M f
 M e
 M d
 M c \
-M: d
+M : d
 m A
-M: c \
+M : c \
 m B
 M B
 S c
 s r _2
-s: A
+s : A
 M A
 M B
 *custos d

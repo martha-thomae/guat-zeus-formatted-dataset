@@ -1,6 +1,6 @@
 *clefC1
 *k[b-e-]
-M: g \
+M : g \
 m a
 M b X#
 M cc
@@ -8,15 +8,15 @@ M cc
 M b -X
 s cc
 M f
-M: b -
+M : b -
 m b -
 M f
 M r _4
-M: ee -
+M : ee -
 m ee -
 m dd
 m dd
-s: cc
+s : cc
 M b -
 s a
 s d

@@ -5,13 +5,13 @@ M a
 M b
 m cc
 m dd
-M: ee
+M : ee
 m dd
 s dd
 m cc
 m b \
 M cc
-M: ee
+M : ee
 m ee
 M ee
 M dd

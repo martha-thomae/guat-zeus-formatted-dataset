@@ -7,7 +7,7 @@ s r _3
 M r _3
 s f
 M e
-M: f
+M : f
 m e
 M d
 M d
@@ -17,13 +17,13 @@ s B -
 s c
 s f
 M r _2
-M: c
+M : c
 m B -
 m A
 m G
 s F
 s G
-s: c
+s : c
 M c
 S c ;
 ==

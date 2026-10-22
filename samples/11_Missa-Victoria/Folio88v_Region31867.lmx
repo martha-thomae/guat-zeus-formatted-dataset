@@ -1,7 +1,7 @@
 *clefC4
 s c
 M B
-M: c
+M : c
 U B (
 U A \ )
 s G
@@ -12,7 +12,7 @@ m E
 M F
 M F
 s G
-M: G
+M : G
 m G
 M G
 M G
@@ -28,7 +28,7 @@ M d
 M c
 M A \
 s c
-M: B
+M : B
 U A (
 U G )
 *custos A

@@ -2,7 +2,7 @@
 M ff
 M ff
 M ff
-M: dd
+M : dd
 U cc
 U b \
 M cc
@@ -16,7 +16,7 @@ M r _3
 M dd
 s dd
 s ee
-s: ff
+s : ff
 M ee
 [ S dd
 S cc ]

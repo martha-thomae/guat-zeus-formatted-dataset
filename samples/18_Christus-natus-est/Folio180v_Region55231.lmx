@@ -1,5 +1,5 @@
 *clefC1
-M: a
+M : a
 m b
 M cc
 M a
@@ -17,9 +17,9 @@ M b
 M a
 M dd
 M cc
-M: ee
+M : ee
 m dd
-M: dd
+M : dd
 U cc # (
 U b )
 M cc

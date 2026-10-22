@@ -4,7 +4,7 @@ m c \
 m c \
 m c \
 m c \
-M: B
+M : B
 m B
 m B
 m c
@@ -15,6 +15,6 @@ m e
 m e
 m e
 m e
-M: d
+M : d
 m d
 *custos d

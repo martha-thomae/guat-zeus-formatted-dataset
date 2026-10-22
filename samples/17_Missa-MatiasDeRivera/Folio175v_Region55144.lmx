@@ -1,7 +1,7 @@
 *clefC3
 s e
 M f
-M: d
+M : d
 m d
 M d
 M c \
@@ -13,10 +13,10 @@ M c \
 s d
 M A
 M A
-M: e
+M : e
 m e
 M A
-M: c \
+M : c \
 m d
 m e
 m f

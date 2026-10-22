@@ -1,11 +1,11 @@
 *clefC2
 *k[b-]
-M: g
+M : g
 m a
 s b -
 M a
 M b -
-M: cc
+M : cc
 m b -
 M a
 M g
@@ -21,6 +21,6 @@ s d
 M d
 M B -
 M G
-M: d
+M : d
 m c
 *custos d

@@ -8,7 +8,7 @@ s cc
 s b -
 M a
 M b -
-M: b -
+M : b -
 m b -
 M a
 M g
@@ -20,7 +20,7 @@ M r _3
 s a
 M a
 s b -
-M: dd
+M : dd
 m dd
 M b -
 *custos ee

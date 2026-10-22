@@ -5,7 +5,7 @@ s B -
 s f
 M f
 M f
-M: c \
+M : c \
 m d
 m e
 m f
@@ -18,11 +18,11 @@ M r _4
 M d
 M d
 M d
-M: G
+M : G
 m A
 m B -
 m c
-M: d
+M : d
 m c
 s c
 m B -

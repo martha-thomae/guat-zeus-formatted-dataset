@@ -7,20 +7,20 @@ s r _3
 S dd
 S dd
 S g
-s: a
+s : a
 M b - \
 [ s cc
 s b - ]
 s a
 s g
 M r _3
-M: dd
+M : dd
 m dd
 M dd
 M cc
 M b - \
 s cc
-s: dd
+s : dd
 M dd
 s g
 *custos b

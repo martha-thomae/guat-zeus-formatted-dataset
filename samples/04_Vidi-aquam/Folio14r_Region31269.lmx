@@ -9,18 +9,18 @@ M g
 M f
 M g
 M f
-s: a
+s : a
 M a
 M a
 M g
-s: g
+s : g
 M a
 s f
 S g
 [ S a
 S g ]
 s g
-s: g
+s : g
 m f
 m e \
 *custos f

@@ -1,7 +1,7 @@
 *clefG2
 *k[b-]
 s dd
-s: cc
+s : cc
 m b -
 m a
 s b
@@ -15,11 +15,11 @@ s dd
 s ff
 [ s ee
 s dd ]
-S: cc
+S : cc
 L r _2
 s f
 s g
-s: a
+s : a
 M a
 s a
 s g

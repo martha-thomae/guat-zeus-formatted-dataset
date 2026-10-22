@@ -2,17 +2,17 @@
 *met(C)
 L r _3
 S r _3
-s: A
+s : A
 M A \
 M A \
 M F
 M G
-M: A
+M : A
 m G
 M G
 S A
 s r _2
-s: E
+s : E
 M E
 M F
 *custos E

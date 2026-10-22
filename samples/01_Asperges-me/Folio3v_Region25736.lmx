@@ -7,15 +7,15 @@ s b
 s dd ]
 s dd
 s dd
-s: dd
+s : dd
 M dd
 M dd
 M dd
 s dd
 s r _3
 s dd
-s: dd
+s : dd
 M ee
-s: ff
+s : ff
 s ee
 *custos dd

@@ -9,7 +9,7 @@ s a
 s b
 L r _3
 s r _3
-s: a
+s : a
 M a
 M g
 M f

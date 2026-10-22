@@ -3,16 +3,16 @@
 S r _2
 S e
 s e
-s: g
+s : g
 m f
 m e
 M f
 M g
-M: a
+M : a
 m g \
 M a
 M b
-M: cc
+M : cc
 m b
 s a
 M g

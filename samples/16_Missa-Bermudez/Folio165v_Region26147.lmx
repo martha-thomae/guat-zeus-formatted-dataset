@@ -6,7 +6,7 @@ M cc
 M b \
 s cc
 M a
-M: b
+M : b
 m a
 s a
 m g #

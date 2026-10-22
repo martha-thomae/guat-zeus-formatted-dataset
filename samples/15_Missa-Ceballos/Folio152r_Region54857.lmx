@@ -1,6 +1,6 @@
 *clefC4
 M r _4
-M: c
+M : c
 m B
 M A
 M G
@@ -11,12 +11,12 @@ S D
 s G
 S r _3
 M r _3
-M: G
+M : G
 m F
 M E
 M D
 M C
-M: E
+M : E
 m F
 s G
 S C

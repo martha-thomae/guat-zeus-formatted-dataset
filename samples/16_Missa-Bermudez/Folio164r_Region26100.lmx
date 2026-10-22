@@ -1,5 +1,5 @@
 *clefC2
-M: d
+M : d
 m e
 s f
 M e
@@ -10,7 +10,7 @@ s e
 M e
 M d
 M d
-s: g
+s : g
 M f
 M f
 s g

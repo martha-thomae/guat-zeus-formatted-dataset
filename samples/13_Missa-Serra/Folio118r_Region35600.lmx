@@ -12,7 +12,7 @@ s f #
 M f
 s g
 s r _3
-M: g
+M : g
 m g
 M e -
 m a -
@@ -20,7 +20,7 @@ m g
 m f
 m e -
 M f
-M: f
+M : f
 m f
 M d
 *custos g

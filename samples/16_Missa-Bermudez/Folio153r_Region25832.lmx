@@ -1,7 +1,7 @@
 *clefC2
 *met(C)
 S r _3
-M: a
+M : a
 m a
 M a
 M a
@@ -12,6 +12,6 @@ m g
 m g
 M g
 M a
-M: cc
+M : cc
 m b
 *custos a

@@ -6,25 +6,25 @@ M c
 s B -
 S r _2
 M r _2
-M: G
+M : G
 m A \
 M B X#
 M c
 M c
 s r _2
 M r _2
-M: F
+M : F
 m G
 M A
-m: B -
+m : B -
 U B -
 M B -
 s r _2
 M r _2
-M: E -
+M : E -
 m F
 M G
-M: A - \
+M : A - \
 m B -
 m c
 m B -

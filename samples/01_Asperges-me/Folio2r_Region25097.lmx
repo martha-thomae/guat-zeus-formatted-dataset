@@ -1,5 +1,5 @@
 *clefC2
-M: e
+M : e
 m d
 m c
 m B
@@ -14,13 +14,13 @@ m f
 m g
 m a
 m b
-M: cc
+M : cc
 m b
 M a
 M g
 m f
 m e \
-M: d
+M : d
 m e
 M f
 M f

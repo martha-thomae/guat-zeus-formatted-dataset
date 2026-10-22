@@ -3,10 +3,10 @@ M c \
 M d
 s A
 M B
-M: A
+M : A
 m B
 M c \
-M: d
+M : d
 m c \
 s e
 m d
@@ -18,7 +18,7 @@ M A
 M c \
 M d
 M e
-M: A
+M : A
 m B
 M c
 M d

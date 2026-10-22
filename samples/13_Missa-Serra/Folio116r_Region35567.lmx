@@ -3,7 +3,7 @@
 M r _2
 s C
 M BB -
-M: AA
+M : AA
 m BB -
 s C
 M r _2
@@ -12,7 +12,7 @@ m BB -
 M BB -
 m AA
 m AA
-M: GG
+M : GG
 m AA
 s BB -
 s r _2
@@ -21,7 +21,7 @@ M C
 s E -
 M D \
 M D \
-M: F
+M : F
 m F
 s E -
 M E -

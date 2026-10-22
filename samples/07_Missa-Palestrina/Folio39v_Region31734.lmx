@@ -8,10 +8,10 @@ M g \
 M a
 s cc
 M b
-M: a
+M : a
 m g \
 M e
-M: g
+M : g
 m f
 M d
 *custos f

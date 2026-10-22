@@ -3,17 +3,17 @@ s a
 M r _2
 M r _2
 M b \
-M: cc
+M : cc
 m b \
 M cc
 s b
 M dd
-M: cc
+M : cc
 m b \
 M cc
 s b
 M g #
-M: a
+M : a
 m g #
 M a
 s g #

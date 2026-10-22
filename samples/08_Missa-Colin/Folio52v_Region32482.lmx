@@ -1,7 +1,7 @@
 *clefC1
 *k[b-]
 S r _3
-s: cc
+s : cc
 M cc
 M a
 M a
@@ -11,17 +11,17 @@ m a
 m g \
 m a
 m b -
-M: cc
+M : cc
 m b -
 m a
 m g \
-M: b -
+M : b -
 m a
 s a
 M g \
 M a
-M: f
+M : f
 m d
-M: g
+M : g
 m f
 *custos f

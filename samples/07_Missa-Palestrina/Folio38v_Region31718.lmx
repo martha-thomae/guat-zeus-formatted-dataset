@@ -7,12 +7,12 @@ L r _3
 L r _3
 S A
 s A
-s: c
+s : c
 m B
 m A \
 M B
 M c
-M: d
+M : d
 m c
 M d
 M e

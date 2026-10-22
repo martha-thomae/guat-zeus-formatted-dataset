@@ -2,14 +2,14 @@
 m b
 m a
 s b
-M: a
+M : a
 m b
 M cc
 M b
-M: cc
+M : cc
 m b
 s a
-S: g
+S : g
 s r _3
 s g
 s g
@@ -20,7 +20,7 @@ M dd
 M d
 M f
 M g
-S: a
+S : a
 s r _4
 s g
 M a

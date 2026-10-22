@@ -5,7 +5,7 @@ s b
 s a
 S r _3
 s r _3
-M: g \
+M : g \
 m g \
 M a
 M b
@@ -19,7 +19,7 @@ s a
 M g # \
 s a
 s r _2
-M: e
+M : e
 m e
 M f #
 M g

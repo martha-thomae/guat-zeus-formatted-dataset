@@ -6,21 +6,21 @@ S b -
 S a
 S cc
 S dd
-s: g
+s : g
 M g
 s a
-s: b -
+s : b -
 M a
 s g
 M f
-M: a
+M : a
 m a
 M a
 s cc
 s a
 s b -
 M a
-M: a
+M : a
 m g
 s g
 M f #

@@ -9,7 +9,7 @@ M c \
 M B - \
 s d
 M d
-M: f
+M : f
 m e
 M e
 s d
@@ -17,7 +17,7 @@ s d
 M r _4
 M f
 M g
-M: a
+M : a
 U g (
 U f )
 M e

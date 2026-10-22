@@ -1,5 +1,5 @@
 *clefC3
-s: f
+s : f
 M e
 s d
 S r _2
@@ -15,16 +15,16 @@ M d
 s B
 s c
 M A
-M: d
+M : d
 m c \
 m B \
 m A
 M G
 M A
-M: B
+M : B
 m c
 M d
-M: e
+M : e
 m d
 m c \
 m B \

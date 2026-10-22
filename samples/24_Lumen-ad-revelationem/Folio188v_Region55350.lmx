@@ -11,7 +11,7 @@ s cc
 s a
 s a
 s b
-s: a
+s : a
 s g
 m f #
 m e

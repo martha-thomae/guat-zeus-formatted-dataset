@@ -7,9 +7,9 @@ S g
 S a
 s f #
 s g
-s: a
+s : a
 M b X#
-M: cc
+M : cc
 m b -
 m a
 m g

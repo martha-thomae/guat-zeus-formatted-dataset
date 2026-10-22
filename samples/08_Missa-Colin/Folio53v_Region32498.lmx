@@ -3,7 +3,7 @@
 *met(C)
 S f
 s g
-M: a
+M : a
 m g \
 m f
 m e
@@ -15,6 +15,6 @@ M dd
 M cc
 M b -
 M g \
-M: a
+M : a
 m g \
 *custos f

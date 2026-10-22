@@ -6,9 +6,9 @@ M r _2
 M f
 M f
 M g
-s: a
+s : a
 M g
-M: a
+M : a
 m b
 M cc
 s a
@@ -22,6 +22,6 @@ M f
 M g
 s a
 M a
-M: g
+M : g
 m e \
 *custos f

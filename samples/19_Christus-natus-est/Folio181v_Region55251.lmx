@@ -2,7 +2,7 @@
 *k[b-]
 s gg
 M g
-M: b - \
+M : b - \
 m b \
 s cc
 s dd
@@ -11,7 +11,7 @@ M gg
 s ff
 s ff
 M r _4
-M: gg
+M : gg
 m gg
 M ff
 M ee
@@ -21,7 +21,7 @@ M r _4
 s dd
 M dd
 M dd
-M: gg
+M : gg
 m ff
 m ee
 m dd

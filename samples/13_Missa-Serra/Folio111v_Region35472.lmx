@@ -7,7 +7,7 @@ m a -
 M g \
 s f
 M r _3
-M: a -
+M : a -
 m a -y
 M g \
 M f
@@ -19,14 +19,14 @@ M dd
 M b -
 M ff
 M ff
-M: ee -
+M : ee -
 m ee -
 s dd
 M r _4
-M: cc
+M : cc
 m cc
 M g \
-M: a
+M : a
 m b -
 s cc
 M r _4

@@ -2,7 +2,7 @@
 S r _2
 M r _1
 M E
-M: A \
+M : A \
 m G
 M A \
 M F
@@ -12,12 +12,12 @@ S r _3
 M r _1
 M r _1
 M E
-M: A \
+M : A \
 m G
 M A \
 M E
 s G
-M: A \
+M : A \
 m G \
 M A \
 s E

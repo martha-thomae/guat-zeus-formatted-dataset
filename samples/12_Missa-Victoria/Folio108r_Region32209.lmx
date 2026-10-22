@@ -1,12 +1,12 @@
 *clefC2
 *k[b-]
 s r _3
-s: g
+s : g
 M g
 s c
 M d
 M e
-M: f
+M : f
 m d
 m e \
 m f
@@ -18,11 +18,11 @@ M g
 M f
 M d
 s f
-M: c
+M : c
 m d
 m e \
 m f
-M: g
+M : g
 m e \
 s a
 *custos g

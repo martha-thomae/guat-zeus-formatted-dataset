@@ -2,14 +2,14 @@
 *met(C)
 L r _3
 s r _3
-s: dd
+s : dd
 M cc
 M b -
 s dd
 s cc
 M b
 s a
-M: dd
+M : dd
 m dd
 M ee
 M cc #

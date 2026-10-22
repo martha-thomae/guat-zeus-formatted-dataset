@@ -8,7 +8,7 @@ M r _4
 M g
 M f
 M d
-s: f
+s : f
 M e \
 s f
 M r _4
@@ -20,7 +20,7 @@ M cc
 M a
 M g
 M a
-M: b -
+M : b -
 m a
 s g
 m f #

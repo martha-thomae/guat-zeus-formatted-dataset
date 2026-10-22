@@ -2,9 +2,9 @@
 M b -
 m g
 m d
-M: f
+M : f
 m f
-M: e
+M : e
 m e
 s d
 S r _3
@@ -15,7 +15,7 @@ M cc
 s ee
 s dd
 s cc
-M: b -
+M : b -
 m b
 M a
 s a

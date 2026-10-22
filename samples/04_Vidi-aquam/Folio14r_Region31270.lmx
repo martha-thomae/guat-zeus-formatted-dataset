@@ -2,14 +2,14 @@
 S f
 S g
 M a
-M: cc
+M : cc
 m b
 m g
 m a
 M b
 s a
 M g
-s: g
+s : g
 M f
 s e
 s d

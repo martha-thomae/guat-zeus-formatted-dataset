@@ -12,7 +12,7 @@ s g
 M g
 S g
 M f
-M: d
+M : d
 m e
 m f
 m g
@@ -23,8 +23,8 @@ m f
 m e
 m d
 s e
-M: f
+M : f
 m e \
-S: d
+S : d
 S d ;
 ==

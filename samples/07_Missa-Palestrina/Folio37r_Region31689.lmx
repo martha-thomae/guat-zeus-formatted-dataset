@@ -1,5 +1,5 @@
 *clefF3
-s: C
+s : C
 M C
 M C
 M C
@@ -16,12 +16,12 @@ M D
 M C
 s D
 s E
-s: F
+s : F
 M F
 M C
 M D
 M A
 M A
 *met(C|3/2)
-S: D
+S : D
 *custos A

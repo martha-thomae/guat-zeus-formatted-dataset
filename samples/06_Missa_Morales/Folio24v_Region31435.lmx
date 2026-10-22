@@ -2,7 +2,7 @@
 L c
 s r _2
 s G
-s: A
+s : A
 M B
 S c
 s d
@@ -22,7 +22,7 @@ M f
 M e
 m d
 m c \
-s: d
+s : d
 m c
 m B
 S c

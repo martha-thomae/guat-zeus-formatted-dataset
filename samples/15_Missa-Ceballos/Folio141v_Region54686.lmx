@@ -2,9 +2,9 @@
 M c \
 M c \
 s d
-s: e
+s : e
 M d
-M: c
+M : c
 m B
 M A
 s c
@@ -13,7 +13,7 @@ s c
 s r _2
 S c
 [ s c
-s: d ]
+s : d ]
 m c
 m B
 s c

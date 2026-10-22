@@ -5,21 +5,21 @@ M dd
 s cc
 M cc
 M cc
-M: a
+M : a
 m b
 s cc
 s r _4
 M r _4
 M cc
-M: dd
+M : dd
 m dd
 M cc
 M cc
-M: dd
+M : dd
 m dd
 M cc
 M ff
-M: dd
+M : dd
 m ee
 s ff
 s ee

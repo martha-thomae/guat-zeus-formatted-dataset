@@ -3,7 +3,7 @@ s r _3
 M r _3
 s d
 M A
-M: B
+M : B
 m c
 M d
 M e
@@ -17,7 +17,7 @@ m c
 s d
 s D
 S r _2
-M: d
+M : d
 m d
 M c \
 M A
@@ -25,6 +25,6 @@ s c
 M G
 M c \
 M B
-M: B
+M : B
 m A
 *custos A

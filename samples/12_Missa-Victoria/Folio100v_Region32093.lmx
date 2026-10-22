@@ -3,7 +3,7 @@
 L r _3
 S r _3
 s r _3
-M: d
+M : d
 m d
 M d
 M d
@@ -18,17 +18,17 @@ m e
 M f
 M g
 s c
-M: e
+M : e
 m e
 M f
 M e
 M g
-M: g
+M : g
 m f
 m e
 m d
 M e
 M c
-M: d
+M : d
 m e
 *custos f

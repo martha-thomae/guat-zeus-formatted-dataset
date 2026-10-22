@@ -3,9 +3,9 @@
 *met(C)
 L r _3
 S r _3
-s: G
+s : G
 M G
-M: D
+M : D
 m E
 M F
 M G
@@ -13,7 +13,7 @@ s A
 M G
 M B -
 M G
-M: B -
+M : B -
 m A \
 s G
 M C

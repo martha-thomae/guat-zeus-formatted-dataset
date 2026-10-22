@@ -1,10 +1,10 @@
 *clefC2
 *k[b-]
-M: f
+M : f
 m e \
 m d
 m c
-M: d
+M : d
 m B -
 M d
 M c
@@ -16,11 +16,11 @@ M d
 M d
 M d
 M G
-M: B -
+M : B -
 m A
 m B -
 m c
-M: d
+M : d
 m B -
 M e -
 s d
@@ -28,11 +28,11 @@ M r _4
 M g
 M g
 M g
-M: d
+M : d
 m e
 m f
 m g
-M: a
+M : a
 m g
 s g
 M f #

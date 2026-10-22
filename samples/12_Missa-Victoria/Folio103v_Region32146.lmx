@@ -6,7 +6,7 @@ s dd
 M g
 M a
 M b -
-s: cc
+s : cc
 M b -
 s a
 s g
@@ -15,7 +15,7 @@ M r _4
 M dd
 M ee
 M ff
-s: gg
+s : gg
 M ff
 s ee
 M dd

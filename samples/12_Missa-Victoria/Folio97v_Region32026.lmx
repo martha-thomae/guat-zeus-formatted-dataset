@@ -3,7 +3,7 @@
 M dd
 M dd
 s ee
-M: ff
+M : ff
 m ee
 M dd
 s cc
@@ -12,14 +12,14 @@ s a
 M r _3
 s b -
 M cc
-M: dd
+M : dd
 m cc
 M b -
-M: a
+M : a
 m g
 s g
 M f #
 s g
-S: b -
+S : b -
 s a
 *custos cc

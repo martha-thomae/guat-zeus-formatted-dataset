@@ -1,18 +1,18 @@
 *clefC1
 s r _2
-S: e
+S : e
 s e
 s f
 s e
-M: a
+M : a
 m g \
 m a
 m b
-M: cc
+M : cc
 m b
 s a
 M g \
-M: e
+M : e
 m f
 s g
 s g

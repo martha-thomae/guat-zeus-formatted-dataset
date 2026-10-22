@@ -2,7 +2,7 @@
 m f #
 m e
 M d
-s: g
+s : g
 M a
 s b
 M e
@@ -10,7 +10,7 @@ M a
 M a
 M g # \
 s a
-s: b
+s : b
 s a
 M g \
 s f

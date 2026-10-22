@@ -7,7 +7,7 @@ M g \
 s a
 s b
 M cc
-M: a
+M : a
 m g \
 s g
 M f #

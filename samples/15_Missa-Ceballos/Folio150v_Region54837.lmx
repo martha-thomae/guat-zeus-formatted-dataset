@@ -1,12 +1,12 @@
 *clefG2
 M dd
 M b \
-M: a
+M : a
 m b
 m cc
 m dd
 s ee
-M: dd
+M : dd
 m cc
 s cc
 M b \

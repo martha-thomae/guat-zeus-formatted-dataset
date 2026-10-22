@@ -1,7 +1,7 @@
 *clefG2
 *k[b-]
 *met(C)
-s: g
+s : g
 M dd
 M b -
 M g
@@ -15,7 +15,7 @@ m g
 m f
 s b -
 M cc
-M: dd
+M : dd
 m ee
 [ s ff
 s ee ]

@@ -2,7 +2,7 @@
 m A \
 m B
 M c
-M: A \
+M : A \
 m A \
 m A \
 m A \
@@ -10,7 +10,7 @@ M A \
 M D
 M A \
 M D
-M: A \
+M : A \
 m A \
 M D
 s A

@@ -2,11 +2,11 @@
 M f
 M f
 s g
-s: f
+s : f
 m e
 m d
 s e
-M: d
+M : d
 m e
 M f
 m e
@@ -17,7 +17,7 @@ s a
 M g
 M a
 s A
-M: d
+M : d
 m c \
 M c
 M B

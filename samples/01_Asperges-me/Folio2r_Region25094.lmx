@@ -5,11 +5,11 @@ S g
 s b ]
 s cc
 s a
-s: g
+s : g
 M f
 M e
 s f #
-M: g
+M : g
 U f
 U e \
 m d

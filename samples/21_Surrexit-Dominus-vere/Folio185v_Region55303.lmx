@@ -3,12 +3,12 @@
 *met(C)
 s a
 M f
-M: a
+M : a
 m b -
 s cc
 M a
 M r _4
-M: cc
+M : cc
 m dd
 M cc
 M cc
@@ -19,7 +19,7 @@ M dd
 M cc
 M dd
 M a
-M: cc
+M : cc
 U b - (
 U a )
 M g \

@@ -9,10 +9,10 @@ m g
 m g
 U f (
 U e \ )
-s: f
+s : f
 M f
 s e
-M: d
+M : d
 m e
 m f
 m g
@@ -27,7 +27,7 @@ M d
 M d
 M e
 s f
-s: g
+s : g
 M g
 M e \
 M f

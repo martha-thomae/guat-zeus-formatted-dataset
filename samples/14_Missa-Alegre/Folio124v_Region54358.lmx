@@ -7,7 +7,7 @@ s A
 M r _3
 M A
 M G #
-M: c
+M : c
 m B
 M A \
 M G #
@@ -18,7 +18,7 @@ s r _2
 M r _2
 M G
 M F
-M: B -
+M : B -
 m A
 M G
 *custos F #

@@ -1,7 +1,7 @@
 *clefG2
 m a
 m a
-M: dd
+M : dd
 m cc
 m b \
 m a \
@@ -11,7 +11,7 @@ s f
 M e
 M b \
 M cc
-M: b \
+M : b \
 m b \
 M ee
 m dd

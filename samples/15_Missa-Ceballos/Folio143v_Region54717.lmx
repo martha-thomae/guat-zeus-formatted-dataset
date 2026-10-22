@@ -4,7 +4,7 @@ M r _2
 s G
 M E
 M F
-M: G
+M : G
 m G
 M A \
 M F
@@ -19,10 +19,10 @@ M c
 M A \
 M B
 M c
-M: d
+M : d
 m c
 M A \
-M: c
+M : c
 m B
 M A \
 M G \

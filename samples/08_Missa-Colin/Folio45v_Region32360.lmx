@@ -12,14 +12,14 @@ m a
 m b -
 m g \
 M a
-M: b -
+M : b -
 m a
 s a
 M g \
 M a
 s a
 M g \
-M: a
+M : a
 m g \
 m f
 m e

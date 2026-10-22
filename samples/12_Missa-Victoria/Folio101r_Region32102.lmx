@@ -1,9 +1,9 @@
 *clefC4
 *k[b-]
-M: c
+M : c
 U B - (
 U A \ )
-M: G
+M : G
 m A
 m B -
 m c
@@ -20,7 +20,7 @@ s F
 s C
 s F
 M r _3
-M: A \
+M : A \
 m A \
 M A \
 M c

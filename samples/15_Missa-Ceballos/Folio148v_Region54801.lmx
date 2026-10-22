@@ -1,6 +1,6 @@
 *clefC3
 s G
-M: A
+M : A
 m B
 s c
 M r _3
@@ -8,13 +8,13 @@ M c \
 M c \
 M c \
 s B
-M: A
+M : A
 m B
 M c \
 M d
 s G
 M r _1
 M G
-M: G
+M : G
 m A
 *custos B

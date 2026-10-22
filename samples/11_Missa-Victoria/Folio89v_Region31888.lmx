@@ -6,7 +6,7 @@ S r _2
 M r _2
 M G
 M d
-M: d
+M : d
 m d
 M c #
 M d
@@ -17,7 +17,7 @@ M r _2
 s G
 M A
 M B
-M: c
+M : c
 m B
 s A
 M G #
@@ -28,7 +28,7 @@ s G
 s A
 M r _4
 M c
-s: c
+s : c
 M B
 s c
 s d

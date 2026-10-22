@@ -10,7 +10,7 @@ m A
 m B
 m c
 M d
-M: c \
+M : c \
 m c
 M c
 s A
@@ -19,7 +19,7 @@ M r _3
 M c
 M c
 M G
-M: A
+M : A
 m B
 m c \
 m d

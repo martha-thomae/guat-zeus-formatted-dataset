@@ -8,7 +8,7 @@ s dd ]
 s b
 [ s cc
 s dd ]
-s: dd
+s : dd
 m cc
 m b \
 M cc #

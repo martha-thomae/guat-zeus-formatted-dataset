@@ -4,7 +4,7 @@
 s r _3
 M cc
 M cc
-M: dd
+M : dd
 m dd
 M cc
 s cc
@@ -12,7 +12,7 @@ M g
 s b -
 s cc
 M b -
-M: b -
+M : b -
 m b -
 m f
 m f

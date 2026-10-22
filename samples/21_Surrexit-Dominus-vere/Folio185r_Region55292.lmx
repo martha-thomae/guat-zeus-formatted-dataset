@@ -4,18 +4,18 @@ S BB -
 s r _2
 M r _1
 M GG
-M: BB -
+M : BB -
 m C
 m D \
 m E
 M F
 M C
-M: c
+M : c
 m B -
 M A
 s D
 M D \
 M D \
-M: F
+M : F
 m G
 *custos A

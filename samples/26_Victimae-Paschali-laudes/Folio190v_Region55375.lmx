@@ -1,14 +1,14 @@
 *clefC4
 M c
 M d
-M: f
+M : f
 m e
 M c
 M e
 s d
 m c
 m B
-M: c
+M : c
 m B
 S A
 s D
@@ -18,6 +18,6 @@ M A \
 M A \
 M d
 M c
-M: d
+M : d
 m c
 *custos B

@@ -2,17 +2,17 @@
 *met(C)
 [ s e
 s f ]
-s: e
+s : e
 M c \
 M d
 M e
 s f
-s: e
+s : e
 M c \
 M d
 M e
 M d
-M: e
+M : e
 m d
 s d
 *custos c

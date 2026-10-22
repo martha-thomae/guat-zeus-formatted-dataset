@@ -3,10 +3,10 @@
 M r _3
 M b
 M g \
-M: cc
+M : cc
 m b
 s a
-M: b
+M : b
 m a
 m g
 m f
@@ -16,6 +16,6 @@ m g # \
 m a
 M b
 M a
-M: a
+M : a
 m g \
 *custos f #

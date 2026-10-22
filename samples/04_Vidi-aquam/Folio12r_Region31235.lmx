@@ -7,11 +7,11 @@ s a
 M f
 s g
 M e \
-M: a
+M : a
 m g
 s g
 M f
-s: g
+s : g
 M f
 M d
 M e

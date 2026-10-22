@@ -7,8 +7,8 @@ s gg
 M ee
 M ff
 M dd
-s: ee
-M: ff
+s : ee
+M : ff
 m ee
 s dd
 M cc
@@ -20,6 +20,6 @@ m dd
 m b \
 m cc
 m b \
-M: a
+M : a
 U g
 *custos f

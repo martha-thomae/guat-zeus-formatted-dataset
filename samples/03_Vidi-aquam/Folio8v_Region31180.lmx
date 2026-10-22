@@ -13,7 +13,7 @@ m cc
 m b \
 m a \
 M g
-M: a
+M : a
 m g
 s g
 M f

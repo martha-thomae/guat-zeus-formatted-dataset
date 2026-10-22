@@ -2,14 +2,14 @@
 *met(C|)
 s F
 s C
-s: F
+s : F
 M F
-s: C
+s : C
 M C
 M C
 M c
 M A \
 M F
-M: A
+M : A
 m G
 *custos F

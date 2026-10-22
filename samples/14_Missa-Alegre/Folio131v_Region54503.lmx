@@ -1,5 +1,5 @@
 *clefC4
-s: e
+s : e
 s d
 s c
 m B
@@ -8,23 +8,23 @@ s B
 M r _4
 M d
 M c
-M: f
+M : f
 m e
 m d
 m c
 M B
-M: e
+M : e
 m d
 m c
 m B
 M A \
-M: d
+M : d
 m c
 m B
 m A \
 M B
 s e
 M e
-M: f
+M : f
 m e
 *custos d

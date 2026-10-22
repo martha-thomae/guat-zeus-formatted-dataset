@@ -3,7 +3,7 @@
 m d
 m c
 M B X#
-M: G
+M : G
 m A \
 M B X#
 s c
@@ -24,7 +24,7 @@ M A -
 M F
 s G
 s r _3
-s: d
+s : d
 M c
 M B X#
 M c

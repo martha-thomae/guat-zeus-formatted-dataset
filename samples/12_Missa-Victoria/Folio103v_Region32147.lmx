@@ -3,14 +3,14 @@
 s b -
 s b -
 M a
-M: f
+M : f
 m g
 m a
 m b -
 M cc
 M cc
 S dd
-S: g
+S : g
 s r _2
 M r _2
 M g

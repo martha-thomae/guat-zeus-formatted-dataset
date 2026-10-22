@@ -7,17 +7,17 @@ M a
 s f
 s f
 s d
-M: a
+M : a
 m g
-M: f
+M : f
 m e \
 s d
 M r _3
 M f
-s: b -
+s : b -
 M a
 s g
-M: a
+M : a
 m g
 M f
 *custos e

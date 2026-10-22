@@ -8,7 +8,7 @@ s a
 M d
 S f
 M g
-M: d
+M : d
 m d
 M e
 M c
@@ -19,7 +19,7 @@ S r _3
 M r _3
 s d
 M B -
-M: c
+M : c
 m B -
 s A
 M G

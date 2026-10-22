@@ -1,6 +1,6 @@
 *clefC1
 s f
-S: a
+S : a
 s g
 s f
 S e
@@ -11,17 +11,17 @@ s dd
 s cc
 S ee
 S dd
-S: cc
+S : cc
 s b
 S a
 S r _2
 s r _2
 s d
-S: b
-s: cc
+S : b
+s : cc
 M a
 s b
-S: cc
+S : cc
 s dd
 S ee
 L r _3

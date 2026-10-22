@@ -2,18 +2,18 @@
 *k[b-]
 *met(C)
 s r _3
-s: dd
+s : dd
 M dd
-M: g
+M : g
 m a
 m b - \
 m cc
-M: dd
+M : dd
 m cc
 s cc
 m b -
 m a
-M: b - \
+M : b - \
 m cc
 m dd
 m ee

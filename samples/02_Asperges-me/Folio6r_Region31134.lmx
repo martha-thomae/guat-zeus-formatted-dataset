@@ -9,7 +9,7 @@ m dd
 m ee
 m ff
 M gg
-M: gg
+M : gg
 m ff
 s ff
 m ee
@@ -17,6 +17,6 @@ m dd
 M ee
 M ff
 M dd
-M: gg
+M : gg
 m ff
 *custos ff

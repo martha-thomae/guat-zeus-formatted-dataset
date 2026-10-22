@@ -2,7 +2,7 @@
 M G
 s G
 s r _3
-s: G
+s : G
 M G
 s A
 S B
@@ -22,7 +22,7 @@ M A \
 M d
 M B
 M c
-s: d
+s : d
 M c
 M B
 M A \

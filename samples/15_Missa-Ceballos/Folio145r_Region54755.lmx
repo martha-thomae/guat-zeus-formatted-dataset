@@ -9,7 +9,7 @@ M g
 s g
 s a
 M r _4
-M: a
+M : a
 m a
 M g
 M e \
@@ -19,7 +19,7 @@ s g
 M r _3
 M c
 s d
-s: f
+s : f
 M e \
 s f
 *custos d

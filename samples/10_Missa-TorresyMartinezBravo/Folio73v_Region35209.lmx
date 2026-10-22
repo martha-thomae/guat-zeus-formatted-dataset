@@ -1,12 +1,12 @@
 *clefC1
 *met(C)
-s: a
+s : a
 M f
 s g
 M c
 s cc
 M b
-M: ee
+M : ee
 m ee
 M a
 s b -

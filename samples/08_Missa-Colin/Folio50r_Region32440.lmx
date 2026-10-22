@@ -17,7 +17,7 @@ M r _3
 M c \
 M d
 M e
-s: f
+s : f
 M e
 s f
 m f
@@ -26,7 +26,7 @@ m d
 m c \
 M B -
 M c
-s: d
+s : d
 m c
 m B -
 S c

@@ -13,13 +13,13 @@ m a
 M b
 M b
 S a
-M: b
+M : b
 m b
 M b
 M b
 s cc
 M g \
-M: a
+M : a
 m g
 s g
 M f #

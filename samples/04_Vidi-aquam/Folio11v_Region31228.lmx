@@ -2,14 +2,14 @@
 M r _3
 s cc
 M a
-M: b \
+M : b \
 m cc
 M dd
-M: ee
+M : ee
 m dd
 M dd
 M ee
-M: dd
+M : dd
 m cc
 s cc
 M b \

@@ -5,7 +5,7 @@ M F
 s c
 L r _3
 M r _3
-M: A \
+M : A \
 m A \
 m A \
 m A \
@@ -17,10 +17,10 @@ M F
 s G
 M A \
 M A \
-M: F
+M : F
 m G
 s A
 M D
-M: F
+M : F
 m G
 *custos A

@@ -4,19 +4,19 @@ s r _3
 s e
 M A
 M B
-M: c \
+M : c \
 m c \
 M d
 M B
 M c \
 M c \
-s: A
+s : A
 M A
 S B
 ==
 *clefC3
 *met(C)
-M: c \
+M : c \
 m d
 M e
 *custos f

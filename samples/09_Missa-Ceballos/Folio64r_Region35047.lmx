@@ -2,7 +2,7 @@
 M a
 M b
 M cc
-M: a
+M : a
 m g
 M g
 S a
@@ -12,7 +12,7 @@ M f
 M d
 s a
 M f
-M: a
+M : a
 m g
 M f
 s e

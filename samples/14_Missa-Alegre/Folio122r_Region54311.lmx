@@ -2,13 +2,13 @@
 *met(C)
 L r _3
 s r _3
-s: e
+s : e
 M e
-M: f
+M : f
 m e
 M d
 M d
-M: e
+M : e
 m d
 s c
 M r _3
@@ -17,6 +17,6 @@ M B
 M r _3
 s d
 M A
-M: d
+M : d
 m c \
 *custos B

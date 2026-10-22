@@ -3,7 +3,7 @@
 *met(C)
 M f
 M f
-M: g
+M : g
 m g
 M f
 s f
@@ -11,7 +11,7 @@ M c
 s e -
 s f
 M e -
-M: e -
+M : e -
 m e -
 m B -
 m B -

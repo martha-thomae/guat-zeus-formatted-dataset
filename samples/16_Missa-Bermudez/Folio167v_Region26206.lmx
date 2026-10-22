@@ -1,18 +1,18 @@
 *clefG2
 *met(C)
 s r _3
-s: b
+s : b
 M b
 s dd
 M a
 M b
 s cc
-s: b
+s : b
 M ee
-M: dd
+M : dd
 m cc
 M dd
-M: cc
+M : cc
 m b \
 s a
 *custos g

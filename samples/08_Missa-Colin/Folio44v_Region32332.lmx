@@ -6,10 +6,10 @@ M r _2
 M f
 M f
 M e
-M: f
+M : f
 m g
 M a
-M: b -
+M : b -
 m a
 s a
 M g \
@@ -18,7 +18,7 @@ M a
 M a
 M a
 s g
-M: f
+M : f
 m f
 M g
 *custos a

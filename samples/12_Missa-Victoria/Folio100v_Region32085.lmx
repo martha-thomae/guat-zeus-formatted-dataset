@@ -3,15 +3,15 @@
 *met(C)
 s r _3
 S dd
-M: g
+M : g
 m a
 M b - \
 M cc
-M: dd
+M : dd
 m cc
 m b -
 m a
-M: b -
+M : b -
 m g
 s cc
 m b -

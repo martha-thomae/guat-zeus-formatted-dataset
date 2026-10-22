@@ -1,13 +1,13 @@
 *clefC2
-M: e \
+M : e \
 m f
 M g
-M: a
+M : a
 m g
 m e \
 m f
 M g
-M: a
+M : a
 m g
 s g
 M f

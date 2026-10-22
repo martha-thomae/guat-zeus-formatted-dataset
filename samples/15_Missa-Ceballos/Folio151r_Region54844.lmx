@@ -6,7 +6,7 @@ M r _4
 s g
 M e \
 M f
-M: g
+M : g
 m f
 m e
 m d
@@ -15,7 +15,7 @@ s cc
 m b
 m a
 M b
-M: a
+M : a
 m g
 s g
 *custos f

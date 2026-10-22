@@ -4,18 +4,18 @@ M a
 s g
 M f #
 s g
-S: b -
+S : b -
 S a
 S cc
 S dd
 [ s g
 s a ]
-M: b -
+M : b -
 m a
 M g
 s f
 M e
 S f
-s: a
+s : a
 M a
 *custos cc

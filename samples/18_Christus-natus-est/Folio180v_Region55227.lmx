@@ -6,12 +6,12 @@ s D
 M E
 M F
 M G
-M: A
+M : A
 m B
 M c
-M: B
+M : B
 m A \
-M: A
+M : A
 U G (
 U F )
 M G
@@ -19,6 +19,6 @@ s A
 M r _3
 s A
 M B
-M: c
+M : c
 m d
 *custos e

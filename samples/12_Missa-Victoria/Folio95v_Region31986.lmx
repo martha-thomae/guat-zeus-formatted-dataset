@@ -12,7 +12,7 @@ s cc
 M dd
 M ee
 s ff #
-M: gg
+M : gg
 m ff
 M ee
 s dd

@@ -2,12 +2,12 @@
 M cc
 M b \
 M cc
-M: a
+M : a
 m g
 s g
 M f #
 s g
-M: gg
+M : gg
 m ff
 s ee
 S dd

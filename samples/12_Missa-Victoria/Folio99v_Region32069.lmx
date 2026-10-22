@@ -12,13 +12,13 @@ m cc
 m b - \
 s cc
 s dd
-M: ff
+M : ff
 m ee
-M: cc
+M : cc
 m dd
 m ee
 m ff
-M: gg
+M : gg
 m ff
 m ee
 m dd

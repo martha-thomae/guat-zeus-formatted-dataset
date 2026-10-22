@@ -11,14 +11,14 @@ M r _4
 s G
 M G
 s C
-s: F
+s : F
 M C
 s D
 M D \
-M: D \
+M : D \
 m C \
 s BB -
 M AA
-M: BB -
+M : BB -
 m AA
 *custos GG

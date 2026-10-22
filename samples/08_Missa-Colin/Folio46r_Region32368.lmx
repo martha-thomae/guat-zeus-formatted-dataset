@@ -2,15 +2,15 @@
 *k[b-]
 M F
 M G
-M: F
+M : F
 m G
 M A
 s B -
-M: c
+M : c
 m B -
 M c
 M A
-M: d
+M : d
 m c \
 s c
 M B #

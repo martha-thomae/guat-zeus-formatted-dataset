@@ -3,13 +3,13 @@
 M f
 M g
 M f #
-M: g
+M : g
 m f
 M e
 s d
 M r _3
 M c \
-M: d
+M : d
 m e
 M f
 M g
@@ -22,6 +22,6 @@ s r _3
 M r _3
 s d
 M c # \
-M: d
+M : d
 m e
 *custos f

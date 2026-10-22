@@ -1,12 +1,12 @@
 *clefC4
-s: c
+s : c
 M B
 s A
 L r _3
 L r _3
 M c
 M A \
-s: c
+s : c
 M c
 s B
 s A
@@ -15,7 +15,7 @@ M f
 M f
 M f
 M A
-s: c
+s : c
 M E
 s A
 M c

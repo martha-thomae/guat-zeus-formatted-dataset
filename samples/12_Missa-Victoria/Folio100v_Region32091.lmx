@@ -6,15 +6,15 @@ M d
 M d
 M e
 M c \
-M: d
+M : d
 m e
 M f
-M: e
+M : e
 m d
 s d
 M c # \
 M d
-M: f
+M : f
 m f
 M f
 M e
@@ -29,6 +29,6 @@ s d
 M d
 M c
 M A
-M: c \
+M : c \
 m d
 *custos e

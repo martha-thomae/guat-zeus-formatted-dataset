@@ -5,10 +5,10 @@ s r _3
 s a
 M b
 M cc
-s: dd
+s : dd
 M cc
 M b
-M: a
+M : a
 m g \
 m f
 m e
@@ -20,13 +20,13 @@ M cc
 M b
 M a
 M r _4
-M: dd
+M : dd
 m cc
 s cc
 m b
 m a
 M b
-M: a
+M : a
 m g \
 M g \
 *custos a

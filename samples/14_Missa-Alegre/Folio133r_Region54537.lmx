@@ -2,12 +2,12 @@
 *met(C)
 L r _3
 S r _3
-s: E
+s : E
 M E
-M: F
+M : F
 m E
 s D
-M: E
+M : E
 m D \
 s C
 s BB

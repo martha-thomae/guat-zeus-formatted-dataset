@@ -1,6 +1,6 @@
 *clefC3
 M c \
-M: d
+M : d
 m c \
 M B
 M A
@@ -17,7 +17,7 @@ M c \
 M c \
 M d
 s c
-M: B
+M : B
 m A
 s A
 M G

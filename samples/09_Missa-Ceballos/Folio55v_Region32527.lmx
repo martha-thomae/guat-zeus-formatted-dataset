@@ -10,7 +10,7 @@ m cc
 m b \
 s cc
 M a
-M: b
+M : b
 m a
 s a
 *custos g

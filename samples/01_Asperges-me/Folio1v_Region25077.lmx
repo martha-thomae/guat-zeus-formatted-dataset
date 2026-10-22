@@ -8,7 +8,7 @@ S cc
 s dd
 [ S dd
 S ee ]
-s: ff
+s : ff
 M ee
 s dd
 s cc
@@ -18,7 +18,7 @@ M gg
 M gg
 M gg
 M ee
-M: cc
+M : cc
 m dd
 M ee
 *custos ff

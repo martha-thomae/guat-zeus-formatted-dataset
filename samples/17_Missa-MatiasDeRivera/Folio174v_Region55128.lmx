@@ -1,13 +1,13 @@
 *clefG2
 M dd
-M: dd
+M : dd
 m dd
 M dd
 M ee
 s cc
 M b \
 M b \
-M: cc
+M : cc
 m cc
 M dd
 M dd
@@ -15,7 +15,7 @@ s ee
 M a
 s a
 M cc
-M: cc
+M : cc
 m cc
 M cc
 M dd

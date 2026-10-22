@@ -7,9 +7,9 @@ M f
 M e
 s e
 M e
-M: f
+M : f
 m e
-M: d
+M : d
 m c \
 s B
 s e
@@ -18,6 +18,6 @@ M d
 M d
 M c # \
 s d
-s: e
+s : e
 s d
 *custos c

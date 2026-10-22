@@ -4,7 +4,7 @@
 s c ]
 s A
 [ s B
-s: c ]
+s : c ]
 M c
 M c
 M c
@@ -14,7 +14,7 @@ s c
 M r _3
 M B
 M c
-M: d
+M : d
 m c
 M A \
 s B

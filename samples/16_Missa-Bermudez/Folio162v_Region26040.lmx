@@ -9,12 +9,12 @@ M b \
 M a
 m a
 m a
-s: g #
+s : g #
 s a
 M cc
 s cc
 s a
-M: cc
+M : cc
 m dd
 M ee
 M ff

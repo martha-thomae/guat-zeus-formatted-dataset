@@ -22,12 +22,12 @@ s r _3
 M g
 s dd
 M dd
-m: dd
+m : dd
 U dd
 M dd
 s r _3
 M f
-M: cc
+M : cc
 m cc
 M cc
 *custos cc

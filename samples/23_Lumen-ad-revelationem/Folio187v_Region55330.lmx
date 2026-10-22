@@ -9,11 +9,11 @@ M r _3
 M e
 M d
 M B
-M: c \
+M : c \
 m c \
 M d
 M e
-M: g
+M : g
 m g
 M c \
 M d
@@ -25,6 +25,6 @@ m c \
 m B \
 M A
 M A
-M: B -
+M : B -
 m A
 *custos G

@@ -1,9 +1,9 @@
 *clefC3
 *met(C)
-s: G
+s : G
 M A
 M B
-M: c \
+M : c \
 m d
 s e
 m d
@@ -11,7 +11,7 @@ m c \
 M d
 M c \
 s f
-s: e
+s : e
 M A
 M d
 m c \

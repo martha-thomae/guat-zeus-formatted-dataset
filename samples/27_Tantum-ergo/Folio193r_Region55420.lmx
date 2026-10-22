@@ -12,7 +12,7 @@ s D
 M r _3
 s B -
 M A
-M: B -
+M : B -
 m A
 M G
 M G
@@ -20,9 +20,9 @@ s F
 M r _3
 s F
 M E
-M: F
+M : F
 m E
 s D
-S: C
+S : C
 S F
 ==

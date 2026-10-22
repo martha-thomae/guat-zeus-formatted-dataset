@@ -2,22 +2,22 @@
 *k[b-]
 M g
 M a
-s: b -
+s : b -
 m a
 m g
 M f
-M: g
+M : g
 m f
 s f
 M e
 s f
 S a
-s: cc
+s : cc
 M cc
 s cc
 M a
 M a
-M: b -
+M : b -
 m b -
 M a
 M f

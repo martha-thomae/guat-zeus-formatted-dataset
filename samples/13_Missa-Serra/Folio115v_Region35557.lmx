@@ -3,7 +3,7 @@
 M r _2
 s G
 M F
-M: E -
+M : E -
 m F
 s G
 M r _2
@@ -12,7 +12,7 @@ m F
 M F
 m E -
 m E -
-M: D
+M : D
 m E
 s F
 s r _2
@@ -21,7 +21,7 @@ M G
 s B -
 M A
 M A
-M: c
+M : c
 m c
 s B -
 M B -

@@ -1,7 +1,7 @@
 *clefF4
-M: F
+M : F
 m F #
-M: G
+M : G
 m G
 s A -
 m A
@@ -14,5 +14,5 @@ M F
 M D \
 s F
 M E
-S: D
+S : D
 ==

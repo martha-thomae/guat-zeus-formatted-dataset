@@ -1,6 +1,6 @@
 *clefG2
 *k[b-]
-M: ff
+M : ff
 m dd
 s ee -
 M dd
@@ -9,7 +9,7 @@ m b - \
 s cc
 M b -
 M g
-M: dd
+M : dd
 m dd
 M ee
 M cc
@@ -21,7 +21,7 @@ m dd
 M cc
 s dd
 M cc
-s: dd
+s : dd
 M dd
 m cc
 m b - \

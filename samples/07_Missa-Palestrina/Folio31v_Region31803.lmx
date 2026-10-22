@@ -2,7 +2,7 @@
 m b
 m a
 s b
-M: a
+M : a
 m b
 M cc
 M dd
@@ -13,10 +13,10 @@ m b
 m a
 M cc
 M b
-M: a
+M : a
 m g \
 s f
-s: e
+s : e
 M d
 S e
 ==

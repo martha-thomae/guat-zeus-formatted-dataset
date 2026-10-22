@@ -7,7 +7,7 @@ M r _4
 M A \
 M B
 M c #
-M: d
+M : d
 m A \
 M B
 M c
@@ -16,7 +16,7 @@ M r _4
 M e
 M d
 M B
-M: c
+M : c
 m B
 s A
 S G

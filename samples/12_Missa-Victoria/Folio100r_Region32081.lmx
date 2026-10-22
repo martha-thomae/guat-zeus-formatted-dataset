@@ -13,16 +13,16 @@ s r _3
 M r _4
 s d
 M c #
-M: d
+M : d
 m c
 M B -
 M A \
 s G
 s F
-s: D
+s : D
 M D
 s D
-s: G
+s : G
 M G
 M D
 M d

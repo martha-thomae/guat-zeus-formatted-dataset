@@ -4,10 +4,10 @@ M r _4
 M dd
 M b
 M cc #
-s: dd
+s : dd
 M cc
 M b
-M: a
+M : a
 m g
 s g
 M f #
@@ -19,6 +19,6 @@ s g
 s a
 M f
 M g
-M: a
+M : a
 m g \
 *custos f

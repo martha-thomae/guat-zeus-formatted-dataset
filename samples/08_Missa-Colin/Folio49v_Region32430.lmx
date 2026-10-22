@@ -18,7 +18,7 @@ m cc
 m a
 s dd
 M cc
-s: b -
+s : b -
 m a
 m g \
 S a

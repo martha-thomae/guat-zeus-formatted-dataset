@@ -3,10 +3,10 @@
 *met(C|3/2)
 S r _2
 s r _2
-S: G
-S: d
-S: e
-S: c
+S : G
+S : d
+S : e
+S : c
 S d
 s e
 s ~ f

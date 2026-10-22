@@ -2,7 +2,7 @@
 s r _2
 M r _3
 M A
-M: G
+M : G
 m F
 M E
 M E
@@ -10,7 +10,7 @@ M F
 M D
 s E
 M A \
-M: A \
+M : A \
 m A \
 m E
 m E

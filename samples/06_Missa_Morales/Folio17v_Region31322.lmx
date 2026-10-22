@@ -2,12 +2,12 @@
 s r _4
 M r _3
 M G
-M: A
+M : A
 m B
 m c
 m d /
 s e
-M: d
+M : d
 m c \
 s c
 M B
@@ -17,7 +17,7 @@ M e
 M g
 M f
 M e
-s: d
+s : d
 m c \
 m B \
 s c

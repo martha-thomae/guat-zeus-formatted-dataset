@@ -12,15 +12,15 @@ s dd
 s cc
 M b -
 M g
-S: a
+S : a
 s r _3
 M r _4
-M: dd
+M : dd
 m dd
 M dd
 M cc
 M a
-s: cc
+s : cc
 m b -
 m a
 M b -

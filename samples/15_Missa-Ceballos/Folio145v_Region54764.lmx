@@ -1,12 +1,12 @@
 *clefG2
-s: cc
+s : cc
 m b
 m a
 s b
 s r _3
 S cc
 s dd
-s: cc
+s : cc
 M cc
 s cc
 M dd
@@ -16,7 +16,7 @@ s cc
 s a
 s g
 s g
-s: a
+s : a
 M b \
 s cc
 M r _3

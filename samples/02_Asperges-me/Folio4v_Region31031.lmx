@@ -1,6 +1,6 @@
 *clefG2
 *met(C)
-s: dd
+s : dd
 M cc #
 M dd
 M ff
@@ -11,9 +11,9 @@ m ff
 m gg
 m ee
 M ff
-M: dd
+M : dd
 m cc
-M: cc
+M : cc
 U b \
 U a \
 M b \

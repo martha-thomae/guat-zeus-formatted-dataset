@@ -3,15 +3,15 @@ M cc
 M f
 M ff
 M ee
-M: dd
+M : dd
 m cc
 s cc
 M b \
-s: cc
+s : cc
 m b \
 m a \
 M b
-M: a
+M : a
 m g
 s g
 M f

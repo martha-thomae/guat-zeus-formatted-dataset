@@ -1,29 +1,29 @@
 *clefC1
-s: g
+s : g
 M g \
 s e
 M f
 M d
-M: g \
+M : g \
 m f
 s e
 s d
-M: e
+M : e
 m f
 M g \
-M: a
+M : a
 m a
 M f
 s g
 M e
-M: a
+M : a
 m g \
 m f
 m e
-M: d
+M : d
 m e
 m f
 m g
-M: a
+M : a
 m g \
 *custos g

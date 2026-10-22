@@ -2,7 +2,7 @@
 *k[b-]
 *met(C)
 s F
-s: B -
+s : B -
 M A
 M B -
 M d
@@ -15,6 +15,6 @@ M c \
 M B -
 M c \
 M c
-s: A
+s : A
 m G
 m F

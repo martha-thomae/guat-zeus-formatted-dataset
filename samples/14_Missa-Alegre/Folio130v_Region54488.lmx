@@ -1,10 +1,10 @@
 *clefC1
 *met(C)
 s b
-M: cc
+M : cc
 m b
 s a
-M: b
+M : b
 m a
 m g
 m f
@@ -14,7 +14,7 @@ M r _4
 M dd
 M b
 M g \
-M: cc
+M : cc
 m b
 s a
 s b

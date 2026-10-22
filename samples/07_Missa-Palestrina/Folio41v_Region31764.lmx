@@ -8,12 +8,12 @@ M b
 M cc
 M dd
 s g
-s: cc
+s : cc
 M b
 s a
-S: g
+S : g
 s cc
-M: b
+M : b
 m a
 m g \
 m f

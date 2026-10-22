@@ -12,10 +12,10 @@ s cc
 m b
 m a
 M g \
-M: a
+M : a
 m g \
 M e
 s f
-M: e
+M : e
 m f
 *custos g

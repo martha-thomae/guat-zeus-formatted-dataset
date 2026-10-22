@@ -2,7 +2,7 @@
 *k[b-]
 M f
 M d
-M: f
+M : f
 m d
 M e
 M f
@@ -12,7 +12,7 @@ s B -
 M A
 M c
 M B -
-M: d
+M : d
 m c \
 m B -
 m A

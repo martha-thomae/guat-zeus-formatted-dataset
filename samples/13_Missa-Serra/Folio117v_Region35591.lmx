@@ -5,7 +5,7 @@ m dd
 m cc
 m b -
 M cc
-M: cc
+M : cc
 m cc
 M a
 m dd
@@ -13,7 +13,7 @@ m cc
 m b -
 m a
 M b -
-M: b -
+M : b -
 m b -
 M g \
 m cc
@@ -21,7 +21,7 @@ m b -
 m a
 m g \
 M a
-M: a
+M : a
 m a
 M f
 *custos b

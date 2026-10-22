@@ -3,17 +3,17 @@
 *met(C)
 s d
 S f
-S: g
+S : g
 S b
-S: cc
+S : cc
 S a
-S: f
+S : f
 s b -
 s a
 s g
 s a
 [ s f
-s: g ]
+s : g ]
 M f
 L g
 ==

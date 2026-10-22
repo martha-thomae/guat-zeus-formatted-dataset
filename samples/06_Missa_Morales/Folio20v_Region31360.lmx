@@ -4,7 +4,7 @@ s r _4
 M r _4
 s ff
 M ee
-s: dd
+s : dd
 m cc
 m b \
 M cc
@@ -17,7 +17,7 @@ s r _4
 M r _4
 M ee
 M ee
-M: ff
+M : ff
 m ee
 M cc
 *custos dd

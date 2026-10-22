@@ -8,7 +8,7 @@ s cc
 S cc
 s r _3
 M r _3
-M: cc
+M : cc
 m cc
 M b \
 M a
@@ -20,7 +20,7 @@ M g
 M a
 s cc
 M b \
-s: cc
+s : cc
 M b \
 M a
 *custos g

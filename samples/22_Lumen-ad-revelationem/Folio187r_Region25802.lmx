@@ -11,13 +11,13 @@ s F
 s C
 M r _2
 M F
-M: A \
+M : A \
 m B
 s c
 [ s F
 s C ]
 M r _1
 M C
-M: E
+M : E
 m F
 *custos G

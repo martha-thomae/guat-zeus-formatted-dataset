@@ -4,14 +4,14 @@
 S r _3
 M r _2
 M F
-s: B -
+s : B -
 M A \
 s G
-M: F
+M : F
 m G
 m A
 m F
-M: B -
+M : B -
 m A \
 m G
 m F

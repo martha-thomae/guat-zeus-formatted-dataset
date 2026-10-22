@@ -1,18 +1,18 @@
 *clefC3
 m c
 m B
-s: c
+s : c
 m B
 m A
-s: B
+s : B
 m A
 m G
-M: A
+M : A
 m B
 M c # \
 s d
 M c \
-s: f
+s : f
 m e
 m d
 L e

@@ -2,11 +2,11 @@
 *k[b-]
 M b -
 M g
-s: a
+s : a
 M g
 S g
 S r _2
-M: G
+M : G
 m A
 M B -
 M c
@@ -19,7 +19,7 @@ M a
 M b -
 s cc
 M b -
-M: g
+M : g
 m g
 M f
 M d

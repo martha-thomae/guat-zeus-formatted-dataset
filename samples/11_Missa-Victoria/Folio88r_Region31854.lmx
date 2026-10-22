@@ -6,7 +6,7 @@ M A
 M c
 M B
 M c \
-M: d
+M : d
 m c \
 s c
 M B
@@ -14,7 +14,7 @@ s c
 L r _3
 S r _3
 s r _3
-s: d
+s : d
 M d
 S e
 M d
@@ -25,6 +25,6 @@ s d
 M B
 s c
 M d
-M: e
+M : e
 m d
 *custos c

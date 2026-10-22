@@ -6,13 +6,13 @@ M A
 S r _3
 s e
 s c
-M: d
+M : d
 m d
 s e
-M: d
+M : d
 m d
 s c
-s: f
+s : f
 M d
 M G
 M g
@@ -20,7 +20,7 @@ M g
 M g
 M a
 M g
-M: f
+M : f
 m e
 M d
 *custos G

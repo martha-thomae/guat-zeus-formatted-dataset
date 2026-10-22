@@ -8,10 +8,10 @@ s g
 M f
 s cc
 M b -
-M: cc
+M : cc
 m b -
 M a
-M: g \
+M : g \
 m f
 s f
 M e

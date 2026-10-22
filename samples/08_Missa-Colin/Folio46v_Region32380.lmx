@@ -1,7 +1,7 @@
 *clefC4
 *k[b-]
 M r _2
-M: G
+M : G
 m G
 M G
 M A
@@ -13,6 +13,6 @@ S r _4
 M r _4
 s c
 M c
-M: B -
+M : B -
 m A \
 *custos G

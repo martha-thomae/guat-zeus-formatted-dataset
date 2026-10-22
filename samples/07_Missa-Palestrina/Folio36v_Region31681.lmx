@@ -1,5 +1,5 @@
 *clefC4
-s: d
+s : d
 s ~ c
 S ~ B
 *met(C)
@@ -16,7 +16,7 @@ s G
 s r _3
 M r _4
 M d
-M: e
+M : e
 m e
 M e
 M d

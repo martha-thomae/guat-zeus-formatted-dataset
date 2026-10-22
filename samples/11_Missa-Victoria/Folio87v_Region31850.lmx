@@ -11,7 +11,7 @@ M G
 s A
 s B
 M c
-M: A \
+M : A \
 m G
 s G
 M F #
@@ -20,7 +20,7 @@ M A
 M d
 M B
 M c
-s: d
+s : d
 M c
 M B
 M A \

@@ -1,19 +1,19 @@
 *clefC1
-M: b
+M : b
 U a (
 U g \ )
 s a
 S b
 S r _2
-M: g
+M : g
 m g
 M f
 M d
-M: e
+M : e
 m d
 m e
 m f
-M: g
+M : g
 m f
 M e
 s d

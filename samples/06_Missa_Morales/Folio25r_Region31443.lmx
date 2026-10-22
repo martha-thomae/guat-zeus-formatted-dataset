@@ -5,7 +5,7 @@ m a
 m b
 M cc
 M b
-S: a
+S : a
 M r _3
 M e \
 M e
@@ -13,7 +13,7 @@ M d
 M g
 M a
 M cc
-M: b
+M : b
 m a
 M a
 M g

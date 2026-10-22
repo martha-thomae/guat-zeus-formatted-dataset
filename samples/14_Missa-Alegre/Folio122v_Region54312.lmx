@@ -1,7 +1,7 @@
 *clefC4
 S r _3
 s r _3
-M: B
+M : B
 m B
 M A \
 M B
@@ -16,7 +16,7 @@ s c
 M A
 M r _4
 M d
-M: d
+M : d
 m c
 s B
 *custos c

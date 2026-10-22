@@ -11,7 +11,7 @@ s ff
 s gg
 s ff
 s ee
-s: dd
+s : dd
 m cc #
 m b - \
 s cc

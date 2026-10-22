@@ -5,15 +5,15 @@ M r _3
 s e
 M c # \
 s c
-s: d
+s : d
 M A
 M c \
 M F
 M r _2
-M: A
+M : A
 m B -
 M c
-M: F
+M : F
 m G
 S A
 ==

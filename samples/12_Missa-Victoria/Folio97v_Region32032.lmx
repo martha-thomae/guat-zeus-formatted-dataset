@@ -1,7 +1,7 @@
 *clefC3
 *k[b-]
 s r _3
-s: d
+s : d
 M d
 s d
 s g
@@ -13,9 +13,9 @@ M f
 M g
 s e
 M d
-M: f
+M : f
 m g
-M: a
+M : a
 m g
 m f
 m e
@@ -26,7 +26,7 @@ M c
 M A
 s G
 s r _2
-M: A
+M : A
 m A
 M A
 M A

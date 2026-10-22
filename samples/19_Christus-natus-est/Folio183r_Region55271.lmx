@@ -7,7 +7,7 @@ s g
 [ s a
 s b ]
 M cc
-M: a
+M : a
 m a
 M a
 s a
@@ -17,7 +17,7 @@ S r _3
 s b - ]
 s cc
 S dd
-S: cc
+S : cc
 s b -
 S a
 =

@@ -1,7 +1,7 @@
 *clefC1
 M d
 M e
-M: f
+M : f
 m g
 s a
 S r _3
@@ -11,13 +11,13 @@ M cc
 M cc
 s dd
 M cc
-M: a
+M : a
 m b
 m cc
 m a
 M b
 M b
 M a
-M: cc
+M : cc
 m b
 *custos a

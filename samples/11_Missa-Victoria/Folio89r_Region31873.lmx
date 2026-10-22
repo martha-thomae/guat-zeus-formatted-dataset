@@ -1,12 +1,12 @@
 *clefC3
-s: d
+s : d
 M d
 s e
 M r _4
 s d
 s c
 s B
-M: A
+M : A
 m G
 s G
 M F #
@@ -14,7 +14,7 @@ M G
 s g
 M f
 M e
-M: d
+M : d
 m c \
 s c
 M B

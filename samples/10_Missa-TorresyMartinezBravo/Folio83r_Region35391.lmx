@@ -2,7 +2,7 @@
 s g
 m r _3
 m c \
-M: d
+M : d
 m d
 M c \
 M B
@@ -28,6 +28,6 @@ m B
 M A
 m r _4
 m g
-m: g
+m : g
 U g
 *custos f #

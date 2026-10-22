@@ -1,19 +1,19 @@
 *clefG2
 *met(C)
-s: g
+s : g
 M a
 M b
 M g
 M cc
 M dd
-M: ee
+M : ee
 m dd
 M cc
 M b \
 M cc
-M: gg
+M : gg
 m ff
 M ee
-s: dd
+s : dd
 M cc
 *custos dd

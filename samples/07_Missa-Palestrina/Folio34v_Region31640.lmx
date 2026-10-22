@@ -11,7 +11,7 @@ s A
 M r _4
 s e
 M e
-M: A \
+M : A \
 m B
 s c
 M c
@@ -21,6 +21,6 @@ M B
 M c
 M d
 M e
-M: f
+M : f
 m e
 *custos c

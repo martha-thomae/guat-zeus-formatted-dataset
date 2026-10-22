@@ -19,7 +19,7 @@ s cc
 s a
 s b -
 M a
-M: a
+M : a
 m g
 s g
 M f #

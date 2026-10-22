@@ -1,7 +1,7 @@
 *clefC2
 M f
 s g
-M: a
+M : a
 m a
 M d
 s g
@@ -16,7 +16,7 @@ M g
 [ s g
 s a ]
 M g
-M: g
+M : g
 m f
 m e
 m d

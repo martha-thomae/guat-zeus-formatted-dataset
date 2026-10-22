@@ -3,18 +3,18 @@ m e
 m f
 m g
 m a
-M: b
+M : b
 m a
 s a
 M g
 M a
-M: cc
+M : cc
 m a \
 M b
 M a
 M a
 s g #
-M: g nX
+M : g nX
 m g
 M g
 M g

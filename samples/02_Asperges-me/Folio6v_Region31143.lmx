@@ -3,9 +3,9 @@ M cc #
 M dd
 M b \
 M cc
-M: cc
+M : cc
 m b
-M: a
+M : a
 m g
 s g
 m f #

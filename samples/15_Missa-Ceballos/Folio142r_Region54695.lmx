@@ -1,12 +1,12 @@
 *clefC4
-s: c
+s : c
 M B
 s A
 s G
 M r _3
 s c
 M B
-M: A \
+M : A \
 m G
 M F
 M E
@@ -16,6 +16,6 @@ s r _1
 S C
 s F
 s D
-s: A
+s : A
 M A \
 *custos E

@@ -1,5 +1,5 @@
 *clefG2
-M: b \
+M : b \
 m cc
 M dd
 M g
@@ -16,7 +16,7 @@ m ee
 m dd
 m cc
 M b
-M: a
+M : a
 m g
 s g
 M f

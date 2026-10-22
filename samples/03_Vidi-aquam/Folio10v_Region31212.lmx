@@ -5,7 +5,7 @@ m ee
 m dd
 m cc
 m b \
-M: a
+M : a
 m b
 S cc
 M r _4
@@ -15,6 +15,6 @@ s gg
 M ff
 S ee
 s cc
-s: ff
+s : ff
 M ee
 *custos ee

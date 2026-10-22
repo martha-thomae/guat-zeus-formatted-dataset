@@ -11,7 +11,7 @@ m dd
 m cc
 m b \
 M a
-M: b
+M : b
 m a
 s g
 M f

@@ -14,7 +14,7 @@ M g \
 s g
 M g \
 s cc
-M: cc
+M : cc
 m dd
 M ee
 s ff
@@ -22,7 +22,7 @@ m ee
 m dd
 m cc
 m c
-M: cc
+M : cc
 m dd
 M ee
 *custos dd

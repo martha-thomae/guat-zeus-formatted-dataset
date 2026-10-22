@@ -8,7 +8,7 @@ M b \
 M a
 s a
 M a
-M: a
+M : a
 m b
 M cc
 M b \
@@ -19,7 +19,7 @@ s ee
 s a
 L r _3
 M r _3
-M: b
+M : b
 m b
 M a
 M cc

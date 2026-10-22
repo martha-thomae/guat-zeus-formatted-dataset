@@ -9,21 +9,21 @@ s F
 M r _3
 s c
 M B -
-M: c
+M : c
 m B -
 M A
 m G
 m F
 M G
 M A
-M: B -
+M : B -
 m A
 s G
 s F
 M r _3
 s F
 M F
-M: E
+M : E
 m D
 M BB -
 *custos D

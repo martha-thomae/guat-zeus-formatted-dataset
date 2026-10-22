@@ -1,8 +1,8 @@
 *clefC4
 S d
-M: G
+M : G
 m A \
-M: B
+M : B
 m c
 s d
 S r _3
@@ -13,18 +13,18 @@ M d
 s B
 M c
 M A
-M: d
+M : d
 m c
 m B
 m A \
-M: G
+M : G
 m C
 s c
 M B
 s c
 s r _3
 M r _4
-M: d
+M : d
 m d
 M B
 M c

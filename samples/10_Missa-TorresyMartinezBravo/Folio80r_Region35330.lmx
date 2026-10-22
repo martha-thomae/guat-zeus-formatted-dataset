@@ -2,7 +2,7 @@
 *met(C)
 s c #
 s d
-M: e
+M : e
 m e
 s e
 s r _3
@@ -16,6 +16,6 @@ m d
 m c \
 M B
 M c
-M: f
+M : f
 m f
 *custos e

@@ -6,7 +6,7 @@ m c \
 m B
 m A
 s B
-s: e
+s : e
 m d
 m c \
 s B

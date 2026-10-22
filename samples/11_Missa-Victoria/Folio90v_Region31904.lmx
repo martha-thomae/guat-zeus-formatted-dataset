@@ -4,25 +4,25 @@ s g
 M f #
 M g \
 M d
-M: g \
+M : g \
 m g \
 M g \
 M e
-s: g
+s : g
 M f #
 M g \
 M g \
 M a
 M g \
 M g \
-M: a
+M : a
 m a
 M a
 M g \
-M: f
+M : f
 m f
 M e
-s: e
+s : e
 M d
 s d
 *custos e

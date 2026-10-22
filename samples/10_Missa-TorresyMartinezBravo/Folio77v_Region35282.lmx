@@ -5,11 +5,11 @@ M a
 M a
 M b -
 M f
-M: g \
+M : g \
 m a
 m b -
 m a
-m: g \
+m : g \
 U g \
 s f #
 s r _2

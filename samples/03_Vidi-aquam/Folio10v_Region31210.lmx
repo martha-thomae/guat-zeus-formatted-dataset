@@ -1,8 +1,8 @@
 *clefG2
 *met(C|)
-s: a
+s : a
 M g
-M: f
+M : f
 m g
 M a
 s ff
@@ -10,7 +10,7 @@ M ee
 M ee
 M ff
 M ee
-M: cc
+M : cc
 m dd
 m ee
 m ff

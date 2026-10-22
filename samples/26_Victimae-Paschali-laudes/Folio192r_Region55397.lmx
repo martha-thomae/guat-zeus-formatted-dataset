@@ -3,17 +3,17 @@
 m GG
 m FF
 M GG
-M: D \
+M : D \
 m C \
 M BB -
 M C
 M FF
-M: F
+M : F
 m E
 M D \
 s C
 s D
 M GG
-s: C
+s : C
 S GG
 ==

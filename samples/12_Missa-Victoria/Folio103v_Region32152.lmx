@@ -8,7 +8,7 @@ m A
 s B -
 M c
 M G
-M: c
+M : c
 m c
 M d
 M e
@@ -16,7 +16,7 @@ s f
 s e
 M r _2
 M G
-M: c \
+M : c \
 m c \
 M d
 M e

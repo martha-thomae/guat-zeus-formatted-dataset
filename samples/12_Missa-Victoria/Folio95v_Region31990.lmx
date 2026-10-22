@@ -1,13 +1,13 @@
 *clefG2
 *k[b-]
-M: ff
+M : ff
 m ee
 M dd
 s cc
 M b - \
 s dd
 M dd
-M: g
+M : g
 m a
 M b - \
 M cc
@@ -15,6 +15,6 @@ M dd
 M b - \
 s ee -
 s dd
-S: dd
+S : dd
 s r _3
 *custos b

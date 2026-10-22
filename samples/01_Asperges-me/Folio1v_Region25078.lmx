@@ -1,14 +1,14 @@
 *clefG2
-s: ff
+s : ff
 m ee
 m dd
-M: cc
+M : cc
 m dd
 M ee
 M a
 M b \
 s dd
-M: a
+M : a
 m b
 M cc
 s dd

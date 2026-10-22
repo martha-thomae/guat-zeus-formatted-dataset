@@ -1,7 +1,7 @@
 *clefC4
-M: A
+M : A
 m G
-M: c
+M : c
 m B
 s A
 M G
@@ -11,7 +11,7 @@ M c
 M c
 s d
 M c
-M: A \
+M : A \
 m B
 m c
 m A \

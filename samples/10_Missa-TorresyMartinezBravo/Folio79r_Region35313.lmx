@@ -1,11 +1,11 @@
 *clefC3
-m: e
+m : e
 U e
 M c \
 M f
 M f
 M f
-M: d
+M : d
 m e
 s f
 s b
@@ -14,12 +14,12 @@ s g
 S r _3
 M r _4
 M f
-M: e
+M : e
 m e
 S f
 M r _4
 M b -
-M: a
+M : a
 m a
 s b -
 *custos e

@@ -5,7 +5,7 @@ M b \
 M cc
 s dd
 M ee
-M: gg
+M : gg
 m ff
 M ee
 s dd
@@ -13,10 +13,10 @@ M dd
 M ff
 M ff
 M ff
-M: ee
+M : ee
 m dd
 m cc
 m b \
-M: cc
+M : cc
 m b \
 *custos a

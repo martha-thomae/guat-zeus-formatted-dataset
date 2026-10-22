@@ -2,13 +2,13 @@
 *met(C)
 s D
 s D
-M: AA
+M : AA
 m BB
 s C
 M GG
 s G
 M G
-M: D \
+M : D \
 m E
 s F
 m C

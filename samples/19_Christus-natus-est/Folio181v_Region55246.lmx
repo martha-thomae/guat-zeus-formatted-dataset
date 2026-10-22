@@ -1,7 +1,7 @@
 *clefC3
 *k[b-]
 M r _3
-M: g
+M : g
 m g
 M f
 s e
@@ -10,14 +10,14 @@ s r _4
 M r _3
 M d
 M G
-M: g
+M : g
 m f
 M e
 s d
 s c
 s r _3
 M r _4
-M: f
+M : f
 m f
 M g
 s a
@@ -25,7 +25,7 @@ s a
 M r _3
 M c \
 M d
-M: d
+M : d
 m A
 M a
 s g

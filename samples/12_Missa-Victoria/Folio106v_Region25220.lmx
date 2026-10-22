@@ -2,7 +2,7 @@
 *k[b-]
 S d
 s r _3
-S: d
+S : d
 s G
 s A
 s B -
@@ -11,10 +11,10 @@ s B -
 s A
 S G
 s r _1
-S: B -
+S : B -
 S A
 s c
-S: d
+S : d
 s G
 s A
 s B -

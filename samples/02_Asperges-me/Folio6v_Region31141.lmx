@@ -6,11 +6,11 @@ m ff
 m ee
 s ff #
 M dd
-M: ff
+M : ff
 m ee
 m dd
 m cc
-s: b -
+s : b -
 m a
 m g
 M a

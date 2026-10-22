@@ -3,7 +3,7 @@ M A \
 M B
 M c
 M d
-M: e
+M : e
 m d
 m c
 m B
@@ -15,7 +15,7 @@ L r _3
 M r _4
 M c
 M B
-M: c
+M : c
 m B
 M G
 *custos A

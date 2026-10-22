@@ -3,9 +3,9 @@
 M f
 M d
 M B -
-M: c
+M : c
 m B -
-M: A
+M : A
 m G
 M F
 M c \
@@ -14,10 +14,10 @@ M e
 M c \
 s f
 M e
-s: f
+s : f
 M f
 M d
 M d
-M: f
+M : f
 m e
 *custos c

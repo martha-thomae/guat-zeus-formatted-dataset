@@ -6,17 +6,17 @@ s cc
 M b \
 M cc
 M a
-M: b \
+M : b \
 m cc
 m dd
 m b \
-M: cc
+M : cc
 m dd
 M ee
 S dd
 S r _4
 M r _4
-M: gg
+M : gg
 m ff
 m ee
 m dd

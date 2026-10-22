@@ -1,5 +1,5 @@
 *clefC4
-M: B
+M : B
 U A (
 U G )
 s A
@@ -8,7 +8,7 @@ M G
 M E
 M F
 M G
-M: A
+M : A
 m G
 s F
 m E
@@ -16,7 +16,7 @@ m D
 M E
 M C
 M E
-M: D
+M : D
 m C
 M C
 s D

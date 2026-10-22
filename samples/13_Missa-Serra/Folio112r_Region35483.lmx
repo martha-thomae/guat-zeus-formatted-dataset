@@ -4,11 +4,11 @@ s f
 M r _4
 s e -
 M B -
-M: c \
+M : c \
 m d
 s e -
 M r _3
-M: B -
+M : B -
 m B -
 M f
 M d
@@ -33,6 +33,6 @@ m g
 m g
 M f
 M e
-S: f
+S : f
 S f
 ==

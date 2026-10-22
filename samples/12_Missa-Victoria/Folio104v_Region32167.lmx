@@ -8,11 +8,11 @@ S g
 S a
 S b -
 S a
-s: g
+s : g
 M g
 s f
-S: a
-S: cc
+S : a
+S : cc
 s a
 s b -
 M a

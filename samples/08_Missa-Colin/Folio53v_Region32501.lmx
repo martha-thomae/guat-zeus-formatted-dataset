@@ -2,7 +2,7 @@
 *k[b-]
 s b -
 M a
-M: g \
+M : g \
 m f
 s f
 M e
@@ -12,12 +12,12 @@ s cc
 M b -
 M a
 M g \
-M: a
+M : a
 m g \
 m f
 m e
 M f
-M: g
+M : g
 m f
 s f
 M e

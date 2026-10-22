@@ -1,7 +1,7 @@
 *clefC3
-M: f
+M : f
 m e
-M: d
+M : d
 m c \
 M A
 M B
@@ -17,7 +17,7 @@ M A
 M F
 s A
 M B
-M: c
+M : c
 U B (
 U A )
 *custos G

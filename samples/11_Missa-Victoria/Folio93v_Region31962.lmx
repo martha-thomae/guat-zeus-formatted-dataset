@@ -14,7 +14,7 @@ s r _3
 s g
 s e
 s f #
-s: g
+s : g
 m f
 m e
 s d

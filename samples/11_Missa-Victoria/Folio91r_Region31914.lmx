@@ -2,7 +2,7 @@
 s B
 M r _3
 M d
-M: e
+M : e
 m e
 M e
 M d
@@ -13,18 +13,18 @@ M e
 M f
 M d
 M e
-M: f
+M : f
 m f
 M f
 M e
-M: d
+M : d
 m d
 M c \
-s: c
+s : c
 M B
 s B
 s r _3
-s: c
+s : c
 M c \
 s c
 M d

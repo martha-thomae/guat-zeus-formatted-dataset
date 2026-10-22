@@ -2,7 +2,7 @@
 *k[b-]
 M f
 M e
-s: f
+s : f
 M g
 s a
 M r _4
@@ -31,6 +31,6 @@ M f
 M d
 s e -
 s d
-M: d
+M : d
 m d
 *custos d

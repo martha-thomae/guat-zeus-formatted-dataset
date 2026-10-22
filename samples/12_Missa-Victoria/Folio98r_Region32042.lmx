@@ -2,14 +2,14 @@
 *k[b-]
 m c
 m A \
-M: B -
+M : B -
 m A \
 M G
 M F
 M E -
 M C
 S D
-s: G
+s : G
 M G
 M D
 M d
@@ -20,7 +20,7 @@ M G
 s A
 L D
 S r _1
-M: D
+M : D
 m D
 M D
 M D

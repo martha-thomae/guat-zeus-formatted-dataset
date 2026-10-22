@@ -6,7 +6,7 @@ s dd
 M b \
 s cc
 M cc
-M: b \
+M : b \
 m b \
 M b \
 M a
@@ -16,7 +16,7 @@ s g #
 S r
 M r
 M cc
-M: b \
+M : b \
 m b \
 M cc
 M a

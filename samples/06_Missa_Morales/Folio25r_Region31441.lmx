@@ -1,7 +1,7 @@
 *clefC2
 *met(C)
 S r _2
-M: c
+M : c
 m d
 M e \
 M f
@@ -11,7 +11,7 @@ M d
 s a
 m g
 m f
-M: g
+M : g
 m f
 m g
 m e \

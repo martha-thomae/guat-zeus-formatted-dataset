@@ -8,7 +8,7 @@ M f
 M g
 M a
 M d
-M: e
+M : e
 m d
 s d
 M c
@@ -17,6 +17,6 @@ M a
 M b -
 s a
 M g
-M: a
+M : a
 m g
 *custos f

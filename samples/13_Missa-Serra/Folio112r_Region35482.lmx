@@ -10,7 +10,7 @@ m e -
 m d
 M c \
 M B -
-M: b -
+M : b -
 m b -
 M f
 m a
@@ -24,15 +24,15 @@ M g
 s f
 s r _3
 M r _4
-M: g
+M : g
 m g
 M d
-M: e -
+M : e -
 m f
 s g
 M r _4
 s f
 M c \
-M: d
+M : d
 m e -
 *custos f

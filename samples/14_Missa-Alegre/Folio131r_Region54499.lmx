@@ -2,10 +2,10 @@
 *met(C)
 s r _3
 s e
-M: f
+M : f
 m e
 s d
-M: e
+M : e
 m d
 m c
 m B
@@ -15,7 +15,7 @@ M r _4
 M g
 M e
 M c \
-M: f
+M : f
 m e
 s d
 s e

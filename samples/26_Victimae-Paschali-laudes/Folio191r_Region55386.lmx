@@ -10,10 +10,10 @@ S c
 S f
 S e
 S d
-s: e
+s : e
 M d
 M c \
-M: d
+M : d
 m c \
 M c \
 S d

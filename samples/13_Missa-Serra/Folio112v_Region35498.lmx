@@ -5,22 +5,22 @@ m A
 s B -
 M A
 M F
-M: B -
+M : B -
 m A
 m G
 m F
 M G
-M: e -
+M : e -
 m d
 m c
 m B -
-M: c
+M : c
 m B -
 m A -
 m G
 s A
 M G
-M: F
+M : F
 m G
 M A \
 s B -

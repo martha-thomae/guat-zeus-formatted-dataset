@@ -2,17 +2,17 @@
 M F
 M G
 s C
-s: F
+s : F
 M F
 S E
 ==
 *clefC4
 *met(C)
-M: A \
+M : A \
 m A \
 M A \
 M D
-M: d
+M : d
 m c
 M B
 M c

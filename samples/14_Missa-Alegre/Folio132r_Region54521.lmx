@@ -3,10 +3,10 @@
 s r _3
 M e
 M c \
-M: f
+M : f
 m e
 M d
-M: g
+M : g
 m f
 s e
 M f
@@ -16,7 +16,7 @@ M e
 M e
 M d
 s e
-s: f
+s : f
 s e
 m d
 m c \

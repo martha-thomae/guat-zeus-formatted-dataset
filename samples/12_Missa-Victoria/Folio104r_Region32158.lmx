@@ -2,7 +2,7 @@
 *k[b-]
 M a
 M b -
-s: cc
+s : cc
 M b -
 S a
 s g
@@ -14,7 +14,7 @@ M B -
 M G
 M B -
 M c
-M: d
+M : d
 m B -
 m e -
 m d

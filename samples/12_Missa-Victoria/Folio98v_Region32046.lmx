@@ -4,7 +4,7 @@ M r _3
 s b -
 M a
 M cc
-M: g
+M : g
 m a
 m b -
 m g
@@ -14,7 +14,7 @@ M r _4
 M dd
 M dd
 M dd
-M: g
+M : g
 m a
 M b - \
 M cc
@@ -28,7 +28,7 @@ M dd
 M dd
 M a
 M b -
-s: cc
+s : cc
 m b X#
 m a
 s b X#

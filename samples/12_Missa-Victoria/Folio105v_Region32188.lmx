@@ -6,12 +6,12 @@ m dd
 s ee
 s dd
 s r _3
-M: a
+M : a
 m b -
 M cc
 M a
 s b -
-M: a
+M : a
 m g
 M a
 s g

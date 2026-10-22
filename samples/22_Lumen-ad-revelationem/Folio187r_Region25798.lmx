@@ -10,13 +10,13 @@ m f
 s g
 S a
 M f
-M: a
+M : a
 m b
-M: cc
+M : cc
 U b
 U a
 M g
 M c
-M: e \
+M : e \
 m f
 *custos g

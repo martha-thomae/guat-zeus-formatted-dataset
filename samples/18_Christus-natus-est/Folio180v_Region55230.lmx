@@ -3,7 +3,7 @@ s d
 M e
 M f
 M g \
-M: a
+M : a
 m b
 M cc
 M cc
@@ -12,9 +12,9 @@ M dd
 M cc
 M a
 M g \
-M: b
+M : b
 m a
-M: a
+M : a
 U g (
 U f )
 M g \

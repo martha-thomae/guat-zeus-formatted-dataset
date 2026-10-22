@@ -1,6 +1,6 @@
 *clefC3
 *k[b-]
-s: A
+s : A
 M F
 s G
 s A
@@ -10,7 +10,7 @@ s A
 s c
 s A
 s B -
-s: A
+s : A
 M A
 s G
 M r _2
@@ -18,7 +18,7 @@ M A
 M c
 M A
 s B -
-M: A
+M : A
 m A
 S G ;
 ==

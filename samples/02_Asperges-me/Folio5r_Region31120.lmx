@@ -2,7 +2,7 @@
 M e
 s g
 M f
-S: g
+S : g
 s r _3
 s g
 [ S a
@@ -14,7 +14,7 @@ M g
 M g
 M e \
 M c
-s: d
+s : d
 M a
 m g
 m a
@@ -22,7 +22,7 @@ m b
 m g
 m a
 m b
-M: cc
+M : cc
 U b
 U a
 M b

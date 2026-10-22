@@ -10,12 +10,12 @@ s G
 s r _2
 s F
 s G
-s: A
+s : A
 M A \
 M F
 M G
 M C
-M: c
+M : c
 m B
 M G
 *custos A

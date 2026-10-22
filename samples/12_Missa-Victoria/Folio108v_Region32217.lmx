@@ -7,10 +7,10 @@ M dd
 s g
 M a
 M b -
-s: cc
+s : cc
 m b -
 m a
-M: b -
+M : b -
 m g
 s a
 s b -
@@ -21,6 +21,6 @@ M dd
 s g
 M a
 M b -
-M: cc
+M : cc
 m b - \
 *custos a

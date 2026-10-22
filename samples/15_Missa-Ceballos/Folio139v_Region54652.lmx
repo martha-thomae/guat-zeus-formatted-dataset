@@ -7,7 +7,7 @@ M cc
 s b
 M a
 M b
-M: cc
+M : cc
 m b \
 m b \
 U a (
@@ -16,7 +16,7 @@ s a
 M r _2
 s g
 M f
-M: g
+M : g
 m a
 m b \
 m cc

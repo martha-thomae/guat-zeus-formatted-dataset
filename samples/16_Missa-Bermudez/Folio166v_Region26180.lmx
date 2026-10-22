@@ -7,10 +7,10 @@ s ff
 M ee
 M ~ cc
 s ~ dd
-s: ee
-M: g
+s : ee
+M : g
 m a
 M b \
-M: cc
+M : cc
 m a
 *custos b
