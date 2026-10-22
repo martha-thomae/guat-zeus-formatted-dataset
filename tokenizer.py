@@ -3,7 +3,6 @@ import re
 
 noteshapes = [
     'X', 'L', 'S', 's', 'M', 'm', 'U', 'u',
-    'X.', 'L.', 'S.', 's.', 'M.', 'm.', 'U.',
     '*custos'
 ]
 ligatures = ['[', ']']
@@ -26,9 +25,11 @@ pitches = [
     'cc', 'dd', 'ee', 'ff', 'gg', 'aa', 'bb',
 ]
 rest_lines = ['_1', '_2', '_3', '_4', '_5']
-beams = ['L', 'J']
+beams = ['(', ')']
 color = ['~']
 fermata = [';']
+stems = ['/', '\\']
+dots = [':']
 
 def make_pattern(items):
     return '|'.join(
@@ -44,14 +45,18 @@ restline_pattern = make_pattern(rest_lines)
 beamed_pattern = make_pattern(beams)
 coloration_pattern = make_pattern(color)
 fermata_pattern = make_pattern(fermata)
+stemdir_pattern = make_pattern(stems)
+dot_pattern = make_pattern(dots)
 
 pattern = re.compile(
     rf'(?P<ligature_start>{ligature_pattern})?'
     rf'(?P<shape>{shape_pattern})'
+    rf'(?P<dot>{dot_pattern})?'
     rf'(?P<color>{coloration_pattern})?'
     rf'(?P<pitch>{pitch_pattern})'
     rf'(?P<restline>{restline_pattern})?'
     rf'(?P<accidental>{accid_pattern})?'
+    rf'(?P<stem>{stemdir_pattern})?'
     rf'(?P<fermata>{fermata_pattern})?'
     rf'(?P<ligature_end>{ligature_pattern})?'
     rf'(?P<beam>{beamed_pattern})?'
