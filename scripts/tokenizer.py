@@ -75,7 +75,7 @@ def tokenize(mens_token):
     ]
 
 
-input_dir = Path("samples")
+input_dir = Path(input("ENTER the SAMPLES FOLDER for all the samples (encoded in **mens but stored as .lmx) that you would want to sub-tokenize: "))
 for file_path in input_dir.rglob("*.lmx"):
     with file_path.open("r", encoding="utf-8") as infile_mensstaff:
         lines = infile_mensstaff.readlines()
