@@ -1,0 +1,326 @@
+*clefC1 M a M cc M b m a m g \ M a M a M b s b M b s cc s dd s g s r _2 M r _2 M e M f # M g M : a m g \ m f m e m e U d ( U c ) M d *custos d
+*clefC3 M : c \ m G M A s G M B M : A m B M A s B M B s c M A *met(C|3/2) S B s c S B ==
+*clefG2 M dd s cc M b \ s cc M r _4 M gg M ee M ff s gg M cc s ff M ee M dd s cc M b \ s cc M r _2 M g *custos a
+*clefC2 M : d m e s f M e M d s e M d s e M e M d M d s : g M f M f s g M f S e *met(C.) s e *custos a
+*clefC4 s r _3 M r _2 M E m F m G m A m B M c M C s G s r _3 M r _2 M C m D m E m F m G M A \ M E *custos E
+*clefC4 *k[b-] s B - M A M F M c M c M c M c s A s F s : B - M A \ s G M : F m G s A s G M r _1 M C M F m E m E M F M G *custos A
+*clefC4 M r _2 s G M A \ M B M G M c M d M : e m d M c M B s A S : G s r _3 M r _4 s c M A \ M B M : c m c M d M B M c s F *custos G
+*clefC3 M c \ M d s A M B M : A m B M c \ M : d m c \ s e m d m c \ m B m A M B M A M c \ M d M e M : A m B M c M d s e M c \ M d *custos c
+*clefC4 *k[b-] M : B - m B - M B - M G [ s B - s A ] s G s d M e M e M e M e s f s e - S d s c M r _4 M c M c M : c m c M B - M c s A M G s E - *custos F
+*clefC4 s c [ s F s G ] S A S G ==
+*clefC3 M r _3 M : e m e M e M f M e M d M e M f m e m d M c \ s d m c m B s c M r _3 M : c \ m c \ M c \ M d M c \ M d M c \ M : d m e M f M e S e ==
+*clefC2 S e s r _4 S g s g s e s e s c s c s e s d S f S e S e ==
+*clefC4 M B - M A \ M B M c s G M r _4 M e M e M d M d M c M B M : B m B s c M A \ M r _4 M d M d M B *custos e
+*clefC1 M a s g M f # s g M f s g s f M e M r _3 s b s a m g # m f # s g # ==
+*clefC3 [ S G S A ] [ S G S A S B S A ] [ S G S A ] [ S G S c
+*clefC3 *k[b-e-] m g m f m e - m d M e - M : e - m e - M c \ m f m e - m d m c \ M d M : d m d M B - m e - m d m c m B - s c M f s B - *custos g
+*clefC4 *met(C) M : A \ m G M F M G M A \ M D M E M E M A \ s A M A \ M E M F s G M C M C *custos F
+*clefG2 *k[b-] *met(C) M : b - m b - M b - M b - s a M : b - \ m cc m dd m ee M ff M ee s dd m cc # m b - \ M cc # M cc S dd *custos dd
+*clefC3 M : e m d m e m c \ s d s c s r _3 s c M c \ M c \ M d s f M e M : d m c \ m A m B s c m B m A M B *custos c
+*clefC3 *k[b-] *met(C) s F s : B - M c \ M : d m c \ m d m e s f M e M : f U e ( U d ) M c \ M G M A M B - *custos c
+*clefG2 M a M g M f s ff M ee M : dd m ee M ff M ee M cc M : dd m cc s cc M b \ S cc s r _3 M r _3 M cc M cc *custos b
+*clefG2 M cc M cc M cc M dd s cc M b \ M cc s ee M dd M : cc m dd M ee M dd M : ff m ee M dd s cc M b \ s cc s dd *custos g
+*clefG2 M dd M b \ M : cc m dd m ee m cc M : dd m cc s cc m b \ m a M b \ m g m a m b \ m cc M : dd m cc s cc M b \ S cc s r _3 *custos cc
+*clefC1 M a M : f m e M d M c M d M e s f S e s d M c M : e m f s g M f S g ==
+*clefF4 *met(C) L r _3 s E M D \ M E m F m E s D M C s BB s r _2 M : E m E M D \ M E M F m E m D \ s : E M E *custos AA
+*clefG2 s b s r _3 M b \ m b \ m b \ M : ee m dd m cc m b \ m a m a m a m a M : dd m cc m b m a m g m a M : a m b *custos a
+*clefC3 M r _4 s a M g M f m e m d M e s g M f S g M r _4 M g M a M g M e s f M e *custos e
+*clefC1 *k[b-] s f M e m f m g m a m b - m cc m a s dd M cc s : b - m a m g \ S a ==
+*clefC4 *met(C) L r _3 L r _3 M r _4 M A \ M A \ M A \ m D m E m F m G m A \ m B M : c m B M A \ s G s F *custos G
+*clefC4 s A s G S r _2 M r _2 s D M E M C M D s E S D s r _2 M r _2 s G M A M F M G s A S G ==
+*clefC3 M e M c \ M d s c M B M c M A s c s G M r _2 s c M d M B M c s d s c M r _3 M d M e *custos f
+*clefC3 S G [ S G S A ] [ S G S c ] S c S c S c S B [ S A S c ] S d S c S d == S d S c ==
+*clefC3 *met(C|) S A S c S c S c S c S c S c S c S c S c [ S c S B ] *custos c
+*clefC4 *k[b-] s A s G M r _3 M A \ M c M G M B - M B - s A s G s G s D s F s C s G M F M F s E - s : D M D S G ; ==
+*clefC4 *met(C) s r _2 S G s A s B s : c M B s A s G s C s : F M F s D s G s F *custos A
+*clefC2 M g M : a m a M a s g M f M g M g s e M f M f M : e \ m e \ M a s g M e \ M f M f S e S e ==
+*clefC1 S d s c M r _2 M g \ M g \ M g \ M a s cc M b M : a m g \ M e M : g m f M d *custos f
+*clefC3 M c M B s c M r _4 M g M f M e M d M d S c ==
+*clefC4 s r _3 M r _4 M e s e M r _4 M : c m B M A \ M : d m c M B s c M B s c s r _3 M r _3 M G M G M A s B - M r _3 m A m G *custos A
+*clefC3 *met(C) L r _3 s r _3 M r _3 M G M c \ M d M e M : g m f M e s d M : c m B s G s r _2 M r _3 s g *custos f
+*clefC4 M F M G M A M F M : c m B M A \ M A \ M G M C s G s F s C S r _2 M r _3 s G M A M F M G
+*clefC2 s : b M g s a s g s b s cc s a s g s f s : e M f s g s c s B s c s : g M e \ s f *custos g
+*clefC3 s r _4 M e M f s g S g s r _3 M B M c s d M G s g s f s e s d M c \ s d s d s e M f # M g M r _4 M a M a M A S d S c # ==
+*clefC4 M A \ M F M G S A M r _3 M A M G M A s B - S A ==
+*clefC4 *k[b-] M F M D s E - s D s C M G M F # M : G m F m D m E M F s C M r _2 M F M D M F s G M F M c M A \ M c *custos d
+*clefC4 s F M G M C M c M A \ M A \ M e s c M d M A M A M F M F s G M E M E *custos F
+*clefG2 M dd M ee M a s dd m cc m b \ M cc M b \ s a M g m a m b m cc m dd s ee M dd S ee s r _4 M r _4 M gg *custos gg
+*clefC4 s A s F s G S C s r _1 s c s A s B S c s B S A s G # S A s r _3 s A s F s G S A s G S G s F # S G ==
+*clefC4 *k[b-] *met(C) L r _3 S r _3 s : G M G M : D m E M F M G s A M G M B - M G M : B - m A \ s G M C *custos G
+*clefF4 *met(C) L r _3 s r _3 s E M E M E M : F m E M D \ M D \ M : E m D \ s C s BB s AA s r _2 M r _3 M D \ M E M E s F *custos D
+*clefC1 m d m c M : d m e s f s g s r _3 S cc s b s a M : g m f s e M d M dd s cc s b M a s g M f # S g ==
+*clefC4 S G s r _2 M r _2 M : C m D M E M F M G S C S r _2 s C M C M D M E M C M F M G s A M r _2 M F *custos F
+*clefC4 *met(C) L r _3 L r _3 s : c M B M A \ m G m F s G M A \ M F S c s F s r _2 M r _3 s d M c M B m A \ m G \ s A M B M G *custos d
+*clefC1 s r _3 s g s : g M f s g s e s d M : g \ m a m b m cc M : dd m cc M b M a M : cc m b s a M g \ S a S r _4 M : cc m cc M cc M cc s dd s : cc *custos b
+*clefG2 *k[b-] m g m f s GG s AA s r _1 S AA s BB - s a s g S f s e S f S r _1 s r _1 s f s a S cc s cc s dd *custos dd
+*clefC4 s : d S c S B *met(C) S A L r _3 L r _3 M r _2 M G M G M F s G s A s G s r _3 M r _4 M d M : e m e M e M d M c M B M c M c M c *custos c
+*clefF3 *met(C) M : E m E M E M E M G M G M F \ M F \ M E s A M G M c M B M : A m G *custos F
+*clefC2 m g m e \ M f s g M f s g M r _2 M d M d s e M d M e M : f m e \ M e \ M f M g M r _4 s g M e \ M g *custos a
+*clefC4 s c M B M : c U B ( U A \ ) s G M r _2 s G m F # m E M F M F s G M : G m G M G M G s c s B s A s G M r _4 M d s d M A \ M d M c M A \ s c M : B U A U G *custos A
+*clefG2 M dd M cc M r _3 M cc M ee M dd M : ff m ee M dd M cc M cc M b \ S cc ==
+*clefC1 s r _2 s g M g \ M g \ s a M g \ M a s f s e S r _2 M r _3 M a s dd M cc s b s a M g \ S a *custos a
+*clefC3 *met(C) s e M A s e M c \ M d M e s A M B M A s d s c M r _3 M c \ M d M e s : f M e M : d m c \ *custos A
+*clefC3 s d M r _3 m d m d m e m e M f M d m e m e m f # m f #y M g M e M f m g m f m e m d s e M A M : f m f *custos e
+*clefC2 M g M a M e \ M g s a m g m f S e ==
+*clefC4 *met(C) L r _3 L r _3 s r _3 M r _2 M C M G M A M F M G s A s G M r _3 s c M c s c S F M r _2 M : c m c M B *custos A
+*clefC3 s b - M a s g s r _3 s a s : g M f # s a s g s f s e s d M : g m f m e m d m c \ m e m d m c \ m B m A m G m F m B m c *custos d
+*clefC2 s d M e \ s d M r _3 M e \ M g m f m e \ M d M : g m f s f m e m d M e \ M g s : a M b S a M r _2 M A *custos B
+*clefC2 M d s e *met(C) s e m r _3 m g m b m b m cc m cc m cc m cc m cc m cc m cc m cc M cc m g m g M f *custos d
+*clefF4 s E S AA M r _3 M : D \ m D \ M D \ M A s AA M AA M : D m C s BB s AA M D \ M F M D \ s E S D ==
+*clefC3 M d M g M f # M g M e M f M e M f M d M e M d M e M c \ M d M c \ M d M B M c M B m c \ m d *custos e
+*clefC1 *met(C) s b M : cc m b s a M : b m a m g m f M g s a M r _4 M dd M b M g \ M : cc m b s a s b M r _4 M ee *custos cc
+*clefC4 M c s G M G S A M D M F M E M F s C M : D m D s A M r _3 s A M G s A M E M E M F M E *custos F
+*clefC2 M : g m a M b M a M g M r _4 M g M a M cc M b M : g m f M d \ S e ==
+*clefC3 s f M e s f s g s c M r _3 M d M e M f M : g m f M e M d s d M r _3 M : d m c \ s c M B M c *custos d
+*clefC2 M cc M g s : g M f M e \ M : d U c U B M c M d M f M g M c M e \ M : g m f M : f U e ( U d ) M e \ M f M d *custos B
+*clefF3 *met(C) s r _3 s G s F s E s F s G M F \ M A s G s C s D s E M D M F *custos G
+*clefG2 m ff m ee M dd M cc M dd M b \ M cc M b \ M : cc m cc M b \ M b \ M a M a s g # s : b M b \ *custos b
+*clefF3 *k[b-] M : c m B - s A M G M A M B - M F \ M r _2 M D s : A M A M A M E M F M D S E ==
+*clefC3 M e M d M c # \ M d M c \ M d s e M : d m d M d M d s c M B M d M : e m d M c \ M c \ M d M c \ *custos B
+*clefC2 M f s g M : a m a M d s g m f m e \ M d s e M d M e s g M g [ s g s a ] M g M : g m f m e m d s e *custos g
+*clefC1 M : g \ m d M f M : e m d s d M c # s d s r _2 M r _2 M g M f M d M e s f M e M f M g s e L r _2 s r _2 M r _2 M g \ M f M d M e M f # M g \ M a *custos a
+*clefC4 *met(C) M r _3 s A M B M : c m B M A \ m G m F M G M A \ s D s A s r _3 M r _3 M A \ *custos A
+*clefC4 M e s f M e s f M r _4 M c M : A \ m B s c s r _4 M r _4 M f M : d m e s f s r _4 M A \ M B s c M B s e s d s c m B m c M d m G m A *custos B
+*clefC4 *met(C) m A \ m A \ m A \ m A \ M : E m E m E m A \ m E m F s E m C m C m C m C M : G m G *custos G
+*clefC4 s : e s f m e m d M c M B s c M d M d s e s d M r _3 s A M B M c M d M e s e M d M e m d m c M B M G *custos A
+*clefC4 M A \ s D s r _2 s G M C M : F m E M D s C s G M r _2 M C s F M C M C M : F m E s D s C s r _2 M r _2 M C *custos F
+*clefC1 s r _3 M r _3 s b - M f s g S a s g M a s cc M cc s a s cc s b s a M r _3 s g M g M f # M f S g s f # ==
+*clefC1 s g s g s g S a s f S e s r _2 s d s d s : e S f S e s r _1 S d s e S f s e s ~ e S ~ d *custos e
+*clefC2 M a M g s a M f s a m g m f s e M r _3 M a M a M g M a s g M f S e ==
+*clefF3 *k[b-] M C M D s E - M D M BB - S C s F M r _3 s F M D M F M G M A s B - M A s G M : F m E M C M E - M D M BB - s D s C S : F M r _2 *custos C
+*clefC2 *met(C) s r _3 M r _2 M c m d m e m f m g M a M g M : e \ m f s g M r _4 M a M a M a *custos f
+*clefC3 M B M c s d s c M r _3 M c \ M f M e M : f m f M e M c \ M d M e M r _3 M A *custos c
+*clefC3 s B *met(C.) s A M r _2 M e M e M e s e M e s e M e s e M e s c M c \ m d m B s A *custos c
+*clefC3 M B M A M G s A M r _3 M c \ M A M G M A M : G m E M A M G M c \ M d s e M f M g s g M f # M g m f m e S d s G M r _3 M d M c \ M d M : e m e s e s d *custos B
+*clefC4 M B s c M r _3 M F M F M C M : D m E m F m G M : A m G M F M E M F s G s D s r _2 M r _2 M G M G M G s E *custos C
+*clefF4 s D s E M r _4 M A s A M r _4 M : F m E M D \ s : G M G M C M C M C M D S E M r _3 m D m C *custos D
+*clefC2 M f M g s f S e M d M e M c s f M e \ s d M c M : g m f m g m e \ s : a M g *custos f
+*clefC3 M d s e M : f m e M d M c \ s d M c \ M : c \ m d M e M e M e M f s d M c \ M d s d M e s d M e M e *custos c
+*clefC3 M B s : c M B M c \ M d s e S r _3 M r _2 s B M B M c \ M d M : e m d m c \ m B \ s c M B M c M A s B M : c \ m c \ *custos c
+*clefC2 m a m g M a M d s e M d S e ==
+*clefC4 *met(C) S r _3 s r _3 s A s : A M A M G M G s A s B - M G M G M : F *custos G
+*clefC3 *met(C) M : G m A M B M c M d M e M d M c \ s f M e M e M f M g M f *custos e
+*clefC4 *met(C) s A M B M c M d M e M c s d M c M B m A m G M A \ M B s c M B s e M d s e *custos B
+*clefC4 M A \ s G M E M E M F M C s G M C s F M E M F M C S D S A ==
+*clefG2 *met(C) L r _3 L r _3 s ee M dd M ee M a M ee M ee M ff M ee M : cc m dd M ee M a m a m b m cc m dd *custos ee
+*clefC2 M e \ M f s e M r _3 M e \ M f M e \ M d M : f m g m a m b s cc M r _4 M cc m cc m b m a m g M f M d s e S e ==
+*clefC3 M g M f # M : g U f ( U e ) M f # s g s d M : c m B m A m G M : A m A s d m c m B M c # \ s e M f *custos d
+*clefC3 S r _3 M r _2 M G M A M B M c \ s c M B M c \ M d s e S r _3 M r _4 M g M f M d M : e m e M e M d M : f m f s e S r _3 s r _3 M r _4 s d M d M e M f M g M e M f M f *custos e
+*clefC2 S r _3 M r _2 M d M d M d s : a M g M a M cc m b m a s a M g s a S a s a S g *custos c
+*clefC4 *k[b-] s F M r _3 M c M c M B - M c M A \ M G M B - M A M F s G S F ==
+*clefG2 s cc M b \ s cc M r _2 M g M : cc m b \ M cc M dd S ee S r _3 *met(C.) M ee M ee M dd s ee M r _4 m cc m b \ *custos a
+*clefG2 s r _3 S cc s b s a s g s f s e s : g M g M a M cc M b \ s a m g m f s g S a ==
+*clefC3 s A M r _3 M d M f M g M d M e M f s g M : f m e s d M c \ s d M r _4 M a M a M d M e *custos f
+*clefF4 *k[b-e-] M BB - M BB - M r _2 M BB - M C M D m : E - U E - M E - M r _3 M E - M F M G M A - M F M E - M D \ s E - M BB - M C s D s D M r _3 M D M G M G M G M F # s G M r _2 M C M F *custos F
+*clefC3 *k[b-] M c \ s d S r _3 M r _4 s a M d S f M g M : d m d M e M c s g M f # s g S r _3 M r _3 s d M B - M : c m B - s A M G M d s d *custos G
+*clefG2 M cc M dd M ee [ s ff s ee ] M dd s ee s r _3 M r _3 s cc M b \ M cc M cc s dd M g M cc M b \ M a m g m a m b m cc / *custos dd
+*clefG2 m ee m dd M ee M dd M r _3 s cc M a M b \ M : cc m cc M dd M b \ M ee m dd m cc m b m a M g s cc M b \ s cc M r _2 M g M b \ M cc M dd M b \ s : cc M b \ *custos g
+*clefC3 m d m e M f M d M e s d M c \ M g s f [ s e s d ] M c \ M e m e m d M c \ m B m G M A M B M c *custos A
+*clefC1 *k[b-e-] s g M f M a s b - M a M : cc m b - m a m g \ s f M f M f s cc s f S r _3 s r _3 s cc s a M b - M f s g s f s r _2 s f s d M f *custos b
+*clefC3 s g m r _3 m c \ M : d m d M c \ M B M A s c s r _3 M r _3 M e m f m d m A m A M c M B m A m e M d m c \ m e M d M c \ m B M A m r _4 m g m g m g *custos f #
+*clefF4 M F M F s G s E s C s D s E s r _3 M E M F M G M E M F # M G s A M G M : A m A M G M G M F *custos E
+*clefC4 M G M F M G M B - s A M D s d M d M : e m d M c M c s B s A S r _2 M r _2 s G M G *custos A
+*clefC3 M A M c M B M A s G M r _3 M g M f M e M d M f M e M d *custos e
+*clefF4 *k[b-] m E m C m D \ m E s F M E S F L r _3 M r _3 s F M F M F M F M BB - M BB - s C M r _3 M F M F M F M BB - M BB - *custos C
+*clefC1 *k[b-] M : b - m cc M : dd m dd M b - s cc M : b - m cc M dd M d m f m g m a m b - s cc s : a s dd M dd M cc M : dd m cc *custos cc
+*clefG2 M cc M a s : g M g M a s g M f s g M r _3 s gg M ff M ee M dd M ff M ee M dd s cc M b M a s g M f S g s r _3 *custos cc
+*clefF4 M A M G # M A M B M G # M A s E s r _3 M r _4 M A M A M G # M A M B M G # M A s E M r _3 M F M F M E M F M G *custos E
+*clefC1 *k[b-] M g s f M e S f S r _3 s r _3 M r _2 M f M b - M g \ m a m g \ m f \ m g \ m a m b - s cc M b X# *custos cc
+*clefC1 M a M b M g # \ M a M f # s g M f s e s r _2 M : e m c M d M e M f M g S f S e ==
+*clefC1 *k[b-] M b - m g m d M : f m f M : e m e s d S r _3 M r _4 M ee - s dd M cc s ee s dd s cc M : b - m b - M a s a s g s f s e S f ==
+*clefC4 M F M E s F s C s r _1 M r _3 s c M B M A \ M c M : G m F M E M F m C m D m E m F *custos G
+*clefC3 *k[b-e-] M : f m g M a - m g m f s e - M r _3 M d M c \ M d M e - M f M g M e - M d M g M f M f M e - M e - *custos d
+*clefC4 M : c m B M A M G M A s F M E M A M G # M A M E M c M B M A \ M G # M A M E s c M B S A S G ==
+*clefC3 s c M B s e S d s r _3 M e M c \ M : f m e m d m c \ M B M : e m d m c m B M A s d M : e m d M c M r _3 M a M f M : g # m f *custos g
+*clefC2 M a M a s g s a L r _3 S r _3 M r _4 s g M e \ s f M e \ M a M : g m g M a M : e \ m e \ m a m a M a *custos a
+*clefC3 *met(C) s : a M g M f M a M g M f M e m d m c \ M d M e s f s r _3 M : g m g M f # M g M e *custos d
+*clefC3 *k[b-] s c M A s c m B X# m A s B - M c M G M : c m c M d M e s f s e M r _2 M G M : c \ m c \ M d M e s f s c s r _2 s B - s A s c *custos d
+*clefC1 *met(C) L r _3 M : d m e m f m g m a m f m g \ m a m b m cc m dd m ee s ff m ee m dd s cc s cc s ee *custos dd
+*clefC3 M e M : f m e M c \ s d M c \ M A s c s G S c M r _4 M d M d M d M c \ M : d m c \ M A M B M c s A S G ==
+*clefC4 *k[b-] M : c m B - M : A \ m G \ M F s c M B - M c M G M A M G M F M E s : F M E M F s A *custos G
+*clefC3 s r _3 S e s d s c s B s A s G s : c M B s c s d S B S A ==
+*clefC4 *k[b-] M r _2 M G M G M G s F s G S r _2 s D M D M D s C M : F m G m A \ m B - M c *custos G
+*clefC2 *k[b-] M f M f M e M d M c s d s r _3 s : a M g s g *custos a
+*clefC2 M : a m a M g s a M g M a M e \ *custos e
+*clefF4 s C s C s D s D S AA M r _4 M A M F M G s A s G s r _3 s : C M AA M BB M C s D s C *custos C
+*clefC2 M : f m g M a M g s g M r _4 s g M g s g [ s a s : g ] m f m e \ s f S g ==
+*clefC2 M f s e S d M r _2 s c M d s e M A M : d m c M d s B s e S d ==
+*clefC3 M c \ M e M f s e M d s e M g M e s f M : e m d s d M c \ s d M g M c s d s e s d M r _3 M B s d *custos d
+*clefF4 *met(C) s r _2 s C M F M G M : A m G M F M E s D s C S r _1 M r _1 M GG M C s C *custos BB
+*clefC2 S g S g S g s r _4 S b - s a s : a M g s a s a s f s r _4 S a s a s cc s a s a L a ==
+*clefF4 m C M BB M : AA m BB s C M r _2 m GG m AA m BB m C s D M C # s D M r _4 s G M F M : E m F s G M r _3 m D \ m E m F m G *custos A
+*clefC2 *met(C) S r _3 s r _3 s : a M d s a M d s a M b M : cc m b M g s a M g S a M r _3 M e \ *custos d
+*clefC2 *met(C) M r _3 M g M e \ M f m g m f m e m d M c M B M : c m B M A M G s c M r _2 M c M : g m f *custos e
+*clefF4 *k[b-e-] s AA s GG S r _2 M r _3 s G M F # M G M A M : B - m B - s A s r _3 M r _4 s G M F M F M E - s D s C M BB - M : D m D M E - M F M D \ M E - M E - s BB - s E - *custos F
+*clefC3 *k[b-] M r _4 s f M f M : d m d M e M : f m e m e U d ( U c \ ) s d s c M r _3 s f M f M f M f *custos e
+*clefC4 m F m G S A s r _3 M r _2 M F M F M C m D m E m F m G s A S r _3 M r _2 s F M C *custos D
+*clefC2 M c s d s e M r _3 M g M a s cc m b m a s b M r _4 M cc M cc M b M : cc m b M a M g s a *custos a
+*clefC4 M G M G M C M F M G M C s c s B - M c M G \ M A \ s G S C ==
+*clefC3 *met(C) s c # s d M : e m e s e s r _3 M r _4 s g m f m e m f m e m d m c \ M B M c M : f m f *custos e
+*clefC4 s : c M B s A s G M r _3 s c M B M : A \ m G M F M E s D s C s r _1 S C s F s D s : A M A \ *custos E
+*clefG2 *k[b-] s a s cc M dd M dd s g s a s b - s a s g s f s a S cc s a s b - s a [ s g s g ] L ==
+*clefC2 *k[b-] *met(C) s r _2 s d s a M b - M g M a M b - m cc m b - m a m g M f M g M c M d m e m d m c m B - *custos A
+*clefC1 s e s f s d S g s r _3 s cc s dd s dd S ee s dd s cc s dd S b S r _3 s r _3 s cc s a s b S cc s b s ~ cc S ~ a S ~ g ==
+*clefC2 M r _4 M cc M b M g s a s g S g ==
+*clefC1 s r _2 M r _2 s e M e M e M r _2 s ee M : ff m ee M dd M dd M : ee m dd M cc M cc M : dd m cc s b M e M cc M a s cc M b M cc *custos b
+*clefC2 M : a m a M g s g M a s g M r _4 s a M g M f M e \ M : f m f M e \ M : a m a m a m a M a M g M g s g M a *custos g
+*clefG2 *k[b-] M b - \ M b - \ M a s cc M b - \ M cc M dd M cc M g s a s g S a s a s b - s a M : a m g s g M f # s g M r _2 M g M dd M dd M ee - s dd M cc M dd M a M b - \ *custos a
+*clefC3 m d m c \ s d M c M B M : c m B s d M c \ s d M r _2 M A M A M A s e M d M e m d m c \ *custos B
+*clefF3 M F \ M G M A s E M r _3 s A M G M c M A s B s A s D S r _3 s D [ s A s G ] s A s F [ s E s D ] M r _4 s A *custos G
+*clefC4 M G M E s D M C M : c m B m A \ m G \ M F M D s G s D S G ==
+*clefC3 M d M d M c \ s f M e s g M f M e M e s d M r _3 s c M B M c M c s d s G M r _3 M g M f *custos d
+*clefC3 s e M f M : d m d M d M c \ s e M d M e s e M c \ s d M A M A M : e m e M A M : c \ m d m e m f *custos e
+*clefC3 M G M G S F s r _1 [ s A s A ] M : c \ m c \ M B s e m d m c \ m B \ m c \ m d \ m B \ M c \ M d M A M d M c \ m A m B m c m d m e m c \ M d *custos B
+*clefG2 M ee s dd M b \ M cc # s dd M cc # M dd M cc M cc M cc s cc s a s a M r _2 s a M b \ s cc M : b \ m cc M dd *custos cc
+*clefG2 s : cc M dd M ee M ff s gg s ee M dd M cc s b s : ee M dd s cc s : b M a s g s : gg M ff s ee s dd *custos cc
+*clefG2 M dd s ee M dd s ee m dd m cc s b M r _4 s ee M ee M dd M : cc m a s dd M cc s dd S r _3 M r _4 M dd M dd M cc M : ff m dd M ff s ee *custos dd
+*clefC3 M e M f M e M a M f # s g M f s e M r _2 M B M G M A M B M c M B M : e m d M : c \ m B M A M r _3 M d M d *custos c
+*clefC1 s e L r _3 L r _3 M b M dd s ee s cc s r _3 s dd s b L r _3 s r _3 M r _3 M g \ M g \ S : a s f s g s e S r _2 L a S a ==
+*clefC2 *met(C) M : e \ m e \ M e \ M e \ M f M e \ M f M g s a M : e \ m f M g s a M g M a M g *custos a
+*clefC3 *k[b-] S : c s r _3 M r _3 M c \ M f M e M f M d M c \ s f M f M d M d M c \ M c \ *custos A
+*clefG2 *k[b-] M b - M g S dd S cc s r _3 s cc s dd s ff M ee M dd M ee M ff s gg s cc M ff M ee M dd M cc s b - s cc s a S b - S b - ==
+*clefC4 *met(C) s G M c s c M B M : c m B M A M G s F M G M C M F M G s A s G s G *custos D
+*clefC4 S G s r _2 s A s A s G S G s F *met(C.) M G M : d m d M d M B M : c m c M A \ M B M : c m A \ s d M c s d s r _3 M r _4 s c M B M G M A \ M B s c M B *custos c
+*clefC4 s e s A s r _3 M r _4 s d M c M A \ M B M c M d S e L r _3 s G M G M G M : c m d M e M e M A \ M B M : c U B ( U A \ ) *custos B
+*clefC4 *met(C) L r _3 S r _3 s C M : D m E m F m G s A M A \ s G M D s F M E M F M D *custos E
+*clefG2 M ff M ff s ee M : cc m b \ m cc m dd M ee m dd M cc m b \ M cc s a m g m f *custos g
+*clefC1 *k[b-e-] m cc m b - m a m g \ M f M b - m a m b - s cc M b X# M cc M : cc m cc s b - s a - M g \ S f S f ; ==
+*clefC4 M : A m G M F M E M G M : D m E M F s C M r _2 M D m E m F m G m E m F m E m D m C M D M F *custos E
+*clefG2 S cc M r _4 M gg M ee M ee M : ff m ee M dd M dd s cc M a M b S cc M r _4 M : ee m dd M cc M b \ M : a m g *custos g
+*clefG2 M r _3 M cc M cc M cc m a m b \ m cc m dd m ee m ff s dd m cc m b \ M a M b M a M b s a M r _3 M ee M ee M ee M ff M : ee m dd *custos cc
+*clefG2 M : dd m dd M dd s cc M cc s cc L r _3 M r _3 M : cc m cc m cc m cc M dd M b \ M cc s cc M cc s b M a M cc M cc M b \ *custos cc
+*clefC1 *k[b-] *met(C) s d S f S : g S b - S : cc S a S : g s b - s a s g s a [ s f s : g ] M f L g ==
+*clefC3 [ s c s r _2 s G s A s : B M c S c s d s d s e s r _3 S c s A s d M c m B m A s B M A s f M f M e m d m c \ s : d m c m B S c ==
+*clefC1 M g M f M f M e M e M d s e s a M g # s a m g # m f s g M : a m a s f # s g M b M b M g # \ s a *custos a
+*clefG2 M a M dd M dd M dd s g M a s cc m b m a s b M g M gg M gg M gg s cc M dd M ff M ff *custos ee
+*clefF4 M D \ M E M C # M D M C M D s AA L r _3 M r _3 m F m G M A M F M r _4 m G m A M B s G m F m G M A s F *custos E
+*clefG2 s g M a M cc M : dd m cc M b \ M cc M b \ s a M g s a M r _3 M ee s ff s ee M dd M cc *custos b
+*clefC3 M c \ M : f m d M f M e M r _3 M d M d M c \ M f M f s e M r _4 M : f m d M e M f m g m f m e m d M : d m c \ M c \ *custos d
+*clefC2 *met(C) S r _3 M : a m a M a M a s g s f M e \ m g m g M g M a M : cc m b *custos a
+*clefC3 *met(C) s : G M A M B M : c \ m d s e m d m c \ M d M c \ s f s : e M A M d m c \ m B \ *custos B
+*clefC1 M a s b s a M g # \ s a M r _4 M ee M ee M dd M dd M cc M cc m b m a M g \ M a M f # M g s d M r _2 M g *custos g
+*clefG2 *k[b-] S : cc s a M b - m a m g M a M f s : g m f # m e s f # S g ==
+*clefC2 s f M c m d m e m f m g s a M g M f M e \ M r _1 M G m A m B m c m d s e S e ==
+*clefC3 M e m f m f M e s f s r _3 M r _4 M f M e m f m f M g M a S r _3 s a M g M f *custos e
+*clefC3 M f M e m e m e M e M e M e s d s c s f s e s d M : f m e M d M c \ s B nX s c M r _3 M c \ M : f m e M d *custos c
+*clefC3 S A [ S G S A L c ] [ S G S A ] [ S G S A ] S G [ S F S A S c ] [ S A S c S c ] [ S A S c S B ] *custos A
+*clefC4 M E s c M d M c M : A \ m G M F s E s : D M C s D s A s r _2 M r _3 s A M D M A \ M D M A \ M B *custos c
+*clefF4 s : C M BB s AA S GG S r _2 s r _2 M r _1 M GG M AA M BB s : C M C s AA s AA S GG S C ==
+*clefF3 *k[b-] M c M C s r _2 M r _3 M G s : A M : c m c M B X# M c M C S G S r _3 s C s D s F M F M E *custos D
+*clefC2 *k[b-] s d M r _3 M g M f M d s e - S d M r _1 M G M A M B - s c M B - M A M : d m e m f m g s f M e M d M c *custos d
+*clefC3 *k[b-] M B - M G m A m B - s c M B X# s c s r _2 s G M d M d M e M c \ m d m c \ m d m e M f m e m d M e M f s g M a s d M e - s d M G M g M g M f # *custos g
+*clefC1 M : b - m b M a s g s a M r _4 M : dd m cc M : b - m b M a s g S a M cc M cc M a M cc M b - *custos a
+*clefC1 s a S r _3 M r _4 M dd M dd M dd M dd m ee m dd s cc M b s a M r _4 M dd s dd s dd M r _4 s a M g # \ s a M b s g M e m a m b *custos cc
+*clefC3 *met(C) S r _3 M r _3 s d M c # \ [ s d s e ] s d S r _3 s : e M d m e m f s d M c M B s e *custos a
+*clefC3 *met(C) M : d m d M d M d s e s A M c \ s c M B s c M : e m e M e M e s f M e s c M A s B M G M : c \ m c M B M c \ *custos d
+*clefC4 M r _2 M G M A s c M B M A M G s : E M D M E M C s D S C ==
+*clefC4 *k[b-] M G m A \ m B - m c m A \ m B - m A \ m G m F s G S F ==
+*clefC1 M a M g \ M a M dd M : ff m ee s dd M : ee m dd M cc M cc M : dd m cc s b M e M cc M dd M b M a *custos cc
+*clefF4 *k[b-e-] M r _2 s C M BB - M : AA m BB - s C M r _2 m BB - m BB - M BB - m AA m AA M : GG m AA s BB - s r _2 M C M C s E - M D \ M D \ M : F m F s E - M E - *custos E
+*clefC3 M B M c \ M d M B M B M A M e M f M f s e M e M c \ s d s e M r _4 M a M : g m f M e *custos e
+*clefC4 M : G m A \ m B m G # M A M : E m F m G m A m B m G m A \ m B m c m d m e m c s d s c s B s r _3 M A m D m D M E M C *custos D
+*clefC2 M f M g s a M g s a M a M g s a m g m f M e \ s d M c s d M a M a s a S a s r _4 S a *custos b
+*clefC2 *met(C) s : g M f M e M d M f M e \ s d S r _3 M r _3 s g M f M e M d M f M e \ s d *custos g
+*clefC1 *k[b-] *met(C) s r _4 s : cc M cc s : a M a m f m g m a m f M g s f M e S : f s r _3 *custos cc
+*clefC3 M f m e m d M c \ M d s e M d M e M A M d M e M c \ M d M G M A m G m F s G M B M c s : A M B S c L B ==
+*clefG2 m ee s dd m cc m b \ M a M b s a M r _3 M dd M ff M ee M : gg m ff M dd M ff M ee M dd s cc *custos dd
+*clefC3 *k[b-] m c \ m d M : e - m d m c \ m B - \ s c M A M d M c \ s B - M c \ S d S c ==
+*clefC4 *k[b-] M A m F m G m A \ m B - M : c m B - m A m G s A s G M F M C S D S G ; ==
+*clefC4 [ s E s D ] s G s r _3 M r _3 M B m c m d m e m c m d m c m B m A \ M : G m F M E M E M D M D m E m F m G m E *custos E
+*clefC2 *met(C) L r _3 S r _3 s r _3 s g M e \ M c M e \ M f M d M d M c M : B U A ( U B ) M : g m e \ s g M f M g M g *custos e
+*clefC2 *met(C) S r _3 s g M f M e \ M f M g M e \ M f M g M e \ M d M e s : e M c s d M f M a *custos a
+*clefC2 *met(C) S e s g s a s : g M g s a s g M f M : a m g s g M f S g s r _4 *custos g
+*clefC4 M r _2 M G M A M E M F # M G M : A m A s G M r _3 M : B m B m A m G S A s G M : A m A M G M G M r _3 M : B m B m A m G *custos A
+*clefC2 M a M f M g s a M r _4 M g M g M g M f M a M g M a s e [ s f s e ] S e ==
+*clefC2 M e \ M d M e M r _3 M e \ s : a M g M f M d S g s r _4 s a s a s g s f s a s a s g s g s f *custos g
+*clefF4 s D s G s C M : F m F s E M r _3 M E M C # M F M E M AA *custos D
+*clefC1 *met(C) S r _3 s r _3 s a M g # \ M a m b m a s g M f s e s r _2 M : a m a M g # \ M a M b m a m g \ *custos a
+*clefC3 M g M e s d s c M : B m c M d M B M c \ M A s e M A s a s g M f M : e m f s g s g *custos e
+*clefF4 *met(C) s r _2 s C M C M D M E M F s G M D \ M G M G M G s E M C M E M F s G M F # S G S r _2 s r _2 M : C m C M C *custos AA
+*clefC3 *k[b-] L r _3 S r _3 s r _3 M : d m d M d M d M e m c \ m d m e m f s g m f # m e M f M g s c M : e m e M f M e M g M : g m f m e m d M e M c M : d m e *custos f
+*clefC4 M : e m d M c M c M : d m c M B M B M : c m B s A M : B m A \ M G M G s A M r _4 s c m B m A \ s B S A ==
+*clefC3 *met(C) L r _3 s r _2 M r _3 M A M A s c M G M c \ M d M e M e M : f m e M d M c \ s d s r _3 M r _3 M c \ M d M e M A *custos d
+*clefC1 s r _2 M r _2 M d M : g m g M g M f M e M d M c M g \ M a M cc M cc M b s cc M r _4 s cc M b s a *custos g
+*clefC3 *met(C) S r _3 M r _2 M : G m A M B M c M d s G M r _2 M : c \ m d m e m f M g s c M B *custos c
+*clefC3 M e M e M c # \ s d s e s d M c \ s d M r _3 M e M d s g M g M : f m g M a M e M a s g M f s e *custos d
+*clefC2 M r _4 M : a m a M a M g M e \ s g M f M d S g M r _3 M e \ m a m a m a m a m g m f M e \ s d S r _2 *custos a
+*clefC3 M : A m G m A m B M c M A s d M c \ s f M e M A M c \ M d M : e m f M : g m f M e m d m c \ M d *custos e
+*clefG2 *k[b-] *met(C) L r _3 S r _3 s r _3 S g [ s a s b X# ] S cc s dd [ s dd s cc S dd ] [ s ee s ff ] *custos ee
+*clefG2 M ff M dd s gg m ff m ee s ff # M dd M : ff m ee m dd m cc s : b - m a m g M a M f M g M cc s a M a s ee M ee *custos ff
+*clefC3 M : B m A s G s c s B S r _3 M r _3 M e M f M c # \ M d M d s d M r _3 M d M e M B M c \ M c \ M c \ M r _3 M : d m d *custos c
+*clefC1 *k[b-] M r _4 s cc M cc M b - M a M g \ M : b - m a m a U g ( U f \ ) M g \ M g \ S a S r _3 s r _4 M r _4 s cc M b - s a *custos g
+*clefC3 s e M r _3 M d M c # \ M : f m e s d M c # \ S d S r _2 M r _2 M c M B M : e m d M c \ M B M e s d M r _3 M c \ M c \ M c \ *custos f
+*clefG2 *met(C) s cc M cc M b \ M cc M dd s b M cc M cc M dd M dd s cc M dd M dd s ee M a s dd M cc # *custos dd
+*clefC3 *k[b-e-] M d M B - M c \ M d M e - M f s e - s r _3 M r _2 M B - M c \ M d M e - M f m g m g M g M g M g s f # m g m d M e X# M f M f M g M g *custos a
+*clefC2 M g s a M r _4 M a M a s a M g s a S a ==
+*clefC1 *k[b-] M r _3 s a M a M g \ M f M f M e M : f m g M a M : b - m a s a M g \ M a s a M g \ M f M f *custos e
+*clefC3 S r _3 M : e m e M d M e M f M d M c \ s f M e M r _4 M f M c \ M d M r _2 M B M : d m d *custos e
+*clefF4 *k[b-] M E M F M G M C s F M E M F M D \ s C S FF L r _3 S r _3 s C M D \ M D \ s E s F M BB - *custos D
+*clefC4 *k[b-] m B - m A \ M G M C S D s G s d M c M C s G M D M : d m d M d M c M A \ M : B - m c M d M D *custos G
+*clefC3 *k[b-e-] s r _3 M c s f M f M : g U f ( U e - ) s d M r _4 s e - M d s c S d ==
+*clefC4 *met(C) s c s B s A M B M c s A s B s c s d s e s d s B *custos d
+*clefF4 *k[b-e-] M G M F s G s r _3 M r _4 m G m G M G M F M F M E - s F S r _3 s r _3 M r _2 M BB - m D \ m E - s F M E - M D \ s E - M D \ s E - s F S BB - ==
+*clefC4 s B M G M G M c M c M B s A M G # M A \ M B M c M A \ M B M c s d M c M : d m d M c M : B m B s A *custos B
+*clefF4 *met(C) s D M : G m F m E m D \ M : C m BB m AA m GG s AA S GG S C s AA M GG s G *custos D
+*clefC4 M c M G M c s c M B M : c m B M A \ M G s d M c M C M F M G s A M F M E m D m E m F m G m A \ m B s c M B s G M r _1 M D M G s G M F # M G M G *custos E
+*clefC3 M c \ M d s f M e s d s c s d s B S A ==
+*clefC3 *k[b-] s A S G s ~ F S ~ A S ~ c S ~ A S ~ B - S ~ A ==
+*clefF3 m F m E s F s C s : G M A S G s F s : C M E s D s AA S r _2 s F M F \ M F \ s G M F \ *custos D
+*clefC4 M A M G M E M F M G M A M D s E *custos e
+*clefC3 *met(C) S r _3 [ s e s f ] s : e M d M c \ M d s B M A M e M e M e M f M f M e *custos A
+*clefC4 *met(C) s G M G M G M A \ M B s c M B M d M d M d s B M G M B s : c M B s A M : B m B M B M B s c M A \ M A \ *custos G
+*clefC3 *k[b-e-] L r _3 s r _3 M r _4 M e - M d M c \ M g M a - M g s f s f M e - M d M e - M d M c \ s e - M d s e - s r _3 s f s d M f M B - *custos c
+*clefF4 *met(C) S D s A M r _4 M A M A M A s : B - M A s G s A M r _4 M A M G M F s A *custos G
+*clefG2 M cc M b \ M cc M : a m g s g M f # s g M : gg m ff s ee S dd ==
+*clefG2 M dd s ee M r _3 M cc M : cc m dd M ee s dd M cc s dd s r _4 *custos ee
+*clefC1 *k[b-] M : a m g \ s g m f m e M f # M a M d M : dd m dd M cc s b - s dd M r _4 s dd M cc *custos cc
+*clefC3 M e M : f m e s e s d M c \ s d s r _4 M r _3 s A M G M c \ s d M e s f s e s r _3 M r _2 s A M G M c \ M d M e M c \ s B S A ==
+*clefC3 *met(C) s r _3 s e M d M e m f m e s d M c \ s B s r _3 M : e m e M d M e M f m e m d s e M f *custos e
+*clefG2 s r _3 M r _3 M cc M : b \ m a M g M g M a M a s g M a M : cc m cc m b \ m b \ M a M a M g M g s g M g s cc M dd s cc M cc M : a *custos b
+*clefC4 *met(C) L r _3 S r _3 M r _4 M e M A M c M B M A \ M G # s B s A M G # s r _2 M r _3 M A M B M B s c M A \ M c *custos B
+*clefG2 *k[b-] M : a m g s g m f # m e s f s g s r _2 S g S dd s : ee M cc s dd M ee M ff s : gg M ff S ee s dd M r _4 M dd *custos dd
+*clefG2 s dd M r _4 M ee M dd M dd m ee m dd m ee m ff M gg M : gg m ff s ff m ee m dd M ee M ff M dd M : gg m ff *custos ff
+*clefC4 M : d m c M B s G s c M B M c s c M B - M A s A s G M F # M G M G M B M d s : e M d s r _3 M G m A \ m B M c M c *custos c
+*clefF4 M : C m BB M GG M BB s AA M : C m BB [ s AA s GG ] L C ==
+*clefC4 M A \ M : c m B M G s A s G S r _3 s r _3 M r _2 M D M E M : G m F M D s E s D s r _2 M r _2 M G M A *custos c
+*clefF4 *k[b-] L r _3 L r _4 L r _3 M r _3 M F M D \ M F M BB - M BB - M C M D M BB - M C s FF M r _3 M F M E M D \ M C *custos C
+*clefF4 s A s G s F s E s D M C # M D M C # M D s AA S D ==
+*clefC2 M g M g M g M a m g m f M e \ s g M : b - m a m g m f M g M f # s g S g ==
+*clefC3 *met(C) L r _3 s e M f M e M c \ M d s e M r _3 M c \ M d M : f m e s d m c m B *custos c
+*clefC2 *met(C) m e \ m e \ m e \ m e \ M : e \ m e \ m e \ m e \ m e \ m d s e m g m g m g m g *custos g
+*clefG2 s cc M r _3 s cc M b \ s a M b \ M cc s dd s g M r _3 s gg M ff M ee M dd M ff M ee M dd M cc s : ee M dd s cc S b ==
+*clefC4 M E M C M D s E s A s r _3 M r _3 M A \ M B M A \ s d s c M r _1 M C M D M C M F M D S A ==
+*clefF3 s A s A s A S G s E S F s F s ~ E S ~ D s C s E s F s ~ D s ~ C S ~ D S C *met(C) s E M F \ M G M A M B *custos c
+*clefG2 m cc m b \ M a M cc s b M r _3 M cc M cc M cc m b \ m a m g m f M e s a M g # S a ==
+*clefG2 M cc M b \ M cc m b m g M a m r _3 m ee M ff M ee M ff m ee m cc M : dd m cc s cc M b \ s cc *custos cc
+*clefF4 M G M E M F M D \ m E m D \ m C m C M BB s AA m A m A M G m A M A M G M F M E M D \ M GG S AA S D ==
+*clefC1 *k[b-e-] M ee - M dd M cc M cc S dd s dd M r _2 s f m c m d M c M c s d s r _2 s cc M dd M dd s cc s b - s cc M dd M dd s cc s b - *custos b
+*clefG2 *k[b-] *met(C|) S r _2 s r _2 s g s dd s ee S ff s ff s ee s cc s ee s ff M ee M dd M ee M ff s : gg M ff s ee S dd s cc *custos b
+*clefF4 s D s AA s r _2 M E M E s : F M E s D s E S r _3 M E M C M : D \ m D \ s E s : D M D \ s C s E M F M G *custos A
+*clefC1 *k[b-e-] s g s a M g m g m g M g m f m d s f s g s f M r _2 s f M e X# M g M g M r _2 M f M : a m a s g M r _3 s b - M b - *custos dd
+*clefC4 s f M r _4 M c M d M e M f M A M B M c s d M r _4 s d M c M B - M d M d M c M c M B s A M r _3 s A M F # s G *custos A
+*clefC3 M d M e s c S d s r _3 S e s d s e s e s : f M f M e M d s c M c \ M : d m c \ m B m A s G *custos d
+*clefC4 s E s F s E S r _2 s r _2 M r _3 M A M A M A m G m F m E m D M C M : A \ m G m F m E s F S C S r _2 M r _3 M A \ M A \ *custos A
+*clefC2 M g M f S e S e == *met(C) s g m g m g M : a m g M f M e \ M g M f M d M e s g M g *custos a
+*clefG2 M b \ s a M g M a M : cc m cc m dd m dd s cc M dd M ee s ff s ee M r _3 M b \ M b \ M b \ s dd M a M b *custos cc
+*clefC2 *k[b-] M : d m e m f m g M a M d M : a m g m a m b - M cc M g M r _3 M : c m d m e \ m f M g M d M f M e \ S d S d ==
+*clefF3 M c M B M A M G M A s E M A M E M G s D M E s F S E ==
+*clefC2 M g # M a s a M g # s a L r _3 M r _4 s a M g M a M g S f S e ==
+*clefC3 *met(C) L r _3 S r _3 [ s c s d ] s B s c s d M d M d M d M d [ s d s e S f ] s e [ S c S d ] [ s A s B ] S A ==
+*clefF4 s r _3 M r _3 M E M F M C M D M E M D \ M AA M : A m G s F s E s : AA M GG s AA S E ==
+*clefC1 M cc # M cc s dd S b M r _3 M g \ s a S g S r _3 M r _3 M a M b M cc M a M b M cc s dd M cc # M : dd m dd M cc M : b m b *custos a
+*clefC2 M A M B M c M d S e ==
+*clefG2 M r _3 M dd M ee M cc s ee s dd s r _3 M r _2 M g M a M f M : a m b M cc M a M b M : a m g s g M f S g ==
+*clefC1 *k[b-] M : d m c s f M e s f M e m d m c s d [ s e s f S r _3 s r _3 M r _2 M f s cc M a M f \ M b - M a s g s f *custos a
+*clefC2 *met(C) s a s a s g M e \ s cc M b M b M b [ s a s a ] s a M cc s b m a m g s a *custos b
+*clefC4 M d M d M : e m d s c M : d m c m B m A \ M G M : c m B s A s B M r _4 M e M c M : f m e m d m c M B M : e m d m c m B M A \ *custos d
+*clefF4 *k[b-e-] m D \ m E - M F M D \ M A M r _4 M G M F M F [ s BB - s C ] S F s r _3 M r _3 M E - M F M D \ M G M C \ M F M F *custos C
+*clefC2 *k[b-] *met(C) s d [ s e s f ] S g s r _4 M r _4 M g M c M e M : d m d M g M c M r _2 M d s c M A s a M a s b X# M cc *custos g
+*clefC3 M : d m c \ M : c \ m B m B m A s c s g M e M f s d M G M A M B M c s A S G ==
+*clefG2 M b M a s cc M r _4 s ff M dd M ff s ee s dd M cc s dd M r _3 s cc M b \ M cc M a s b M cc s dd *custos cc
+*clefC3 *met(C) s : A M A M c \ M c \ M d M e M : A m B M c \ M d s e M r _4 s e M e M d M e *custos f
+*clefC4 *k[b-] M d M A \ M d M G \ M : c U B - ( U A \ ) m G m A M : B - m c s d s c M G M : B - m c s d M c M c *custos A
+*clefC3 m c m B s : c m B m A s : B m A m G M : A m B M c # \ s d M c \ s : f m e m d L e ==
+*clefC2 M : a m g M f M c M d M e M f M : a m g M g M a m g m f M e \ M d \ *custos c
+*clefC4 *met(C) S r _3 s r _3 s A M D s A M B - s A M r _3 M d M d M c M d M e s f s e s A s r _3 *custos A
+*clefC3 *k[b-] *met(C) s : d M d M : G m A M B - M c M d M B - s e - s d M r _3 s d M d M A M B - s c s d *custos d
