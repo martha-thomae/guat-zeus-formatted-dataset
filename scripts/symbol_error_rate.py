@@ -104,7 +104,7 @@ def symbol_error_rate(
 
     return 100 * errors / total
 
-golden_file = Path("./groundtruth.fulltokens.test.lmx")
+golden_file = Path("../ground-truth/groundtruth.fulltokens.test.lmx")
 prediction_file = Path(input("ENTER the PREDICTIONS FILE against which you want to compare the Golden Standard to get the SER: "))
 # Path("./EXPERIMENT2_predictions.lmx") --> 12.090395480225988 (same as in Exp2)
 # Path("./EXPERIMENT3_predictionsBackToMens.lmx") --> 4.293785310734464 (in Exp3, before merging into **mens tokens: 3.023)
