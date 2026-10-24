@@ -12,7 +12,7 @@ import os
 import shutil
 
 
-input_file = Path("../samples.test.txt")
+input_file = Path("../dataset/samples.test.txt")
 output_file = Path("../ground-truth/groundtruth.fulltokens.test.lmx")
 
 dst_dir = "../ground-truth/samples-test-images"
