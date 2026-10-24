@@ -15,13 +15,13 @@ import shutil
 input_file = Path("../samples.test.txt")
 output_file = Path("../ground-truth/groundtruth.fulltokens.test.lmx")
 
-dst_dir = "./ground-truth/samples-test-images"
+dst_dir = "../ground-truth/samples-test-images"
 os.makedirs(dst_dir, exist_ok=True)
 
 with input_file.open("r", encoding="utf-8") as infile, \
 	output_file.open("w", encoding="utf-8") as outfile:
 	for n, sample in enumerate(infile):
-		sample_filepath = "../ground-truth/samples_original_FullMensTokens/" + sample.strip() + ".lmx"
+		sample_filepath = "../ground-truth/" + sample.strip() + ".lmx"
 		with open(sample_filepath, encoding="utf-8") as samplefile:
 			all_tokens = samplefile.readlines()
 
@@ -30,7 +30,7 @@ with input_file.open("r", encoding="utf-8") as infile, \
 
 		outfile.write(result + "\n")
 
-		sample_imagepath = "../samples/" + sample.strip() + ".jpg"
+		sample_imagepath = "../" + sample.strip() + ".jpg"
 		path = Path(sample.strip()+".jpg")
 		result = f"{path.parent.name}-{path.name}"
 		dst = os.path.join(dst_dir, f"out{n+1}_{result}")
