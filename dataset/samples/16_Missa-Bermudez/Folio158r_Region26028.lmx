@@ -1,0 +1,25 @@
+*clefC4
+S r _2
+M r _1
+M E
+M : A \
+m G
+M A \
+M F
+s E
+*met(C.)
+S r _3
+M r _1
+M r _1
+M E
+M : A \
+m G
+M A \
+M E
+s G
+M : A \
+m G \
+M A \
+s E
+M r _1
+*custos E

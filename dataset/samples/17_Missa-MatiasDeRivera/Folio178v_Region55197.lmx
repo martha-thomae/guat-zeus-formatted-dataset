@@ -1,0 +1,18 @@
+*clefC3
+M : e
+m e
+M A
+M : d
+m d
+M e
+M : c \
+m c \
+M d
+M B \
+s : c
+M B
+M c \
+M c \
+S A
+S B
+==

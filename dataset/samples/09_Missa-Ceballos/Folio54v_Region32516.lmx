@@ -1,0 +1,20 @@
+*clefG2
+*met(C)
+L r _3
+s r _3
+M r _4
+s ee
+M ff
+M ee
+M cc
+s dd
+S ee
+S r _3
+M r _4
+M ee
+M ff
+M ee
+M cc
+M dd
+S ee
+==

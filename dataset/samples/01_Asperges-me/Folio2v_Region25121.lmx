@@ -1,0 +1,18 @@
+*clefG2
+*met(C)
+s r _3
+[ s cc
+s dd ]
+s b
+s cc
+s dd
+M cc
+M ee
+s ff
+s dd
+M ee
+s cc
+M b
+M : dd
+m ee
+*custos ff

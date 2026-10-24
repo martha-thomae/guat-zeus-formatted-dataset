@@ -1,0 +1,18 @@
+*clefF4
+s : C
+M BB
+s AA
+S GG
+S r _2
+s r _2
+M r _1
+M GG
+M AA
+M BB
+s : C
+M C
+s AA
+s AA
+S GG
+S C
+==

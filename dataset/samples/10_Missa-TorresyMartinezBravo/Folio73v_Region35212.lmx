@@ -1,0 +1,22 @@
+*clefC1
+M a
+M f #
+s g
+M f #
+s g
+s r _3
+M a
+M f
+s g
+s a
+s g
+s f
+M r _3
+M : cc
+m cc
+M a
+s b -
+s : a
+M g \
+S f
+==

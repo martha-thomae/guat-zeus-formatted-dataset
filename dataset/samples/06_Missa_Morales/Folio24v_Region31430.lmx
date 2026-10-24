@@ -1,0 +1,20 @@
+*clefG2
+s b
+s cc
+s dd
+s ee
+s r _3
+s : a
+M b \
+s cc
+s r _3
+[ S ee
+S ff ]
+S ee
+s cc
+s : cc
+m b
+m a
+s b
+S a
+==

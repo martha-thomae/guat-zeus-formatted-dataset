@@ -1,0 +1,24 @@
+*clefC3
+*met(C)
+s r _3
+M r _2
+s A
+M B
+M c \
+M d
+M e
+s f
+M e
+M A
+M d
+M c \
+M : f
+m e
+M : e
+U d (
+U c \ )
+M d
+s e
+M r _3
+s d
+*custos e

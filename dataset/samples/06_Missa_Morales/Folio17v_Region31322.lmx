@@ -1,0 +1,24 @@
+*clefC3
+s r _4
+M r _3
+M G
+M : A
+m B
+m c
+m d /
+s e
+M : d
+m c \
+s c
+M B
+M c \
+M g
+M e
+M g
+M f
+M e
+s : d
+m c \
+m B \
+s c
+==

@@ -1,0 +1,20 @@
+*clefC1
+*k[b-]
+m f \
+m g \
+m a
+m b -
+M cc
+M g \
+M : cc
+m b -
+m a
+m g \
+s a
+M f \
+M a
+M : a
+m g \
+M e \
+S f #
+==

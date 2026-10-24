@@ -1,0 +1,25 @@
+*clefC1
+*met(C|)
+L r _3
+L r _3
+M r _3
+M cc
+M cc
+s dd
+s b
+s cc
+M a
+S g
+s f #
+M g \
+M b
+M g \
+M a
+M b
+s a
+s g
+m f
+m e
+s f
+L e
+==

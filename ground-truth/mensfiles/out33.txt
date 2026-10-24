@@ -1,0 +1,15 @@
+**mens
+*clefC3
+*met(C|)
+SA
+Sc
+Sc
+Sc
+Sc
+Sc
+Sc
+Sc
+Sc
+[Sc
+SB]
+*custosc

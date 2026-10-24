@@ -1,0 +1,22 @@
+*clefC4
+s A
+[ s B
+s c ]
+S d
+==
+*met(C)
+s r _2
+s A
+M B
+M c
+s : d
+M c
+s B
+M A \
+M e
+M d
+m c
+m B
+M : A
+m G
+*custos F

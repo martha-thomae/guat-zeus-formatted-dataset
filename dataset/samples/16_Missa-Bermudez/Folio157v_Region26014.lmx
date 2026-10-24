@@ -1,0 +1,18 @@
+*clefC3
+M : c \
+m G
+M A
+s G
+M B
+M : A
+m B
+M A
+s B
+M B
+s c
+M A
+*met(C)
+s B
+s c
+S B
+==

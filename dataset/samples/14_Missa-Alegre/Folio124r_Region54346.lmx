@@ -1,0 +1,26 @@
+*clefF4
+s AA
+M r _2
+M BB -
+M BB -y
+M AA
+s GG
+M r _1
+s AA
+M GG
+M FF
+m EE
+m DD
+s AA ;
+s r _3
+M G #
+M A
+M F #
+M G
+s A
+M F #
+M G
+M E
+M F
+s G
+*custos E

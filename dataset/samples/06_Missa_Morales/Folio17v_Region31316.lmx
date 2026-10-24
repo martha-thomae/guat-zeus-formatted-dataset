@@ -1,0 +1,17 @@
+*clefG2
+m a \
+m b \
+m cc
+m dd
+M ee
+M ff
+M dd
+s : ee
+M dd
+M cc
+M : b \
+m a \
+s a
+M g #
+S a
+==

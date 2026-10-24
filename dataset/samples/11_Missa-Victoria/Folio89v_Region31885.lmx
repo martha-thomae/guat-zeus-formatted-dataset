@@ -1,0 +1,23 @@
+*clefC1
+s cc
+s dd
+s r _3
+M r _4
+M cc
+s b
+s a
+M r _3
+M g \
+s cc
+M dd
+M b
+s : cc
+M b
+M a
+s g
+M f
+S e
+*met(C|32)
+S f #
+s r _2
+*custos g

@@ -1,0 +1,24 @@
+*clefG2
+s : dd
+M cc
+s dd
+M b \
+M ee
+M ff
+s dd
+m cc
+m b \
+s cc #
+S dd
+S r _3
+M r _3
+s ee
+M ee
+M ff
+M ff #
+M gg
+M gg
+M dd
+M : ff
+m ee
+*custos dd

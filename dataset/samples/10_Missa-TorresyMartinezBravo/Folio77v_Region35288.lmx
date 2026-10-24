@@ -1,0 +1,18 @@
+*clefC4
+*met(C)
+s A
+s : d
+M c
+M B
+s c
+M B -
+s A
+M A \
+M : d
+m d
+M d
+S c
+s c
+M : A \
+m A \
+*custos B -

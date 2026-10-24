@@ -1,0 +1,16 @@
+**mens
+*clefC4
+MG
+ME
+sD
+MC
+M:c
+mB
+mA\
+mG\
+MF
+MD
+sG
+sD
+SG
+==

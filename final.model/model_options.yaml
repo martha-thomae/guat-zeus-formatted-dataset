@@ -1,4 +1,4 @@
 input_subdivisions:
 - Staves
-musibot_model_name: zeus-EXPGuat-TrueMens-FullTokens
-musibot_model_version: 2026-10-22-213556-final
+musibot_model_name: zeus-EXPGuat-TrueMens-SUBtokens
+musibot_model_version: 2026-10-23-230123-final
