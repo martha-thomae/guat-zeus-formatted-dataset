@@ -31,7 +31,7 @@ def find_pitch_subtoken(line):
     match = pattern.search(line)
     return match.group() if match else None
 
-directory = Path("samples/")
+directory = Path("dataset/samples/")
 # Get the content of the files
 for folder in directory.iterdir():
     if folder.is_dir():
