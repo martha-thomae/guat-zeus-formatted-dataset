@@ -24,10 +24,10 @@ with input_file.open("r", encoding="utf-8") as infile, \
         menstoken_list.append(menstoken)
         print(menstoken_list)
 
-        if 'L' in menstoken_list: #As a single token
-            print(True)
-            index = menstoken_list.index('L')
-            menstoken_list[index-1] = menstoken_list[index-1] + 'L'
-            del menstoken_list[index]
+        # if 'L' in menstoken_list: #As a single token
+        #     print(True)
+        #     index = menstoken_list.index('L')
+        #     menstoken_list[index-1] = menstoken_list[index-1] + 'L'
+        #     del menstoken_list[index]
 
         outfile.write(" ".join(menstoken_list) + "\n")
